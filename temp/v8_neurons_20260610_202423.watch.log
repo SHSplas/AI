@@ -1,0 +1,7 @@
+﻿[2026-06-10T20:24:23] v8 neuron pipeline started
+Python=C:\Users\HP\AppData\Local\Python\pythoncore-3.14-64\python.exe
+[2026-06-10T20:24:23] Seeded v8 checkpoint from v6 best
+[2026-06-10T20:24:23] Training started
+[2026-06-10T22:35:28] Training finished
+[2026-06-10T22:35:33] Smoke eval finished
+[2026-06-10T22:35:33] v8 neuron pipeline complete

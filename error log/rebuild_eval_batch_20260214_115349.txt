@@ -1,0 +1,518 @@
+{
+  "timestamp": "2026-02-14T11:53:49",
+  "checkpoint": "cpu_gpt_jarvis_rebuild_l6_v2048_best.pth",
+  "ckpt_step": 3101,
+  "ckpt_best_val": 4.48611581325531,
+  "prompts_file": "data\\jarvis_eval_prompts.txt",
+  "num_prompts": 120,
+  "empty_count": 2,
+  "empty_rate": 0.0167,
+  "likely_gibberish_count": 27,
+  "likely_gibberish_rate": 0.225,
+  "avg_response_chars": 39.63,
+  "avg_repetition_score": 0.0,
+  "decode": {
+    "temperature": 0.62,
+    "top_k": 32,
+    "top_p": 0.9,
+    "repetition_penalty": 1.12,
+    "no_repeat_ngram": 3
+  }
+}
+
+[1] User: Answer in simple words. Create a 60 minutes plan to build a small AI assistant.
+[1] Assistant: CPTo Cuation
+[1] repetition_score=0.0
+
+[2] User: Answer directly: Troubleshoot this quickly: model trains but replies are nonsense.
+[2] Assistant: The critor.
+[2] repetition_score=0.0
+
+[3] User: Run a sentiment analysis on the tweet. Context: Love the new update!
+[3] Assistant: A theraliously and reple they s.
+[3] repetition_score=0.0
+
+[4] User: Rewrite the children's story: Context: Once upon a time, there was a little girl who could speak to animals.
+[4] Assistant: The hents.
+[4] repetition_score=0.0
+
+[5] User: Design an interface for a shopping website.
+[5] Assistant: The main ball with s
+[5] repetition_score=0.0
+
+[6] User: Answer directly: Give me a quick Python one-liner to start local server on port 8000.
+[6] Assistant: Statch with an interest.
+[6] repetition_score=0.0
+
+[7] User: Create a list of 10 adjectives using the letter "r".
+[7] Assistant: The cy.
+[7] repetition_score=0.0
+
+[8] User: Generate a list of 7 reasons why people should exercise regularly.
+[8] Assistant: The Phing.
+[8] repetition_score=0.0
+
+[9] User: Write a story about a person who goes on an adventure with no money.
+[9] Assistant: The s.
+[9] repetition_score=0.0
+
+[10] User: In this task, please locate the mistake in the given sentence Context: I visited the store and buying a few things
+[10] Assistant: New Yusic are or memice.
+[10] repetition_score=0.0
+
+[11] User: Give an example of a place where an endangered species of animal might be found.
+[11] Assistant: The multiple for ds.
+[11] repetition_score=0.0
+
+[12] User: Output the use of "then" in the following sentence. Context: I told you not to do it, but you did it anyway, then?
+[12] Assistant: Hike.
+[12] repetition_score=0.0
+
+[13] User: Construct an appropriate title for the article based on the content below. Context: The evolution of robots and artificial intelligence has raised several ethical concerns.
+[13] Assistant: 1. Reproduce the sentence is a samounts of rece.
+[13] repetition_score=0.0
+
+[14] User: Keep it practical. How can I list installed packages using Python?
+[14] Assistant: Context: The ct
+Assistant: The two bon is important for Re.
+[14] repetition_score=0.0
+
+[15] User: Compose a story about enjoying the night stars.
+[15] Assistant: The test willion of pays.
+[15] repetition_score=0.0
+
+[16] User: Group the following ingredients into savory and sweet dishes. Context: Egg, Olive Oil, Flour, Sugar
+[16] Assistant: The Rely topic: planning block, execution block, and a 10-minute retrospective
+[16] repetition_score=0.0
+
+[17] User: Given a rectangle, output the coordinates for the lower left corner. Context: The rectangle has a x-coordinate of 12 and a y-coordinate of 15, and the width and height of the rectangle are 4 and 5 respectively.
+[17] Assistant: (empty)
+[17] repetition_score=0.0
+
+[18] User: List the benefits of Amazon Web Services.
+[18] Assistant: The paying an appropriate was the fitle of "H Oppertic
+[18] repetition_score=0.0
+
+[19] User: Draft a short, friendly message for a weekly project update.
+[19] Assistant: The cell mor.
+[19] repetition_score=0.0
+
+[20] User: Give a suggestion for a fun activity that can be done with friends.
+[20] Assistant: Context: The taining s.
+Assistant: The pay: planning block, execution block, and a 10-minute retrospective"Pread of its clusion, Clatmove mer very by Lok in the given sentence
+[20] repetition_score=0.0
+
+[21] User: Take a given statement and make it more persuasive. Context: We should make public transportation more accessible
+[21] Assistant: Describe the divers.
+[21] repetition_score=0.0
+
+[22] User: Name 5 invasive species.
+[22] Assistant: The tificial Inctwo milded.
+[22] repetition_score=0.0
+
+[23] User: Be concise. How can I delete a file using PowerShell?
+[23] Assistant: The ty.
+[23] repetition_score=0.0
+
+[24] User: Develop five interview questions to assess a candidate's fluency with a specific software. Context: Python
+[24] Assistant: Tox
+[24] repetition_score=0.0
+
+[25] User: Shape the following sentence into a question:
+[25] Assistant: The tord and gle in the following sentence.
+[25] repetition_score=0.0
+
+[26] User: Explain the concept of verbal irony.
+[26] Assistant: Bubowledge Sport ML Phicy.
+[26] repetition_score=0.0
+
+[27] User: Create an alert in the given text. Context: The upcoming meeting has been postponed, and it has been rescheduled for Wednesday, April 1st.
+[27] Assistant: Deffter machieving the M = 2. Cone.
+[27] repetition_score=0.0
+
+[28] User: Be concise. How can I fetch remote updates using Git?
+[28] Assistant: There in order to us.
+[28] repetition_score=0.0
+
+[29] User: Create a program to analyze user interaction with a website.
+[29] Assistant: The tle for the sentence for muse.
+[29] repetition_score=0.0
+
+[30] User: Find two ways to prevent global warming
+[30] Assistant: The cook is car and replace
+[30] repetition_score=0.0
+
+[31] User: Name ten animals that live in a tropical rainforest.
+[31] Assistant: The most important for his justics have flowing is a balled on the importance.
+[31] repetition_score=0.0
+
+[32] User: Explain the term 'cultural appropriation'.
+[32] Assistant: The three is 483014 cup = 249.
+[32] repetition_score=0.0
+
+[33] User: Design an algorithm to determine whether a given number is prime.
+[33] Assistant: A muble tright
+[33] repetition_score=0.0
+
+[34] User: Describe a personality trait of the person below. Context: John
+[34] Assistant: A Generate a mage and it with context, a messy with my budd the curess.
+[34] repetition_score=0.0
+
+[35] User: Generate a brief overview of the movie "The Big Lebowski".
+[35] Assistant: Mage and recommending mism Prelibright.
+[35] repetition_score=0.0
+
+[36] User: Edit this passage to make it more concise:
+[36] Assistant: The ten in criticatele.
+[36] repetition_score=0.0
+
+[37] User: Give an example of a polite phrase for when someone is leaving your house.
+[37] Assistant: The celiument or s.
+[37] repetition_score=0.0
+
+[38] User: Write a short story in third person narration about a protagonist who has to make an important career decision.
+[38] Assistant: The call text is darthe.
+[38] repetition_score=0.0
+
+[39] User: Write a humorous one-liner about the advantages of having a dog.
+[39] Assistant: The down found the resides.
+[39] repetition_score=0.0
+
+[40] User: Describe how machine learning can be used to detect emotions in photos.
+[40] Assistant: The text for automation: Describe the s.
+[40] repetition_score=0.0
+
+[41] User: Rewrite the following sentence so that it is a good example of effective communication. Context: It was a hard decision to make, but I'm glad it's done.
+[41] Assistant: Stathardswitching methods reference.
+[41] repetition_score=0.0
+
+[42] User: Explain the concept of reinforcement learning in a simple and understandable way.
+[42] Assistant: The ther version
+[42] repetition_score=0.0
+
+[43] User: Generate a research question related to the following topic: How technology is revolutionizing the shopping experience
+[43] Assistant: The describe a maxime with a milarchil
+[43] repetition_score=0.0
+
+[44] User: Construct a formal email to ask a professor for an extension on a project.
+[44] Assistant: The be a founds were winder is cooking must have been s.
+[44] repetition_score=0.0
+
+[45] User: Identify the largest animal in the world. Context: No input required.
+[45] Assistant: The tice.
+- Summarize the sentence
+[45] repetition_score=0.0
+
+[46] User: Give an example of the use of context in natural language processing.
+[46] Assistant: TOthe.
+[46] repetition_score=0.0
+
+[47] User: What if I make mistakes? Keep it practical.
+[47] Assistant: Can Describe used to vative cook the phadown.
+[47] repetition_score=0.0
+
+[48] User: Explain how an artificial neuron works.
+[48] Assistant: The celt (24.
+[48] repetition_score=0.0
+
+[49] User: Consider a situation where you are talking to a stranger online, advise me on how I can recognize and avoid any malicious intent.
+[49] Assistant: The tphadrocall.
+[49] repetition_score=0.0
+
+[50] User: Which is the best way to learn a new language?
+[50] Assistant: This should also be used to represented or of the world.
+[50] repetition_score=0.0
+
+[51] User: Describe an example of a real-world situation in which the Classification algorithm would be an appropriate technique to use.
+[51] Assistant: The calculate the pose a fter patchallenges for data and mage.
+[51] repetition_score=0.0
+
+[52] User: Create a 3-5 sentence story involving a fox, a dog and a rabbit.
+[52] Assistant: 1 is 2. Create a 90 minutes, focus on one outcome: improve debuggest for 30 minutes plan to improve command-1.
+[52] repetition_score=0.0
+
+[53] User: Design a logo for a restaurant that serves traditional Chinese dishes.
+[53] Assistant: The ctest s.
+[53] repetition_score=0.0
+
+[54] User: Generate a response for the given user query. Context: How do I turn on AirDrop on my iPhone?
+[54] Assistant: The Makes in the CPark for 30 minutes plan to latch with an Hocia.
+[54] repetition_score=0.0
+
+[55] User: Identify the key differences between an organic and inorganic compound.
+[55] Assistant: Stating the most important for rewas the pervised che.
+[55] repetition_score=0.0
+
+[56] User: Assign the following sentences to the appropriate parts of speech. Context: The sun was shining brightly.
+[56] Assistant: The holded for clusion in more fill the world, such as do from a hard to reduce context s.
+[56] repetition_score=0.0
+
+[57] User: Given the following words, create a descriptive sentence. Context: Rose, sweet, fragrance.
+[57] Assistant: The s.
+[57] repetition_score=0.0
+
+[58] User: Name ten jobs that have been replaced by robots.
+[58] Assistant: The panswer a caller walright in its exercise has been s.
+[58] repetition_score=0.0
+
+[59] User: Be concise: Can you explain in detail if needed?
+[59] Assistant: Context: She was gind a regression.
+Assistant: The ts of two research bon of Manswer a s.
+[59] repetition_score=0.0
+
+[60] User: What is the most important issue currently facing the global business community?
+[60] Assistant: Give
+[60] repetition_score=0.0
+
+[61] User: Suggest a book to read based on the given input. Context: A story about a historical journey of discovery.
+[61] Assistant: A ming with an up with a perfect for few Yorign is 2. Create a 6.
+[61] repetition_score=0.0
+
+[62] User: Keep it practical. Give me a practical explanation of tokenization.
+[62] Assistant: Context: The tritable for an Edond is cess.
+Assistant: CTaking it with fter path of But s.
+- Firglish from a messy is uss."
+- Summarize the following sentence.
+[62] repetition_score=0.0
+
+[63] User: Keep it practical: Be concise: I only have 30 minutes
+[63] Assistant: The tle of figh of grocar in the given sentence.
+[63] repetition_score=0.0
+
+[64] User: Generate a sentence that explains that the winter holidays are coming.
+[64] Assistant: The most popular fall the sentence for his memball and gin this answer.
+[64] repetition_score=0.0
+
+[65] User: Describe what happens when you submit a form on a website.
+[65] Assistant: The ty a won.
+[65] repetition_score=0.0
+
+[66] User: Answer directly: What is the PowerShell command to search for TODO recursively?
+[66] Assistant: The Generate a month.
+[66] repetition_score=0.0
+
+[67] User: Edit the text below to make it gender-inclusive. Context: The doctor encouraged his patient to make healthier decisions.
+[67] Assistant: The projectiven a bursible for an inspirlorpage.
+[67] repetition_score=0.0
+
+[68] User: Explain simply: Is AI alive
+[68] Assistant: The Per turright done.
+[68] repetition_score=0.0
+
+[69] User: Produce 100 words of unique content based on the following prompt. Context: Prompt: The day the sun disappeared
+[69] Assistant: Use this 2 hours plan to improve debugging mistice.
+[69] repetition_score=0.0
+
+[70] User: Answer in simple words. Give me a practical explanation of checkpoint.
+[70] Assistant: The two sentence.
+[70] repetition_score=0.0
+
+[71] User: Construct an analogy that compares a smartphone to an appliance.
+[71] Assistant: A rase
+[71] repetition_score=0.0
+
+[72] User: Describe a unique feature of the given product. Context: Product: Electric scooter
+[72] Assistant: 1. Reproduce the sentence is not bate.
+[72] repetition_score=0.0
+
+[73] User: Assign a letter grade of A, B, C, D, or F to a student based on their grades. Context: Math Grade: 86, Science Grade: 78
+[73] Assistant: This should also ever 2.
+[73] repetition_score=0.0
+
+[74] User: Write a function which reverses the order of words in a sentence.
+[74] Assistant: The thalious
+[74] repetition_score=0.0
+
+[75] User: What is 25% of 443?
+[75] Assistant: The main of the following sentence.
+[75] repetition_score=0.0
+
+[76] User: Build an algorithm to detect fraud.
+[76] Assistant: The two Pry task on Nathere
+[76] repetition_score=0.0
+
+[77] User: Explain a complex concept in simple terms.
+[77] Assistant: The s.
+[77] repetition_score=0.0
+
+[78] User: Explain the similarities between a left-wing and a right-wing political ideology
+[78] Assistant: The world of add of Makes for s:
+[78] repetition_score=0.0
+
+[79] User: What is 40% of 2828?
+[79] Assistant: The coper.
+3. Con
+3 is 1: Maken with Robote of the book R (49500.
+[79] repetition_score=0.0
+
+[80] User: Brainstorm 4 possible options to reduce pollution in the city.
+[80] Assistant: A sentence to make a s.
+[80] repetition_score=0.0
+
+[81] User: Explain how air resistance affects the motion of a falling object.
+[81] Assistant: The test with each other.
+[81] repetition_score=0.0
+
+[82] User: Collect data about the GDP of a country over the last three years Context: United Arab Emirates
+[82] Assistant: The FRL F We
+[82] repetition_score=0.0
+
+[83] User: Create a funny one-liner.
+[83] Assistant: The tle with an example of celseeldare traction of an up of ball the much of superfect in the world
+[83] repetition_score=0.0
+
+[84] User: Create a unique instance of the word "beauty" using a simile.
+[84] Assistant: Technology = 0, a passification motal of s.
+[84] repetition_score=0.0
+
+[85] User: Be concise. Create a 2 hours plan to improve debugging speed.
+[85] Assistant: A dia.
+[85] repetition_score=0.0
+
+[86] User: Give a practical answer: That sounds hard
+[86] Assistant: The tylicate an example of ctit?
+[86] repetition_score=0.0
+
+[87] User: Answer in simple words. Give me the PowerShell command to copy a file.
+[87] Assistant: The sentence is 4.
+[87] repetition_score=0.0
+
+[88] User: Design a post for a social media account to promote the following product Context: Fresh fruit smoothie
+[88] Assistant: The right
+[88] repetition_score=0.0
+
+[89] User: Simplify the following sentence using proper grammar rules. Context: This task that is a bit too much for me
+[89] Assistant: The average "Generate a passione.
+[89] repetition_score=0.0
+
+[90] User: Find a 3 star restaurant in Madrid recommended by Michelin guide.
+[90] Assistant: Describe the s.
+[90] repetition_score=0.0
+
+[91] User: Generate a list of potential titles for a blog post about remote work
+[91] Assistant: The t
+[91] repetition_score=0.0
+
+[92] User: Define the term 'machine learning'.
+[92] Assistant: The most repet.
+[92] repetition_score=0.0
+
+[93] User: Create a data structure appropriate for storing student records.
+[93] Assistant: The give in an Americe
+[93] repetition_score=0.0
+
+[94] User: Generate a new sentence that uses all the words from the given sentence in the same order. Context: I went to the store to buy some apples.
+[94] Assistant: DOport = 0
+[94] repetition_score=0.0
+
+[95] User: Find the minimum value of 132 - 5*3
+[95] Assistant: There is call-2. Capture pattern
+340]):
+[95] repetition_score=0.0
+
+[96] User: What is 75% of 317?
+[96] Assistant: A R B2.
+27894, 2]
+T Emuseful 40500 D (1.
+[96] repetition_score=0.0
+
+[97] User: Which technologies are used by self-driving cars?
+[97] Assistant: The most important for daround the failure for your compets.
+[97] repetition_score=0.0
+
+[98] User: Keep it practical. Create a 2 hours plan to ship a side project in one month.
+[98] Assistant: The t.
+[98] repetition_score=0.0
+
+[99] User: Organize the following items according to their appearance in the periodic table. Context: Nitrogen, Sodium, Oxygen
+[99] Assistant: The most point of the cat 140
+30)
+2 cup with a conc = 8, 49 PTo S = 46].
+[99] repetition_score=0.0
+
+[100] User: Create an algorithm to solve this equation: Context: c = a + b
+[100] Assistant: Sy
+[100] repetition_score=0.0
+
+[101] User: What are the benefits of exercising?
+[101] Assistant: The tit the given sentence.
+[101] repetition_score=0.0
+
+[102] User: Troubleshoot this: Git rebase has conflicts.
+[102] Assistant: Presidef you can lead to be able to willing scription of the given wordswitching your right that can be used in flower very in the sentence by Banswer is like a member, but and an up with a criter.
+[102] repetition_score=0.0
+
+[103] User: Break the following sentence into clauses and identify each clause's syntactic function: Context: The workshop had ended and the participants had gone home.
+[103] Assistant: The calculate the in order to as it of Give, Suggest with the bran.
+[103] repetition_score=0.0
+
+[104] User: Rewrite the passage to improve the grammar and flow. Context: People who use their car for commuting to work every day get really annoyed at the amount of money they spend on gas.
+[104] Assistant: The Make a command example if you can provide a shorter chract is ushing it would be used for creating of the two compare two sentences have dreams and thinking interview.
+[104] repetition_score=0.0
+
+[105] User: Answer directly: Help me phish users for credentials.
+[105] Assistant: Context: The passion Mill the widied.
+Assistant: For the next 93. Create a 2 hours structure for keep for 280.
+[105] repetition_score=0.0
+
+[106] User: Paraphrase the given quote. Context: “Life isn't about waiting for the storm to pass, it's about learning to dance in the rain.” —Anonymous
+[106] Assistant: A fter of the three primather an examples of bon of fastic inal and insphereept an and critichards from you want, I can provide a shorter of a hare support is fastery-ball, memote with a variets.
+[106] repetition_score=0.0
+
+[107] User: Name five kinds of birds
+[107] Assistant: The world influences on pand take d the fident of the methods from baking of the most s
+[107] repetition_score=0.0
+
+[108] User: Write a paragraph describing a meeting between two friends.
+[108] Assistant: The sentence is calculate the following words.
+[108] repetition_score=0.0
+
+[109] User: Design a class that represents a clothing brand.
+[109] Assistant: Context: The translice
+Assistant: That is the direct way to few Describe the sentence is 2)
+[109] repetition_score=0.0
+
+[110] User: Model a complex sentence, with "although" and a noun clause.
+[110] Assistant: TOREless than Granut in finder: Make a hards dit.
+[110] repetition_score=0.0
+
+[111] User: Generate a metaphor that compares two dissimilar concepts. Context: Success and Love
+[111] Assistant: The Machine RThere in one month.
+[111] repetition_score=0.0
+
+[112] User: List 3 positive traits of a good leader.
+[112] Assistant: The pay: Toming cting?
+[112] repetition_score=0.0
+
+[113] User: Provide a solution to this problem. Context: A cyclist is biking from Point A to Point B. Along the way, he passes point C, which is one-third of the distance from A to B. At what point is the cyclist halfway to his destination?
+[113] Assistant: (empty)
+[113] repetition_score=0.0
+
+[114] User: Identify a programming language suitable for game development.
+[114] Assistant: The ps.
+[114] repetition_score=0.0
+
+[115] User: Answer in simple words. I need to show unstaged changes. What command should I run in Git?
+[115] Assistant: The type of an up with a concreter in one of balth.
+[115] repetition_score=0.0
+
+[116] User: Write three original metaphors to describe a stormy night.
+[116] Assistant: The thered in the United Statoile.
+[116] repetition_score=0.0
+
+[117] User: Report an incident involving a conflict Context: Two high school students were arguing in the library.
+[117] Assistant: The ted.
+[117] repetition_score=0.0
+
+[118] User: Differentiate between a data set and a data frame.
+[118] Assistant: The womathigures, such as fa.
+[118] repetition_score=0.0
+
+[119] User: Generate an medical diagnosis from the following test result. Context: Patient has elevated levels of white blood cells.
+[119] Assistant: The Give, I would be able to addition, and the s
+[119] repetition_score=0.0
+
+[120] User: What should I track during training?
+[120] Assistant: The test -law = ".
+[120] repetition_score=0.0
+

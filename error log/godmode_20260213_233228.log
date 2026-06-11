@@ -1,0 +1,122 @@
+PyTorch threads: 6
+Interop threads: 1
+Vocab size: 2048
+Loaded jarvis_train.txt: tokens=384374 windows=384118
+Loaded jarvis_val.txt: tokens=7062 windows=6806
+Fresh start
+TRAINING STARTED | from 0 to 16999 | warmup=750
+Step       0 | train 7.8435 | ema 7.8435 | val 7.7990 | lr 0.000000
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step     200 | train 6.8160 | ema 6.9055 | val 6.7611 | lr 0.000021
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step     400 | train 5.8544 | ema 5.7797 | val 6.1554 | lr 0.000043
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step     600 | train 4.7948 | ema 4.8402 | val 5.3531 | lr 0.000064
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step     800 | train 4.5924 | ema 4.2974 | val 5.1806 | lr 0.000080
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    1000 | train 3.3970 | ema 3.7713 | val 4.9542 | lr 0.000079
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    1200 | train 3.5070 | ema 3.4845 | val 4.1067 | lr 0.000079
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    1400 | train 3.0436 | ema 3.3388 | val 3.3109 | lr 0.000079
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    1600 | train 2.7047 | ema 3.0408 | val 3.8608 | lr 0.000078
+Step    1800 | train 2.7518 | ema 2.9152 | val 4.2552 | lr 0.000078
+Step    2000 | train 2.6671 | ema 2.8718 | val 4.2075 | lr 0.000077
+Step    2200 | train 2.4032 | ema 2.7860 | val 3.7748 | lr 0.000077
+Step    2400 | train 2.6997 | ema 2.7428 | val 4.1001 | lr 0.000076
+Step    2600 | train 2.7536 | ema 2.6973 | val 3.8641 | lr 0.000075
+Step    2800 | train 2.6657 | ema 2.5243 | val 3.7580 | lr 0.000075
+Step    3000 | train 2.4221 | ema 2.5432 | val 3.5124 | lr 0.000074
+Step    3200 | train 2.5982 | ema 2.4057 | val 4.1455 | lr 0.000073
+Step    3400 | train 2.1728 | ema 2.3326 | val 3.0910 | lr 0.000072
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    3600 | train 2.2595 | ema 2.3192 | val 4.0841 | lr 0.000071
+Step    3800 | train 2.4594 | ema 2.3651 | val 3.7457 | lr 0.000071
+Step    4000 | train 2.2953 | ema 2.3044 | val 2.8514 | lr 0.000070
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    4200 | train 2.5806 | ema 2.2615 | val 3.6671 | lr 0.000069
+Step    4400 | train 2.1021 | ema 2.3302 | val 3.3837 | lr 0.000067
+Step    4600 | train 1.8947 | ema 2.1817 | val 3.9468 | lr 0.000066
+Step    4800 | train 2.5307 | ema 2.1410 | val 3.4819 | lr 0.000065
+Step    5000 | train 2.3439 | ema 2.1028 | val 3.8158 | lr 0.000064
+Step    5200 | train 2.2981 | ema 2.1363 | val 3.8333 | lr 0.000063
+Step    5400 | train 2.2864 | ema 2.0366 | val 3.5377 | lr 0.000062
+Step    5600 | train 2.0410 | ema 2.0636 | val 2.8317 | lr 0.000060
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    5800 | train 2.0697 | ema 2.0956 | val 3.4083 | lr 0.000059
+Step    6000 | train 2.1582 | ema 1.9745 | val 3.1972 | lr 0.000058
+Step    6200 | train 2.4557 | ema 2.0292 | val 3.4055 | lr 0.000056
+Step    6400 | train 2.1518 | ema 1.8937 | val 3.1288 | lr 0.000055
+Step    6600 | train 1.8349 | ema 1.9275 | val 3.7902 | lr 0.000054
+Step    6800 | train 1.6741 | ema 1.8943 | val 3.5638 | lr 0.000052
+Step    7000 | train 1.8509 | ema 1.9300 | val 3.0451 | lr 0.000051
+Step    7200 | train 1.5524 | ema 1.8262 | val 3.8423 | lr 0.000050
+Step    7400 | train 2.4143 | ema 1.9540 | val 2.6399 | lr 0.000048
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step    7600 | train 2.2616 | ema 1.8863 | val 3.0911 | lr 0.000047
+Step    7800 | train 1.9786 | ema 1.8294 | val 3.6821 | lr 0.000045
+Step    8000 | train 1.6403 | ema 1.8547 | val 3.2043 | lr 0.000044
+Step    8200 | train 1.6908 | ema 1.7895 | val 3.0099 | lr 0.000042
+Step    8400 | train 1.6242 | ema 1.8024 | val 2.9959 | lr 0.000041
+Step    8600 | train 1.9276 | ema 1.8349 | val 2.6851 | lr 0.000039
+Step    8800 | train 2.4646 | ema 1.8549 | val 2.9213 | lr 0.000038
+Step    9000 | train 1.6049 | ema 1.7709 | val 3.2152 | lr 0.000036
+Step    9200 | train 1.3877 | ema 1.7712 | val 3.1091 | lr 0.000035
+Step    9400 | train 1.9368 | ema 1.7911 | val 3.2005 | lr 0.000033
+Step    9600 | train 1.6211 | ema 1.7869 | val 3.2085 | lr 0.000032
+Step    9800 | train 2.2136 | ema 1.9205 | val 3.0189 | lr 0.000030
+Step   10000 | train 2.0598 | ema 1.7996 | val 3.7869 | lr 0.000029
+Step   10200 | train 1.2500 | ema 1.7600 | val 2.7395 | lr 0.000028
+Step   10400 | train 1.3274 | ema 1.7788 | val 2.3929 | lr 0.000026
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step   10600 | train 1.4875 | ema 1.6445 | val 2.9852 | lr 0.000025
+Step   10800 | train 1.8247 | ema 1.7356 | val 2.6817 | lr 0.000023
+Step   11000 | train 2.3448 | ema 1.7794 | val 3.1436 | lr 0.000022
+Step   11200 | train 1.9724 | ema 1.7862 | val 2.6739 | lr 0.000021
+Step   11400 | train 1.7843 | ema 1.6295 | val 3.0901 | lr 0.000020
+Step   11600 | train 1.8558 | ema 1.7269 | val 2.9175 | lr 0.000018
+Step   11800 | train 1.8977 | ema 1.7544 | val 3.6990 | lr 0.000017
+Step   12000 | train 1.5994 | ema 1.8369 | val 2.1822 | lr 0.000016
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step   12200 | train 1.5576 | ema 1.6983 | val 3.2495 | lr 0.000015
+Step   12400 | train 1.9231 | ema 1.6291 | val 2.5992 | lr 0.000014
+Step   12600 | train 1.3741 | ema 1.6256 | val 2.5849 | lr 0.000013
+Step   12800 | train 1.5205 | ema 1.6699 | val 3.6957 | lr 0.000011
+Step   13000 | train 1.7558 | ema 1.7090 | val 3.2602 | lr 0.000010
+Step   13200 | train 1.9834 | ema 1.7659 | val 3.3394 | lr 0.000009
+Step   13400 | train 1.4411 | ema 1.7165 | val 2.6012 | lr 0.000009
+Step   13600 | train 2.4662 | ema 1.7705 | val 3.4817 | lr 0.000008
+Step   13800 | train 1.9326 | ema 1.6725 | val 3.1235 | lr 0.000008
+Step   14000 | train 1.4544 | ema 1.7498 | val 3.1153 | lr 0.000008
+Step   14200 | train 1.5649 | ema 1.6880 | val 3.2650 | lr 0.000008
+Step   14400 | train 1.6188 | ema 1.6990 | val 3.2720 | lr 0.000008
+Step   14600 | train 1.9326 | ema 1.6957 | val 2.9383 | lr 0.000008
+Step   14800 | train 1.7196 | ema 1.6769 | val 3.2897 | lr 0.000008
+Step   15000 | train 2.5429 | ema 1.7264 | val 3.4649 | lr 0.000008
+Step   15200 | train 2.2082 | ema 1.7155 | val 3.1085 | lr 0.000008
+Step   15400 | train 1.5023 | ema 1.6888 | val 2.9691 | lr 0.000008
+Step   15600 | train 1.9646 | ema 1.6738 | val 3.3870 | lr 0.000008
+Step   15800 | train 2.1024 | ema 1.7418 | val 3.1118 | lr 0.000008
+Step   16000 | train 1.6859 | ema 1.6169 | val 3.0250 | lr 0.000008
+Step   16200 | train 2.0910 | ema 1.6935 | val 2.8608 | lr 0.000008
+Step   16400 | train 1.3481 | ema 1.7116 | val 3.6439 | lr 0.000008
+Step   16600 | train 1.4441 | ema 1.6679 | val 3.4479 | lr 0.000008
+Step   16800 | train 1.4877 | ema 1.7020 | val 3.2741 | lr 0.000008
+TRAINING COMPLETE | elapsed=550.85 min | best_val=2.1822
+PyTorch threads: 6
+Interop threads: 1
+Vocab size: 2048
+Loaded jarvis_train.txt: tokens=384374 windows=384118
+Loaded jarvis_val.txt: tokens=7062 windows=6806
+Optimizer state restored
+Resumed from step 17000
+TRAINING STARTED | from 17000 to 17999 | warmup=100
+Step   17000 | train 1.8419 | ema 1.6757 | val 2.6164 | lr 0.000000
+Step   17200 | train 1.8472 | ema 1.6584 | val 2.0870 | lr 0.000027
+New best checkpoint saved to cpu_gpt_jarvis_godmode_l6_v2048_best.pth
+Step   17400 | train 1.5347 | ema 1.6042 | val 3.5964 | lr 0.000020
+Step   17600 | train 1.6021 | ema 1.6447 | val 2.8027 | lr 0.000010
+Step   17800 | train 1.6034 | ema 1.6637 | val 2.8628 | lr 0.000003
+TRAINING COMPLETE | elapsed=31.99 min | best_val=2.0870

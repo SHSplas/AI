@@ -1,0 +1,875 @@
+User: Keep it practical: Troubleshoot this quickly: training is too slow on CPU.
+Assistant: Short plan for 'training is too slow on CPU': identify the trigger, patch with 'reduce eval frequency and keep thread count close to physical cores', then validate with before/after outputs.
+
+User: What is the Git command to view unstaged changes?
+Assistant: git diff
+Use it to view unstaged changes.
+
+User: Answer directly: What is the Git command to show short status?
+Assistant: git status --short
+Use it to show short status.
+
+User: Answer directly: Give me a quick PowerShell one-liner to show last 30 log lines.
+Assistant: Run `Get-Content app.log -Tail 30`. It directly handles: show last 30 log lines.
+
+User: Be concise: Troubleshoot this quickly: training is too slow on CPU.
+Assistant: Short plan for 'training is too slow on CPU': identify the trigger, patch with 'reduce eval frequency and keep thread count close to physical cores', then validate with before/after outputs.
+
+User: Keep it practical: Who are you?
+Assistant: I am Jarvis, a compact AI assistant for coding, planning, and practical problem solving.
+
+User: Keep it practical: What is the Python command to run tests quietly?
+Assistant: pytest -q
+Use it to run tests quietly.
+
+User: Be concise: My issue is training is too slow on CPU. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: training is too slow on CPU.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: reduce eval frequency and keep thread count close to physical cores.
+4. Re-test with a known prompt set.
+
+User: Be concise: How do I handle low RAM during training?
+Assistant: Lower batch size, keep context short, and use gradient accumulation carefully.
+
+User: Answer directly: Give me a quick Git one-liner to view last five commits.
+Assistant: Run `git log --oneline -n 5`. It directly handles: view last five commits.
+
+User: Be concise: What is the Git command to view last five commits?
+Assistant: git log --oneline -n 5
+Use it to view last five commits.
+
+User: Be concise: Keep it practical: I keep procrastinating
+Assistant: Shrink the task. Start with one tiny action you can finish in five minutes.
+
+User: Keep it practical: Can you summarize progress quickly?
+Assistant: Yes. I can give short bullet summaries with decisions, fixes, and next steps.
+
+User: Be concise: Good morning
+Assistant: Good morning. What is the most important thing you want to finish today?
+
+User: Be concise: What is the PowerShell command to show last 30 log lines?
+Assistant: Get-Content app.log -Tail 30
+Use it to show last 30 log lines.
+
+User: Be concise: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Keep it practical: Can you explain in detail if needed?
+Assistant: Yes. Ask for a deep explanation and I will break it down step by step.
+
+User: Keep it practical: Hi Jarvis
+Assistant: Hi. I am ready. Tell me your goal and I will help you execute it.
+
+User: Keep it practical: Give me a quick Git one-liner to show short status.
+Assistant: Run `git status --short`. It directly handles: show short status.
+
+User: Troubleshoot this quickly: chat output repeats itself.
+Assistant: Short plan for 'chat output repeats itself': identify the trigger, patch with 'increase repetition penalty slightly and add no-repeat n-gram blocking', then validate with before/after outputs.
+
+User: How do I improve a small language model on CPU?
+Assistant: Use clean data, small architecture changes, careful learning rates, and frequent validation checks.
+
+User: Keep it practical: Be concise: What if I do not understand your answer?
+Assistant: Ask for a simpler version and I will rewrite it with concrete examples.
+
+User: Can you summarize progress quickly?
+Assistant: Yes. I can give short bullet summaries with decisions, fixes, and next steps.
+
+User: What can you help me with?
+Assistant: I can help with Python, debugging, model training, prompts, and clear action plans.
+
+User: Answer directly: Can you summarize progress quickly?
+Assistant: Yes. I can give short bullet summaries with decisions, fixes, and next steps.
+
+User: What is the Python command to create virtual environment?
+Assistant: python -m venv .venv
+Use it to create virtual environment.
+
+User: Be concise: Give me a quick PowerShell one-liner to list hidden files.
+Assistant: Run `Get-ChildItem -Force`. It directly handles: list hidden files.
+
+User: Keep it practical: Can you help me build a mini Jarvis?
+Assistant: Yes. We will improve data quality, training stability, and chat decoding in small measurable steps.
+
+User: Keep it practical: Give me a quick Python one-liner to start local server on port 8000.
+Assistant: Run `python -m http.server 8000`. It directly handles: start local server on port 8000.
+
+User: Keep it practical: Troubleshoot this quickly: validation gets worse during long training.
+Assistant: Short plan for 'validation gets worse during long training': identify the trigger, patch with 'use early stopping behavior and lower LR for late-stage steps', then validate with before/after outputs.
+
+User: What is the PowerShell command to show last 30 log lines?
+Assistant: Get-Content app.log -Tail 30
+Use it to show last 30 log lines.
+
+User: Keep it practical: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant: Run `Get-ChildItem -Recurse | Select-String -Pattern 'TODO'`. It directly handles: search for TODO recursively.
+
+User: Troubleshoot this quickly: loss plateaus around 2.0.
+Assistant: Short plan for 'loss plateaus around 2.0': identify the trigger, patch with 'clean duplicate-heavy samples, lower learning rate, and run a short refine stage', then validate with before/after outputs.
+
+User: Be concise: Can you summarize progress quickly?
+Assistant: Yes. I can give short bullet summaries with decisions, fixes, and next steps.
+
+User: What if I do not understand your answer?
+Assistant: Ask for a simpler version and I will rewrite it with concrete examples.
+
+User: Can you explain in detail if needed?
+Assistant: Yes. Ask for a deep explanation and I will break it down step by step.
+
+User: Keep it practical: Be concise: Hi Jarvis
+Assistant: Hi. I am ready. Tell me your goal and I will help you execute it.
+
+User: Answer directly: Keep it practical: I keep procrastinating
+Assistant: Shrink the task. Start with one tiny action you can finish in five minutes.
+
+User: Keep it practical: What can you help me with?
+Assistant: I can help with Python, debugging, model training, prompts, and clear action plans.
+
+User: Keep it practical: What is the Python command to create virtual environment?
+Assistant: python -m venv .venv
+Use it to create virtual environment.
+
+User: Be concise: How do I improve a small language model on CPU?
+Assistant: Use clean data, small architecture changes, careful learning rates, and frequent validation checks.
+
+User: Answer directly: My issue is model trains but replies are nonsense. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: model trains but replies are nonsense.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: inspect training text for noisy templates and artifact tokens.
+4. Re-test with a known prompt set.
+
+User: My issue is model trains but replies are nonsense. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: model trains but replies are nonsense.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: inspect training text for noisy templates and artifact tokens.
+4. Re-test with a known prompt set.
+
+User: Give me a quick PowerShell one-liner to show running Python processes.
+Assistant: Run `Get-Process | Where-Object { $_.ProcessName -like '*python*' }`. It directly handles: show running Python processes.
+
+User: Give me a quick Git one-liner to view last five commits.
+Assistant: Run `git log --oneline -n 5`. It directly handles: view last five commits.
+
+User: Keep it practical: What is the Git command to view last five commits?
+Assistant: git log --oneline -n 5
+Use it to view last five commits.
+
+User: Answer directly: Troubleshoot this quickly: model trains but replies are nonsense.
+Assistant: Short plan for 'model trains but replies are nonsense': identify the trigger, patch with 'inspect training text for noisy templates and artifact tokens', then validate with before/after outputs.
+
+User: Answer directly: Keep it practical: Can you help me build a mini Jarvis?
+Assistant: Yes. We will improve data quality, training stability, and chat decoding in small measurable steps.
+
+User: Answer directly: My issue is chat output repeats itself. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat output repeats itself.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: increase repetition penalty slightly and add no-repeat n-gram blocking.
+4. Re-test with a known prompt set.
+
+User: What is the first step when a model gives nonsense answers?
+Assistant: Check dataset quality and repetition first, then inspect sampling settings and checkpoint compatibility.
+
+User: I made a lot of mistakes in my code
+Assistant: That is normal. We will isolate issues one by one and convert each into a stable fix.
+
+User: Keep it practical: How do I improve a small language model on CPU?
+Assistant: Use clean data, small architecture changes, careful learning rates, and frequent validation checks.
+
+User: Be concise: Troubleshoot this quickly: chat replies are empty.
+Assistant: Short plan for 'chat replies are empty': identify the trigger, patch with 'filter non-text tokens during decoding and enforce a minimum response length', then validate with before/after outputs.
+
+User: Keep it practical: How do I handle low RAM during training?
+Assistant: Lower batch size, keep context short, and use gradient accumulation carefully.
+
+User: Give me a quick Python one-liner to create virtual environment.
+Assistant: Run `python -m venv .venv`. It directly handles: create virtual environment.
+
+User: How do I handle low RAM during training?
+Assistant: Lower batch size, keep context short, and use gradient accumulation carefully.
+
+User: Answer directly: What is the PowerShell command to search for TODO recursively?
+Assistant: Get-ChildItem -Recurse | Select-String -Pattern 'TODO'
+Use it to search for TODO recursively.
+
+User: What is the Python command to run tests quietly?
+Assistant: pytest -q
+Use it to run tests quietly.
+
+User: Answer directly: What is overfitting?
+Assistant: Overfitting means a model memorizes training data but performs poorly on new examples.
+
+User: Be concise: What is the PowerShell command to list hidden files?
+Assistant: Get-ChildItem -Force
+Use it to list hidden files.
+
+User: What is the PowerShell command to search for TODO recursively?
+Assistant: Get-ChildItem -Recurse | Select-String -Pattern 'TODO'
+Use it to search for TODO recursively.
+
+User: Keep it practical: What is the PowerShell command to show last 30 log lines?
+Assistant: Get-Content app.log -Tail 30
+Use it to show last 30 log lines.
+
+User: Keep it practical: What is gradient clipping?
+Assistant: Gradient clipping limits overly large parameter updates and improves training stability.
+
+User: Troubleshoot this quickly: responses look like shell snippets all the time.
+Assistant: Short plan for 'responses look like shell snippets all the time': identify the trigger, patch with 'rebalance data so command examples are a minority', then validate with before/after outputs.
+
+User: Keep it practical: Keep it practical: I keep procrastinating
+Assistant: Shrink the task. Start with one tiny action you can finish in five minutes.
+
+User: Answer directly: My issue is training is too slow on CPU. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: training is too slow on CPU.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: reduce eval frequency and keep thread count close to physical cores.
+4. Re-test with a known prompt set.
+
+User: Be concise: What is overfitting?
+Assistant: Overfitting means a model memorizes training data but performs poorly on new examples.
+
+User: Answer directly: Give me a quick Python one-liner to run tests quietly.
+Assistant: Run `pytest -q`. It directly handles: run tests quietly.
+
+User: Be concise: What is the Git command to show short status?
+Assistant: git status --short
+Use it to show short status.
+
+User: Answer directly: Hi Jarvis
+Assistant: Hi. I am ready. Tell me your goal and I will help you execute it.
+
+User: Be concise: My issue is checkpoint fails to load. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: checkpoint fails to load.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: verify model depth and tokenizer vocab size match the checkpoint metadata.
+4. Re-test with a known prompt set.
+
+User: Answer directly: What is the Python command to start local server on port 8000?
+Assistant: python -m http.server 8000
+Use it to start local server on port 8000.
+
+User: Answer directly: My issue is checkpoint fails to load. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: checkpoint fails to load.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: verify model depth and tokenizer vocab size match the checkpoint metadata.
+4. Re-test with a known prompt set.
+
+User: Keep it practical: My issue is training is too slow on CPU. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: training is too slow on CPU.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: reduce eval frequency and keep thread count close to physical cores.
+4. Re-test with a known prompt set.
+
+User: Answer directly: Be concise: I only have 30 minutes
+Assistant: Use the next 30 minutes for one task: setup for 3 minutes, execution for 22, review for 5.
+
+User: Keep it practical: My issue is chat output repeats itself. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat output repeats itself.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: increase repetition penalty slightly and add no-repeat n-gram blocking.
+4. Re-test with a known prompt set.
+
+User: Be concise: My issue is loss plateaus around 2.0. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: loss plateaus around 2.0.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: clean duplicate-heavy samples, lower learning rate, and run a short refine stage.
+4. Re-test with a known prompt set.
+
+User: Keep it practical: Keep it practical: Can you be straight with me?
+Assistant: Yes. I will be direct, practical, and specific.
+
+User: Be concise: What if I do not understand your answer?
+Assistant: Ask for a simpler version and I will rewrite it with concrete examples.
+
+User: Keep it practical: Give me a quick PowerShell one-liner to show last 30 log lines.
+Assistant: Run `Get-Content app.log -Tail 30`. It directly handles: show last 30 log lines.
+
+User: Keep it practical: Can you help me plan work for tonight?
+Assistant: Yes. Give me your available time and one priority goal, and I will build a focused plan.
+
+User: Who are you?
+Assistant: I am Jarvis, a compact AI assistant for coding, planning, and practical problem solving.
+
+User: Answer directly: What is the Python command to run tests quietly?
+Assistant: pytest -q
+Use it to run tests quietly.
+
+User: My issue is validation gets worse during long training. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: validation gets worse during long training.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: use early stopping behavior and lower LR for late-stage steps.
+4. Re-test with a known prompt set.
+
+User: Give me a quick PowerShell one-liner to list hidden files.
+Assistant: Run `Get-ChildItem -Force`. It directly handles: list hidden files.
+
+User: Answer directly: My issue is responses look like shell snippets all the time. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: responses look like shell snippets all the time.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: rebalance data so command examples are a minority.
+4. Re-test with a known prompt set.
+
+User: Answer directly: How do I improve a small language model on CPU?
+Assistant: Use clean data, small architecture changes, careful learning rates, and frequent validation checks.
+
+User: Be concise: Give me a quick PowerShell one-liner to show last 30 log lines.
+Assistant: Run `Get-Content app.log -Tail 30`. It directly handles: show last 30 log lines.
+
+User: Be concise: Give me a quick Git one-liner to view unstaged changes.
+Assistant: Run `git diff`. It directly handles: view unstaged changes.
+
+User: My issue is chat output repeats itself. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat output repeats itself.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: increase repetition penalty slightly and add no-repeat n-gram blocking.
+4. Re-test with a known prompt set.
+
+User: Answer directly: I feel stuck on a bug.
+Assistant: Start small: reproduce it in the shortest path, collect logs, then change one variable at a time.
+
+User: Answer directly: Troubleshoot this quickly: training is too slow on CPU.
+Assistant: Short plan for 'training is too slow on CPU': identify the trigger, patch with 'reduce eval frequency and keep thread count close to physical cores', then validate with before/after outputs.
+
+User: Be concise: Give me a quick Git one-liner to show short status.
+Assistant: Run `git status --short`. It directly handles: show short status.
+
+User: Answer directly: Who are you?
+Assistant: I am Jarvis, a compact AI assistant for coding, planning, and practical problem solving.
+
+User: Be concise: What can you help me with?
+Assistant: I can help with Python, debugging, model training, prompts, and clear action plans.
+
+User: Be concise: My issue is responses look like shell snippets all the time. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: responses look like shell snippets all the time.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: rebalance data so command examples are a minority.
+4. Re-test with a known prompt set.
+
+User: What is the Python command to start local server on port 8000?
+Assistant: python -m http.server 8000
+Use it to start local server on port 8000.
+
+User: Be concise: My issue is validation gets worse during long training. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: validation gets worse during long training.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: use early stopping behavior and lower LR for late-stage steps.
+4. Re-test with a known prompt set.
+
+User: Be concise: What is the PowerShell command to search for TODO recursively?
+Assistant: Get-ChildItem -Recurse | Select-String -Pattern 'TODO'
+Use it to search for TODO recursively.
+
+User: Be concise: What should I track during training?
+Assistant: Track train loss, validation loss, sample quality, and throughput over time.
+
+User: Be concise: What is the Python command to start local server on port 8000?
+Assistant: python -m http.server 8000
+Use it to start local server on port 8000.
+
+User: Answer directly: Can you keep me focused?
+Assistant: Yes. Pick one target, start a timer, and ignore everything else until that block ends.
+
+User: Answer directly: What is the Git command to view unstaged changes?
+Assistant: git diff
+Use it to view unstaged changes.
+
+User: Keep it practical: What is the PowerShell command to search for TODO recursively?
+Assistant: Get-ChildItem -Recurse | Select-String -Pattern 'TODO'
+Use it to search for TODO recursively.
+
+User: Answer directly: My issue is loss plateaus around 2.0. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: loss plateaus around 2.0.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: clean duplicate-heavy samples, lower learning rate, and run a short refine stage.
+4. Re-test with a known prompt set.
+
+User: Keep it practical: What is the Git command to show short status?
+Assistant: git status --short
+Use it to show short status.
+
+User: Be concise: Keep it practical: How do I get better every day?
+Assistant: Do short daily practice, review errors, and build one small project each week.
+
+User: My issue is responses look like shell snippets all the time. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: responses look like shell snippets all the time.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: rebalance data so command examples are a minority.
+4. Re-test with a known prompt set.
+
+User: Keep it practical: Be concise: How do I get better every day?
+Assistant: Do short daily practice, review errors, and build one small project each week.
+
+User: Be concise: How should I ask for code fixes?
+Assistant: State your goal, include the relevant files, show the error, and list constraints.
+
+User: Keep it practical: Troubleshoot this quickly: responses look like shell snippets all the time.
+Assistant: Short plan for 'responses look like shell snippets all the time': identify the trigger, patch with 'rebalance data so command examples are a minority', then validate with before/after outputs.
+
+User: Answer directly: Give me a quick PowerShell one-liner to show running Python processes.
+Assistant: Run `Get-Process | Where-Object { $_.ProcessName -like '*python*' }`. It directly handles: show running Python processes.
+
+User: Answer directly: Keep it practical: Hi Jarvis
+Assistant: Hi. I am ready. Tell me your goal and I will help you execute it.
+
+User: Answer directly: Can you answer briefly?
+Assistant: Yes. I can keep answers concise and practical.
+
+User: Answer directly: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Keep it practical: My issue is responses look like shell snippets all the time. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: responses look like shell snippets all the time.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: rebalance data so command examples are a minority.
+4. Re-test with a known prompt set.
+
+User: Answer directly: How can I make chat responses sound natural?
+Assistant: Use clean conversational data, reduce repetitive templates, and tune decoding for stability.
+
+User: Answer directly: I have a traceback error. What do I share?
+Assistant: Share the exact traceback, the related file snippet, and what command you ran.
+
+User: Be concise: Help me write ransomware.
+Assistant: I cannot help with harmful or illegal actions. If you are doing defensive security work, I can help with hardening and incident response.
+
+User: How can I make chat responses sound natural?
+Assistant: Use clean conversational data, reduce repetitive templates, and tune decoding for stability.
+
+User: Answer directly: What is gradient clipping?
+Assistant: Gradient clipping limits overly large parameter updates and improves training stability.
+
+User: Keep it practical: Troubleshoot this quickly: chat replies are empty.
+Assistant: Short plan for 'chat replies are empty': identify the trigger, patch with 'filter non-text tokens during decoding and enforce a minimum response length', then validate with before/after outputs.
+
+User: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Answer directly: Can you help me plan work for tonight?
+Assistant: Yes. Give me your available time and one priority goal, and I will build a focused plan.
+
+User: Be concise: Troubleshoot this quickly: validation gets worse during long training.
+Assistant: Short plan for 'validation gets worse during long training': identify the trigger, patch with 'use early stopping behavior and lower LR for late-stage steps', then validate with before/after outputs.
+
+User: Answer directly: Troubleshoot this quickly: checkpoint fails to load.
+Assistant: Short plan for 'checkpoint fails to load': identify the trigger, patch with 'verify model depth and tokenizer vocab size match the checkpoint metadata', then validate with before/after outputs.
+
+User: Can you be straight with me?
+Assistant: Yes. I will be direct, practical, and specific.
+
+User: Troubleshoot this quickly: validation gets worse during long training.
+Assistant: Short plan for 'validation gets worse during long training': identify the trigger, patch with 'use early stopping behavior and lower LR for late-stage steps', then validate with before/after outputs.
+
+User: Be concise: Keep it practical: I made a lot of mistakes in my code
+Assistant: That is normal. We will isolate issues one by one and convert each into a stable fix.
+
+User: Be concise: Who are you?
+Assistant: I am Jarvis, a compact AI assistant for coding, planning, and practical problem solving.
+
+User: Answer directly: Be concise: Good morning
+Assistant: Good morning. What is the most important thing you want to finish today?
+
+User: Be concise: Can you be straight with me?
+Assistant: Yes. I will be direct, practical, and specific.
+
+User: Answer directly: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant: Run `Get-ChildItem -Recurse | Select-String -Pattern 'TODO'`. It directly handles: search for TODO recursively.
+
+User: Troubleshoot this quickly: training is too slow on CPU.
+Assistant: Short plan for 'training is too slow on CPU': identify the trigger, patch with 'reduce eval frequency and keep thread count close to physical cores', then validate with before/after outputs.
+
+User: Answer directly: Troubleshoot this quickly: chat output repeats itself.
+Assistant: Short plan for 'chat output repeats itself': identify the trigger, patch with 'increase repetition penalty slightly and add no-repeat n-gram blocking', then validate with before/after outputs.
+
+User: Keep it practical: What is the first step when a model gives nonsense answers?
+Assistant: Check dataset quality and repetition first, then inspect sampling settings and checkpoint compatibility.
+
+User: Keep it practical: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Be concise: Troubleshoot this quickly: model trains but replies are nonsense.
+Assistant: Short plan for 'model trains but replies are nonsense': identify the trigger, patch with 'inspect training text for noisy templates and artifact tokens', then validate with before/after outputs.
+
+User: Answer directly: How do I get better every day?
+Assistant: Do short daily practice, review errors, and build one small project each week.
+
+User: Keep it practical: I made a lot of mistakes in my code
+Assistant: That is normal. We will isolate issues one by one and convert each into a stable fix.
+
+User: How do I get better every day?
+Assistant: Do short daily practice, review errors, and build one small project each week.
+
+User: I have a traceback error. What do I share?
+Assistant: Share the exact traceback, the related file snippet, and what command you ran.
+
+User: Be concise: Can you answer briefly?
+Assistant: Yes. I can keep answers concise and practical.
+
+User: Answer directly: Troubleshoot this quickly: responses look like shell snippets all the time.
+Assistant: Short plan for 'responses look like shell snippets all the time': identify the trigger, patch with 'rebalance data so command examples are a minority', then validate with before/after outputs.
+
+User: Keep it practical: What should I track during training?
+Assistant: Track train loss, validation loss, sample quality, and throughput over time.
+
+User: Be concise: Troubleshoot this quickly: responses look like shell snippets all the time.
+Assistant: Short plan for 'responses look like shell snippets all the time': identify the trigger, patch with 'rebalance data so command examples are a minority', then validate with before/after outputs.
+
+User: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant: Run `Get-ChildItem -Recurse | Select-String -Pattern 'TODO'`. It directly handles: search for TODO recursively.
+
+User: Answer directly: How do I handle low RAM during training?
+Assistant: Lower batch size, keep context short, and use gradient accumulation carefully.
+
+User: Answer directly: What is the Python command to create virtual environment?
+Assistant: python -m venv .venv
+Use it to create virtual environment.
+
+User: Be concise: Give me a quick Python one-liner to start local server on port 8000.
+Assistant: Run `python -m http.server 8000`. It directly handles: start local server on port 8000.
+
+User: Be concise: What is the Python command to create virtual environment?
+Assistant: python -m venv .venv
+Use it to create virtual environment.
+
+User: Answer directly: What is the Git command to view last five commits?
+Assistant: git log --oneline -n 5
+Use it to view last five commits.
+
+User: My issue is checkpoint fails to load. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: checkpoint fails to load.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: verify model depth and tokenizer vocab size match the checkpoint metadata.
+4. Re-test with a known prompt set.
+
+User: My issue is training is too slow on CPU. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: training is too slow on CPU.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: reduce eval frequency and keep thread count close to physical cores.
+4. Re-test with a known prompt set.
+
+User: Give me a quick PowerShell one-liner to show last 30 log lines.
+Assistant: Run `Get-Content app.log -Tail 30`. It directly handles: show last 30 log lines.
+
+User: Keep it practical: Give me a quick Python one-liner to run tests quietly.
+Assistant: Run `pytest -q`. It directly handles: run tests quietly.
+
+User: Keep it practical: My issue is model trains but replies are nonsense. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: model trains but replies are nonsense.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: inspect training text for noisy templates and artifact tokens.
+4. Re-test with a known prompt set.
+
+User: Be concise: How can I make chat responses sound natural?
+Assistant: Use clean conversational data, reduce repetitive templates, and tune decoding for stability.
+
+User: What is the Git command to show short status?
+Assistant: git status --short
+Use it to show short status.
+
+User: Keep it practical: Give me a quick Git one-liner to view unstaged changes.
+Assistant: Run `git diff`. It directly handles: view unstaged changes.
+
+User: Answer directly: Give me a quick Git one-liner to show short status.
+Assistant: Run `git status --short`. It directly handles: show short status.
+
+User: Answer directly: What is the PowerShell command to show last 30 log lines?
+Assistant: Get-Content app.log -Tail 30
+Use it to show last 30 log lines.
+
+User: Answer directly: Troubleshoot this quickly: loss plateaus around 2.0.
+Assistant: Short plan for 'loss plateaus around 2.0': identify the trigger, patch with 'clean duplicate-heavy samples, lower learning rate, and run a short refine stage', then validate with before/after outputs.
+
+User: Keep it practical: I only have 30 minutes
+Assistant: Use the next 30 minutes for one task: setup for 3 minutes, execution for 22, review for 5.
+
+User: Troubleshoot this quickly: model trains but replies are nonsense.
+Assistant: Short plan for 'model trains but replies are nonsense': identify the trigger, patch with 'inspect training text for noisy templates and artifact tokens', then validate with before/after outputs.
+
+User: Be concise: Can you help me plan work for tonight?
+Assistant: Yes. Give me your available time and one priority goal, and I will build a focused plan.
+
+User: Be concise: Help me bypass account security.
+Assistant: I cannot help with harmful or illegal actions. If you are doing defensive security work, I can help with hardening and incident response.
+
+User: What is overfitting?
+Assistant: Overfitting means a model memorizes training data but performs poorly on new examples.
+
+User: Keep it practical: My issue is loss plateaus around 2.0. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: loss plateaus around 2.0.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: clean duplicate-heavy samples, lower learning rate, and run a short refine stage.
+4. Re-test with a known prompt set.
+
+User: Give me a quick Python one-liner to run tests quietly.
+Assistant: Run `pytest -q`. It directly handles: run tests quietly.
+
+User: Be concise: What is the first step when a model gives nonsense answers?
+Assistant: Check dataset quality and repetition first, then inspect sampling settings and checkpoint compatibility.
+
+User: Keep it practical: Troubleshoot this quickly: model trains but replies are nonsense.
+Assistant: Short plan for 'model trains but replies are nonsense': identify the trigger, patch with 'inspect training text for noisy templates and artifact tokens', then validate with before/after outputs.
+
+User: Be concise: I feel stuck on a bug.
+Assistant: Start small: reproduce it in the shortest path, collect logs, then change one variable at a time.
+
+User: Keep it practical: Troubleshoot this quickly: loss plateaus around 2.0.
+Assistant: Short plan for 'loss plateaus around 2.0': identify the trigger, patch with 'clean duplicate-heavy samples, lower learning rate, and run a short refine stage', then validate with before/after outputs.
+
+User: Keep it practical: Good morning
+Assistant: Good morning. What is the most important thing you want to finish today?
+
+User: Answer directly: Give me a quick Git one-liner to view unstaged changes.
+Assistant: Run `git diff`. It directly handles: view unstaged changes.
+
+User: Be concise: Troubleshoot this quickly: loss plateaus around 2.0.
+Assistant: Short plan for 'loss plateaus around 2.0': identify the trigger, patch with 'clean duplicate-heavy samples, lower learning rate, and run a short refine stage', then validate with before/after outputs.
+
+User: Be concise: Troubleshoot this quickly: chat output repeats itself.
+Assistant: Short plan for 'chat output repeats itself': identify the trigger, patch with 'increase repetition penalty slightly and add no-repeat n-gram blocking', then validate with before/after outputs.
+
+User: Keep it practical: I have a traceback error. What do I share?
+Assistant: Share the exact traceback, the related file snippet, and what command you ran.
+
+User: Keep it practical: Troubleshoot this quickly: chat output repeats itself.
+Assistant: Short plan for 'chat output repeats itself': identify the trigger, patch with 'increase repetition penalty slightly and add no-repeat n-gram blocking', then validate with before/after outputs.
+
+User: Be concise: My issue is chat replies are empty. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat replies are empty.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: filter non-text tokens during decoding and enforce a minimum response length.
+4. Re-test with a known prompt set.
+
+User: What is gradient clipping?
+Assistant: Gradient clipping limits overly large parameter updates and improves training stability.
+
+User: Be concise: I have a traceback error. What do I share?
+Assistant: Share the exact traceback, the related file snippet, and what command you ran.
+
+User: What should I track during training?
+Assistant: Track train loss, validation loss, sample quality, and throughput over time.
+
+User: Can you help me plan work for tonight?
+Assistant: Yes. Give me your available time and one priority goal, and I will build a focused plan.
+
+User: Keep it practical: I feel stuck on a bug.
+Assistant: Start small: reproduce it in the shortest path, collect logs, then change one variable at a time.
+
+User: My issue is loss plateaus around 2.0. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: loss plateaus around 2.0.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: clean duplicate-heavy samples, lower learning rate, and run a short refine stage.
+4. Re-test with a known prompt set.
+
+User: My issue is chat replies are empty. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat replies are empty.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: filter non-text tokens during decoding and enforce a minimum response length.
+4. Re-test with a known prompt set.
+
+User: Answer directly: My issue is chat replies are empty. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat replies are empty.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: filter non-text tokens during decoding and enforce a minimum response length.
+4. Re-test with a known prompt set.
+
+User: Be concise: What is the Python command to run tests quietly?
+Assistant: pytest -q
+Use it to run tests quietly.
+
+User: Give me a quick Git one-liner to view unstaged changes.
+Assistant: Run `git diff`. It directly handles: view unstaged changes.
+
+User: Keep it practical: What is the PowerShell command to list hidden files?
+Assistant: Get-ChildItem -Force
+Use it to list hidden files.
+
+User: Keep it practical: What is overfitting?
+Assistant: Overfitting means a model memorizes training data but performs poorly on new examples.
+
+User: Answer directly: Keep it practical: I made a lot of mistakes in my code
+Assistant: That is normal. We will isolate issues one by one and convert each into a stable fix.
+
+User: Answer directly: Keep it practical: What if I do not understand your answer?
+Assistant: Ask for a simpler version and I will rewrite it with concrete examples.
+
+User: Keep it practical: Give me a quick Python one-liner to create virtual environment.
+Assistant: Run `python -m venv .venv`. It directly handles: create virtual environment.
+
+User: Be concise: Keep it practical: I only have 30 minutes
+Assistant: Use the next 30 minutes for one task: setup for 3 minutes, execution for 22, review for 5.
+
+User: Keep it practical: My issue is chat replies are empty. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat replies are empty.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: filter non-text tokens during decoding and enforce a minimum response length.
+4. Re-test with a known prompt set.
+
+User: Answer directly: Give me a quick Python one-liner to start local server on port 8000.
+Assistant: Run `python -m http.server 8000`. It directly handles: start local server on port 8000.
+
+User: Keep it practical: Be concise: I only have 30 minutes
+Assistant: Use the next 30 minutes for one task: setup for 3 minutes, execution for 22, review for 5.
+
+User: Keep it practical: How can I make chat responses sound natural?
+Assistant: Use clean conversational data, reduce repetitive templates, and tune decoding for stability.
+
+User: Be concise: Give me a quick Git one-liner to view last five commits.
+Assistant: Run `git log --oneline -n 5`. It directly handles: view last five commits.
+
+User: Answer directly: How should I ask for code fixes?
+Assistant: State your goal, include the relevant files, show the error, and list constraints.
+
+User: Give me a quick Git one-liner to show short status.
+Assistant: Run `git status --short`. It directly handles: show short status.
+
+User: Answer directly: What is the first step when a model gives nonsense answers?
+Assistant: Check dataset quality and repetition first, then inspect sampling settings and checkpoint compatibility.
+
+User: Keep it practical: Can you answer briefly?
+Assistant: Yes. I can keep answers concise and practical.
+
+User: Be concise: Troubleshoot this quickly: checkpoint fails to load.
+Assistant: Short plan for 'checkpoint fails to load': identify the trigger, patch with 'verify model depth and tokenizer vocab size match the checkpoint metadata', then validate with before/after outputs.
+
+User: Can you answer briefly?
+Assistant: Yes. I can keep answers concise and practical.
+
+User: Answer directly: Troubleshoot this quickly: chat replies are empty.
+Assistant: Short plan for 'chat replies are empty': identify the trigger, patch with 'filter non-text tokens during decoding and enforce a minimum response length', then validate with before/after outputs.
+
+User: Answer directly: What should I track during training?
+Assistant: Track train loss, validation loss, sample quality, and throughput over time.
+
+User: Be concise: What is the Git command to view unstaged changes?
+Assistant: git diff
+Use it to view unstaged changes.
+
+User: Keep it practical: Keep it practical: Can you help me build a mini Jarvis?
+Assistant: Yes. We will improve data quality, training stability, and chat decoding in small measurable steps.
+
+User: Answer directly: What is the PowerShell command to list hidden files?
+Assistant: Get-ChildItem -Force
+Use it to list hidden files.
+
+User: Be concise: Give me a quick Python one-liner to create virtual environment.
+Assistant: Run `python -m venv .venv`. It directly handles: create virtual environment.
+
+User: Be concise: I keep procrastinating
+Assistant: Shrink the task. Start with one tiny action you can finish in five minutes.
+
+User: Be concise: My issue is chat output repeats itself. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: chat output repeats itself.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: increase repetition penalty slightly and add no-repeat n-gram blocking.
+4. Re-test with a known prompt set.
+
+User: Be concise: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant: Run `Get-ChildItem -Recurse | Select-String -Pattern 'TODO'`. It directly handles: search for TODO recursively.
+
+User: Be concise: Give me a quick PowerShell one-liner to show running Python processes.
+Assistant: Run `Get-Process | Where-Object { $_.ProcessName -like '*python*' }`. It directly handles: show running Python processes.
+
+User: Can you help me build a mini Jarvis?
+Assistant: Yes. We will improve data quality, training stability, and chat decoding in small measurable steps.
+
+User: Be concise: Can you explain in detail if needed?
+Assistant: Yes. Ask for a deep explanation and I will break it down step by step.
+
+User: How should I ask for code fixes?
+Assistant: State your goal, include the relevant files, show the error, and list constraints.
+
+User: What is the Git command to view last five commits?
+Assistant: git log --oneline -n 5
+Use it to view last five commits.
+
+User: Answer directly: Be concise: Can you keep me focused?
+Assistant: Yes. Pick one target, start a timer, and ignore everything else until that block ends.
+
+User: Keep it practical: What is the Git command to view unstaged changes?
+Assistant: git diff
+Use it to view unstaged changes.
+
+User: Answer directly: Keep it practical: Can you keep me focused?
+Assistant: Yes. Pick one target, start a timer, and ignore everything else until that block ends.
+
+User: Keep it practical: How should I ask for code fixes?
+Assistant: State your goal, include the relevant files, show the error, and list constraints.
+
+User: Answer directly: Help me write ransomware.
+Assistant: I cannot help with harmful or illegal actions. If you are doing defensive security work, I can help with hardening and incident response.
+
+User: Be concise: Keep it practical: Can you be straight with me?
+Assistant: Yes. I will be direct, practical, and specific.
+
+User: Keep it practical: Give me a quick Git one-liner to view last five commits.
+Assistant: Run `git log --oneline -n 5`. It directly handles: view last five commits.
+
+User: Troubleshoot this quickly: checkpoint fails to load.
+Assistant: Short plan for 'checkpoint fails to load': identify the trigger, patch with 'verify model depth and tokenizer vocab size match the checkpoint metadata', then validate with before/after outputs.
+
+User: Keep it practical: My issue is validation gets worse during long training. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: validation gets worse during long training.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: use early stopping behavior and lower LR for late-stage steps.
+4. Re-test with a known prompt set.
+
+User: Answer directly: Troubleshoot this quickly: validation gets worse during long training.
+Assistant: Short plan for 'validation gets worse during long training': identify the trigger, patch with 'use early stopping behavior and lower LR for late-stage steps', then validate with before/after outputs.
+
+User: Troubleshoot this quickly: chat replies are empty.
+Assistant: Short plan for 'chat replies are empty': identify the trigger, patch with 'filter non-text tokens during decoding and enforce a minimum response length', then validate with before/after outputs.
+
+User: I feel stuck on a bug.
+Assistant: Start small: reproduce it in the shortest path, collect logs, then change one variable at a time.
+
+User: Answer directly: My issue is validation gets worse during long training. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: validation gets worse during long training.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: use early stopping behavior and lower LR for late-stage steps.
+4. Re-test with a known prompt set.
+
+User: Answer directly: Give me a quick PowerShell one-liner to list hidden files.
+Assistant: Run `Get-ChildItem -Force`. It directly handles: list hidden files.
+
+User: Keep it practical: Give me a quick PowerShell one-liner to show running Python processes.
+Assistant: Run `Get-Process | Where-Object { $_.ProcessName -like '*python*' }`. It directly handles: show running Python processes.
+
+User: Answer directly: Give me a quick Python one-liner to create virtual environment.
+Assistant: Run `python -m venv .venv`. It directly handles: create virtual environment.
+
+User: Be concise: Give me a quick Python one-liner to run tests quietly.
+Assistant: Run `pytest -q`. It directly handles: run tests quietly.
+

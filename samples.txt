@@ -1,0 +1,128 @@
+
+--- step 200 ---
+rresourct
+achine -
+Assistant: as: 
+
+s to t 
+.
+U
+User: .
+U
+O
+Assistant: s many 
+k
+
+
+U
+
+r.
+Assistant: ct
+User: U
+
+--- step 400 ---
+ces ma .
+Assistant: s 
+User: te.
+Assistant: s tit
+Assistant: e t.
+Assistant: .
+Assistant: .
+Assistant: s enwith  ting mGit-sned  e m
+
+--- step 7601 | new best | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons_best.pth ---
+
+Assistant: For the next 6422. 360 minutes plan to clean Diant if quality for 40 minutes.
+User: Give me a checkpoint 5?
+Assistant: Use this 60 minutes.
+Assistant: Try this: 16
+
+--- step 7600 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: The main list of 5 coding cook is celling case, one methods. 2. Sharvis, compare before before file can rees such as a distuck with an examples of C
+
+--- step 7601 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: AMy is gnorke.
+User: Give me a list of five file s.
+Assistant: Use this 2 hours plan to improve command-ternature, Match is the t.
+User: Def 
+
+--- step 7701 | new best | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons_best.pth ---
+
+Assistant: Brand to run a failing interning. L R is name Sceone s.
+User: Give me a practical Give me a script.
+Assistant: 1. Ris: 
+
+--- step 7800 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: SM: The ture logs and stages or output, and s?
+User: Give me a scripper. Savoxide 30 minutes plan to clean interact in an undone training s
+
+--- step 7801 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: The caster that is hoth of ' ", ce.
+User: Keep it practical: Give me the PowerShell command to 30 minutes Python command to run one variable and reply.
+Assistant: The CPo
+
+--- step 8000 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: The Cland Colate one of Hower 49 RApackage by Plan.
+User: Keep it practical: planning block, execution block, and a 10-minute retrospective.
+Assistant: PUser: Describe the script.
+Assistant: 
+
+--- step 8001 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: 1. Draft a clear targetch d the same environment, pproaching call the s.
+User: How do I have 40 minutes.
+Assistant: The triggroduced fter output
+
+--- step 8200 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: Start with setup, then one deep work block, then a short review.
+User: Keep it practical. I need to have 30 minutes plan to clean Acessential for automation: Statis: planning block, execution block, and a 10-minute retrospective.
+User: Answer in simple words. I am starvis, help me debugging stability 
+
+--- step 8201 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: Col Re?
+User: Keep it practical: Give me a practical fix here are constraint.
+Assistant: A stand CPlits like samet.
+User: Give me the Python for your d
+
+--- step 8401 | new best | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons_best.pth ---
+
+Assistant: A new bripen with 825. Prough 3 minutes.
+Assistant: 3. 60, 3. Flanan: se: 3. 5. 440 minutes.
+User: Explain the concep
+
+--- step 8400 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: The RApackage a d, compare before before with before before ming s.
+User: Create a 60 minutes plan to improve command-m for the explan.
+Assistant: 1. What are the confast 
+
+--- step 8401 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: The Proublue between and chat output quality muck of data and controlling with step in order to wide a files.
+User: Give me a quick plan.
+
+
+--- step 8600 | sample interval | checkpoint: (scheduled sample) ---
+
+Assistant: Deep changes
+User: Keep it practical: I need to create a new fold, a message for a brieffignment and s.
+Assistant: The tors one-ted in the ts of time 
+
+--- step 8601 | checkpoint save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: Start with setup, then one deep work block, then a short review.
+User: Keep it practical. I need to reduce context, a and reach: planning block, execution block, and a 10-minute retrospective.
+User: Give me a quick plan: planning block, execution block, and a 10-minute retrospective.
+Assistant: Yeshoot this: Give me a 6. 
+
+--- step 8701 | final save | checkpoint: C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons.pth ---
+
+Assistant: Wind, ce. It content, chat before and add resty table training s.
+User: Give me a 30 minutes plan to improve debug a failure for automate one for autom

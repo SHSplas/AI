@@ -1,0 +1,31 @@
+{
+  "seed": 1337,
+  "val_ratio": 0.08,
+  "total_rows": 607,
+  "train_rows": 527,
+  "val_rows": 80,
+  "train_path": "data\\jarvis_refine_train.txt",
+  "val_path": "data\\jarvis_refine_val.txt",
+  "train_tag_counts": {
+    "coding": 168,
+    "utility": 16,
+    "everyday": 131,
+    "identity": 82,
+    "planning": 77,
+    "safety": 4,
+    "knowledge": 15,
+    "ml": 31,
+    "social": 3
+  },
+  "val_tag_counts": {
+    "everyday": 19,
+    "identity": 11,
+    "utility": 2,
+    "ml": 6,
+    "coding": 27,
+    "planning": 10,
+    "safety": 1,
+    "knowledge": 3,
+    "social": 1
+  }
+}

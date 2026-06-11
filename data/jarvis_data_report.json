@@ -1,0 +1,98 @@
+{
+  "raw_source_sizes": {
+    "Easy.txt": 9274,
+    "Medium.txt": 7,
+    "Hard.txt": 7,
+    "input.txt": 0,
+    "jarvis_mix_train.txt": 3510,
+    "jarvis_refine_train.txt": 524,
+    "web_wikidata_qa.txt": 7772
+  },
+  "synthetic_rows_added": 348,
+  "rows_before_dedupe": 21442,
+  "rows_after_dedupe": 17034,
+  "rows_after_diversity_caps": 16533,
+  "rows_after_source_caps": 10489,
+  "train_rows_written": 9966,
+  "val_rows_written": 523,
+  "train_source_counts": {
+    "Easy.txt": 6175,
+    "Hard.txt": 6,
+    "Medium.txt": 6,
+    "jarvis_chat": 32,
+    "jarvis_debug": 44,
+    "jarvis_mix_train.txt": 1159,
+    "jarvis_refine_train.txt": 50,
+    "jarvis_safety": 3,
+    "jarvis_seed": 51,
+    "jarvis_tools": 65,
+    "web_wikidata_qa.txt": 2375
+  },
+  "val_source_counts": {
+    "Easy.txt": 325,
+    "Hard.txt": 1,
+    "Medium.txt": 1,
+    "jarvis_chat": 1,
+    "jarvis_debug": 2,
+    "jarvis_mix_train.txt": 61,
+    "jarvis_refine_train.txt": 2,
+    "jarvis_seed": 2,
+    "jarvis_tools": 3,
+    "web_wikidata_qa.txt": 125
+  },
+  "top_duplicate_assistants_before_caps": [
+    {
+      "count": 64,
+      "assistant_preview": "you did. this local jarvis model was built and trained in your project on your laptop."
+    },
+    {
+      "count": 62,
+      "assistant_preview": "i was made to be your practical offline assistant for coding, learning, and everyday tasks."
+    },
+    {
+      "count": 37,
+      "assistant_preview": "print tensor shapes before the failing operation and align dimensions explicitly. fix one tensor transformation at a time so you can see which change solves it."
+    },
+    {
+      "count": 35,
+      "assistant_preview": "activate the right environment and install the missing package in that same environment. run `python -c \"import <module>\"` to confirm before rerunning your scri"
+    },
+    {
+      "count": 33,
+      "assistant_preview": "match model config and tokenizer vocab size with checkpoint metadata. if config changed, train a new checkpoint path instead of forcing incompatible weights."
+    },
+    {
+      "count": 32,
+      "assistant_preview": "wrap paths in quotes and avoid mixed slash styles. use full paths first, then shorten after the command is stable."
+    },
+    {
+      "count": 32,
+      "assistant_preview": "lower eval frequency, keep batch size small, and avoid heavy logic inside data loading. stabilize thread settings and benchmark one change at a time."
+    },
+    {
+      "count": 30,
+      "assistant_preview": "afghanistan: country in central and south asia."
+    },
+    {
+      "count": 29,
+      "assistant_preview": "open conflicted files, keep the correct sections, then run tests before committing. resolve one file fully before moving to the next to avoid partial conflicts."
+    },
+    {
+      "count": 29,
+      "assistant_preview": "pin dependency versions and match python and os versions with ci. print env vars and rerun locally using the exact ci command."
+    },
+    {
+      "count": 25,
+      "assistant_preview": "paste the full traceback, highlight the failing line, and share the exact command you ran. then compare expected versus actual output before changing code."
+    },
+    {
+      "count": 24,
+      "assistant_preview": "singapore is sovereign island country and city-state in maritime southeast asia. it is associated with singapore. notable date: 1965-08-09."
+    }
+  ],
+  "output_files": {
+    "train": "data\\jarvis_train.txt",
+    "val": "data\\jarvis_val.txt",
+    "eval_prompts": "data\\jarvis_eval_prompts.txt"
+  }
+}

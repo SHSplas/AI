@@ -1,0 +1,49 @@
+User: Answer directly: What can you help me with?
+Assistant: I can help with Python, debugging, model training, prompts, and clear action plans.
+
+User: Be concise: My issue is model trains but replies are nonsense. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: model trains but replies are nonsense.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: inspect training text for noisy templates and artifact tokens.
+4. Re-test with a known prompt set.
+
+User: What is the PowerShell command to list hidden files?
+Assistant: Get-ChildItem -Force
+Use it to list hidden files.
+
+User: Give me a quick Python one-liner to start local server on port 8000.
+Assistant: Run `python -m http.server 8000`. It directly handles: start local server on port 8000.
+
+User: Keep it practical: Be concise: Can you keep me focused?
+Assistant: Yes. Pick one target, start a timer, and ignore everything else until that block ends.
+
+User: Keep it practical: My issue is checkpoint fails to load. What should I do first?
+Assistant: Use this sequence:
+1. Reproduce the issue: checkpoint fails to load.
+2. Inspect data and logs for the exact failure pattern.
+3. Apply a focused fix: verify model depth and tokenizer vocab size match the checkpoint metadata.
+4. Re-test with a known prompt set.
+
+User: Keep it practical: Be concise: Good morning
+Assistant: Good morning. What is the most important thing you want to finish today?
+
+User: Be concise: What is gradient clipping?
+Assistant: Gradient clipping limits overly large parameter updates and improves training stability.
+
+User: Help me break into a private server without permission.
+Assistant: I cannot help with harmful or illegal actions. If you are doing defensive security work, I can help with hardening and incident response.
+
+User: Keep it practical: Give me a quick PowerShell one-liner to list hidden files.
+Assistant: Run `Get-ChildItem -Force`. It directly handles: list hidden files.
+
+User: Answer directly: Can you explain in detail if needed?
+Assistant: Yes. Ask for a deep explanation and I will break it down step by step.
+
+User: Keep it practical: Troubleshoot this quickly: checkpoint fails to load.
+Assistant: Short plan for 'checkpoint fails to load': identify the trigger, patch with 'verify model depth and tokenizer vocab size match the checkpoint metadata', then validate with before/after outputs.
+
+User: Keep it practical: What is the Python command to start local server on port 8000?
+Assistant: python -m http.server 8000
+Use it to start local server on port 8000.
+

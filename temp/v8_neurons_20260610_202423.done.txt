@@ -1,0 +1,4 @@
+﻿COMPLETED_LOCAL=2026-06-10 22:35:33
+COMPLETED_UTC=2026-06-10 17:05:33
+BEST_CHECKPOINT=C:\Users\HP\Desktop\New folder\Models\cpu_gpt_jarvis_v8_neurons_best.pth
+METRICS=C:\Users\HP\Desktop\New folder\metrics\cpu_gpt_jarvis_v8_neurons_metrics.csv

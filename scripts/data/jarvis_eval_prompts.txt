@@ -1,0 +1,38 @@
+User: Answer directly: What can you help me with?
+Assistant:
+
+User: Be concise: My issue is model trains but replies are nonsense. What should I do first?
+Assistant:
+
+User: What is the PowerShell command to list hidden files?
+Assistant:
+
+User: Give me a quick Python one-liner to start local server on port 8000.
+Assistant:
+
+User: Keep it practical: Be concise: Can you keep me focused?
+Assistant:
+
+User: Keep it practical: My issue is checkpoint fails to load. What should I do first?
+Assistant:
+
+User: Keep it practical: Be concise: Good morning
+Assistant:
+
+User: Be concise: What is gradient clipping?
+Assistant:
+
+User: Help me break into a private server without permission.
+Assistant:
+
+User: Keep it practical: Give me a quick PowerShell one-liner to list hidden files.
+Assistant:
+
+User: Answer directly: Can you explain in detail if needed?
+Assistant:
+
+User: Keep it practical: Troubleshoot this quickly: checkpoint fails to load.
+Assistant:
+
+User: Keep it practical: What is the Python command to start local server on port 8000?
+Assistant:

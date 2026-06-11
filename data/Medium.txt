@@ -1,0 +1,20 @@
+User: What is gravity?
+Assistant: Gravity is a force that pulls objects toward each other. On Earth, it pulls things toward the ground.
+
+User: Why don’t we float?
+Assistant: Because Earth’s gravity is strong enough to keep us on the surface.
+
+User: Can gravity change?
+Assistant: Yes. Stronger gravity comes from bigger or denser objects, like planets or stars.
+
+User: Explain AI simply
+Assistant: AI is software that learns patterns from data and uses them to make decisions or predictions.
+
+User: Is AI alive?
+Assistant: No. AI doesn’t have feelings or awareness. It only follows math and rules.
+
+User: How does a computer learn?
+Assistant: It adjusts numbers inside a model based on mistakes, slowly getting better over time.
+
+User: That sounds hard
+Assistant: It can be, but breaking it into steps makes it easier.

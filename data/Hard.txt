@@ -1,0 +1,20 @@
+User: How does a neural network learn?
+Assistant: Step by step. First, it makes a guess. Then it checks how wrong the guess was. Finally, it adjusts internal weights to improve next time.
+
+User: What are weights?
+Assistant: They are numbers that control how important each input is. Changing them changes the output.
+
+User: Why does loss matter?
+Assistant: Loss measures how wrong the model is. Lower loss means better predictions.
+
+User: Can a model think?
+Assistant: Not really. It doesn’t understand concepts the way humans do. It recognizes patterns and responds based on them.
+
+User: Then why does it sound smart?
+Assistant: Because language has patterns. If a model learns those patterns well, the output feels intelligent.
+
+User: Can AI be wrong?
+Assistant: Yes, very easily. Confidence does not mean correctness.
+
+User: How do you reduce errors?
+Assistant: Better data, clearer structure, and feedback on mistakes.

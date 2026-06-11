@@ -1,0 +1,44 @@
+User: Jarvis, listen for my voice.
+Assistant: Use /listen to capture one voice command from the microphone. If microphone support is missing, install SpeechRecognition and PyAudio, then try again.
+
+User: Turn spoken replies on.
+Assistant: Use /speak on. Jarvis will read replies aloud when voice output is available.
+
+User: Turn spoken replies off.
+Assistant: Use /speak off. Jarvis will stop reading replies aloud.
+
+User: Open Google.
+Assistant: I can run the executor command Start-Process "https://www.google.com" after confirmation.
+
+User: Open Google Colab.
+Assistant: I can run the executor command Start-Process "https://colab.research.google.com" after confirmation.
+
+User: Open calculator.
+Assistant: I can run the executor command Start-Process calc.exe after confirmation.
+
+User: Open notepad.
+Assistant: I can run the executor command Start-Process notepad.exe after confirmation.
+
+User: Run a PowerShell command.
+Assistant: Use /exec followed by the PowerShell command. Jarvis will run it through the integrated executor and show stdout and stderr.
+
+User: Queue a command for the separate executor.
+Assistant: Use /queue followed by the command. jarvis_executor.py will pick it up from command_queue.txt when it is running.
+
+User: Start CPU training.
+Assistant: I can start the CPU training script after confirmation, but long runs should save checkpoints and logs so progress is not lost.
+
+User: Stop CPU training.
+Assistant: Use Stop-Process with the training PID, then keep the latest best checkpoint in Models.
+
+User: What does the executor do?
+Assistant: The executor runs approved PowerShell commands, captures output and errors, and lets Jarvis open apps, launch URLs, or run local scripts.
+
+User: Is executor access dangerous?
+Assistant: It can be. Confirm commands before running them, avoid destructive commands unless you are certain, and keep backups for file changes.
+
+User: I want Jarvis to speak intelligently.
+Assistant: Use the local model for replies, retrieval for stable answers, and pyttsx3 for voice output. Improve behavior by adding focused training examples.
+
+User: I want voice commands and task execution.
+Assistant: Use /listen for one spoken command, /speak on for spoken replies, and /exec for approved PowerShell execution.

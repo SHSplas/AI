@@ -1,0 +1,650 @@
+User: Describe the key features of a REST API.
+Assistant:
+
+User: Keep it practical: explain thallium.
+Assistant:
+
+User: Analyze the following text and provide the statistics related to the sentiment score it carries.
+Context: Text: Life feels like a roller coaster. It has its ups and downs.
+Assistant:
+
+User: Generate five topic ideas for a podcast on self-care.
+Assistant:
+
+User: Make a list of 5 verbs in the past tense.
+Assistant:
+
+User: Write a C++ program that prints "Hello World!"
+Assistant:
+
+User: What is HIP 78530 b?
+Assistant:
+
+User: List 3 reasons why social media can be harmful.
+Assistant:
+
+User: What is Go!?
+Assistant:
+
+User: Create a news headline based on the following event, "A student won a competition in quantum computing".
+Assistant:
+
+User: What is 11 Ursae Minoris b?
+Assistant:
+
+User: Answer in simple words. My issue: Tokenizer output looks corrupted. How do I debug it quickly?
+Assistant:
+
+User: Keep it practical: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant:
+
+User: Suggest two key aspects of a good product demo
+Assistant:
+
+User: List 5 clothing items you would take on a long camping trip.
+Assistant:
+
+User: Identify the syntactical difference between two sentences.
+Context: She ate the food.
+The food ate she.
+Assistant:
+
+User: Explain the differences between the IaaS, PaaS and SaaS cloud computing models.
+Assistant:
+
+User: Provide the name and address of a restaurant in New York.
+Context: No input.
+Assistant:
+
+User: Keep it practical: explain Julia.
+Assistant:
+
+User: What are the different uses of machine learning?
+Assistant:
+
+User: Be concise. How should I ask for help?
+Assistant:
+
+User: What are weights?
+Assistant:
+
+User: Give a short description of what artificial intelligence is
+Assistant:
+
+User: Develop a persuasive argument for why it is important to vote.
+Assistant:
+
+User: Create a positive spin to the following statement: "The federal government is considering the possibility of canceling the summer internships."
+Assistant:
+
+User: Be concise: what is Ksar Krikrya?
+Assistant:
+
+User: How does the world work?
+Assistant:
+
+User: Give me a short explanation of Windows Server 2008.
+Assistant:
+
+User: Describe why making a decision can be difficult.
+Assistant:
+
+User: Assemble the following components into a complete sentence.
+Context: He was hesitant, to go
+Assistant:
+
+User: Reorder the following list in a chronological order.
+Context: Event A, Event B, Event C, Event D
+Assistant:
+
+User: Give me a short explanation of mercury.
+Assistant:
+
+User: Imagine you are hiking in a forest, describe the setting.
+Assistant:
+
+User: Output which of the 3 figures is biggest.
+Context: Figure 1 is 27 cm, Figure 2 is 15 cm, and Figure 3 is 10 cm
+Assistant:
+
+User: Predict the stock market trend of Ford over the next three months.
+Assistant:
+
+User: Explain why the actions taken by a certain character are morally wrong.
+Context: The protagonist of the story steals from a store.
+Assistant:
+
+User: Generate a relevant research question on crisis communication.
+Assistant:
+
+User: How do I clean my room fast?
+Assistant:
+
+User: Given the two passages, compare and contrast their concepts.
+Context: Passage 1: Agile methodology emphasizes rapid iteration and quickly responding to change.
+
+Passage 2: Waterfall methodology is an action-oriented approach to project management which follows a linear progression from beginning to end.
+Assistant:
+
+User: Improve the following sentence by using a better transition.
+Context: We did not have enough time so we had to leave.
+Assistant:
+
+User: Keep it practical: explain Windows NT 3.5.
+Assistant:
+
+User: Come up with three benefits of using a virtual assistant.
+Assistant:
+
+User: Give me a 30-minute plan to debug a failing script.
+Assistant:
+
+User: Given a database table, generate 5 useful SQL queries
+Context: Table Schema:
+
+books(id,title,author,genre,price)
+Assistant:
+
+User: Clean the text of spelling and grammar errors.
+Context: A polular show form the eary 2000s
+Assistant:
+
+User: What is gray tin?
+Assistant:
+
+User: Provide three possible solutions to this problem.
+Context: A student is having difficulty studying for a math test.
+Assistant:
+
+User: Describe a unique way to cook a steak.
+Assistant:
+
+User: What is the one thing we should always ask permission for before sharing other people's content online?
+Assistant:
+
+User: Write a few sentences explaining the concept of deep learning.
+Assistant:
+
+User: Express this sentiment more positively.
+Context: I'm too tired to do anything productive today.
+Assistant:
+
+User: Be concise: what is Ubuntu for Android?
+Assistant:
+
+User: Share a funny pun.
+Assistant:
+
+User: What is HD 2638 b?
+Assistant:
+
+User: Summarize the current state of renewable energy in the US.
+Assistant:
+
+User: Summarize the characteristics of a given type of animal.
+Context: Gorilla
+Assistant:
+
+User: What is White Oak Creel?
+Assistant:
+
+User: Change this to the past tense.
+Context: The cat runs around the house.
+Assistant:
+
+User: Keep it practical: explain beryllium.
+Assistant:
+
+User: What is Gullah Fanner Basket?
+Assistant:
+
+User: Generate an algorithm to check if a given string is a palindrome.
+Assistant:
+
+User: Be concise: what is OpenVMS?
+Assistant:
+
+User: Answer in simple words. Draft a short, professional message for a request for deadline extension.
+Assistant:
+
+User: Consider the following passage and classify it into one of the following categories: (a) fiction (b) non-fiction
+Context: The seasons are changing, and the forest is alive with the sound of birds chirping, the rustle of leaves turning its many colors, and a fresh scent in the air.
+Assistant:
+
+User: Give me a short explanation of Table/Cloth.
+Assistant:
+
+User: Classify this news article according to its category.
+Context: The US Fed chairman's decision to cut interest rates has sparked controversy amongst economists, as some believe it will trigger a new economic crisis.
+Assistant:
+
+User: Create a character profile
+Context: Ruth
+Assistant:
+
+User: Generate a suitable slogan for the following company
+Context: ACME Corporation is a logistics company with a focus on shipping vehicles and other international freight.
+Assistant:
+
+User: Answer directly: How do I handle low RAM during training?
+Assistant:
+
+User: Keep it practical: explain neon.
+Assistant:
+
+User: Keep it practical: explain Windows XP Professional x64 Edition.
+Assistant:
+
+User: How should I ask questions? Keep it practical.
+Assistant:
+
+User: Give me a short explanation of Mac OS X 10.1.
+Assistant:
+
+User: Cut this sentence in half for a tweet:
+Context: I just bought a new car and I am so excited to drive it!
+Assistant:
+
+User: Describe coral reefs in three sentences.
+Assistant:
+
+User: Be concise: what is HD 139357 b?
+Assistant:
+
+User: Compose a five word sentence describing your day.
+Assistant:
+
+User: What is Modula-2?
+Assistant:
+
+User: Recognize the author of the following paragraph
+Context: It is said that books are a man's best companion and knowledge lies inside them. Education is the key to success and can open the door of numerous opportunities.
+Assistant:
+
+User: Write a Jquery script to hide all HTML elements which have the class “hide-this.”
+Assistant:
+
+User: Answer in simple words. My issue: Validation loss is worse than training loss. How do I debug it quickly?
+Assistant:
+
+User: Explain the concept of 'X' in 5 sentences.
+Context: X: The Big Bang Theory
+Assistant:
+
+User: Keep it practical: explain Ksar Krikrya.
+Assistant:
+
+User: I need to add all modified files. What command should I run in Git?
+Assistant:
+
+User: Answer in simple words. Give me the Python command to list installed packages.
+Assistant:
+
+User: Discuss the main components of a computer system.
+Assistant:
+
+User: Keep it practical: explain Tache Bleu.
+Assistant:
+
+User: Describe a time when you had to make a difficult decision.
+Assistant:
+
+User: Explain how plants respire
+Assistant:
+
+User: What is Firedrake?
+Assistant:
+
+User: Generate a scientific paper title based on the following recommendations:
+Context: The aim of this paper is to study how artificial intelligence can be applied in the healthcare industry to improve patient outcomes.
+Assistant:
+
+User: How many syllables are present in the word "dispite"
+Assistant:
+
+User: Analyze the given paragraph to find any mistakes or room for improvement.
+Context: Jhon and his friends went for a day out on the beach. They spent their day by swimming and also playing lots of badmminton and soccer.
+Assistant:
+
+User: Keep it practical: Can you summarize progress quickly?
+Assistant:
+
+User: What is gallium?
+Assistant:
+
+User: Describe the concept of supervised learning.
+Assistant:
+
+User: Be concise. Draft a medium, concise message for a follow-up email after an interview.
+Assistant:
+
+User: Keep it practical. Create a 30 minutes plan to build a small AI assistant.
+Assistant:
+
+User: Summarize what you have learned from this lecture.
+Context: The lecture discussed the importance of networking in job searching.
+Assistant:
+
+User: Who invented the can opener?
+Assistant:
+
+User: Replace the word "diffferent" with the correct word:
+Context: The group discussed the controversial topic in diffferent manners.
+Assistant:
+
+User: Create a mnemonic device to remember the names of the Great Lakes.
+Assistant:
+
+User: Give me a short explanation of palladium as an investment.
+Assistant:
+
+User: Predict how company stocks will perform over the course of the next 6 months.
+Assistant:
+
+User: Name three renewable energy sources
+Assistant:
+
+User: What is HD 95089 b?
+Assistant:
+
+User: Convert weights and measures.
+Context: 2 feet
+Assistant:
+
+User: Give an example of a school in the United States.
+Assistant:
+
+User: Generate a headline that conveys the following content.
+Context: San Francisco Bay Area is experiencing a real estate boom.
+Assistant:
+
+User: Give an example of an equation.
+Assistant:
+
+User: Keep it practical: explain Q1040966.
+Assistant:
+
+User: Fix the grammar mistakes in the following sentence.
+Context: Last night I wented to the store.
+Assistant:
+
+User: In one short paragraph, Why don’t we float
+Assistant:
+
+User: Describe the differences between Python 2 and Python 3.
+Assistant:
+
+User: Describe a positive trait that you possess.
+Assistant:
+
+User: Come up with a title appropriate to the following scenario.
+Context: A group of brave adventurers embark on a quest to save the world
+Assistant:
+
+User: What is the average life expectancy of a cat?
+Assistant:
+
+User: Find the first derivative of the following function.
+Context: f(x) = x^2
+Assistant:
+
+User: Keep it practical: explain X85WMoCoV6.5.4.2 KU.
+Assistant:
+
+User: Give me a short explanation of Madalitso.
+Assistant:
+
+User: Write an anecdote about the power of optimism.
+Assistant:
+
+User: Edit the following sentence to create a more vivid scene.
+Context: The wind was blowing in the park
+Assistant:
+
+User: The web page should display the following message, "This page is under construction. Please check back soon." Construct the HTML code to display the message.
+Assistant:
+
+User: Give me a short explanation of Wilder Damask.
+Assistant:
+
+User: Be concise. Create a 30 minutes plan to organize weekly study sessions.
+Assistant:
+
+User: Find the maximum of the following quadratic equation.
+Context: y = 2x^2 - 5x - 4
+Assistant:
+
+User: Explain why this product could be used as an affordable gift
+Context: A USB car charger
+Assistant:
+
+User: Create a timeline showing the main events of the American Revolution.
+Assistant:
+
+User: Give me a short explanation of BLM-4.
+Assistant:
+
+User: Answer in simple words. Create a 2 hours plan to improve command-line productivity.
+Assistant:
+
+User: Parse the given sentence and identify the subject, verb & object.
+Context: The man purchased the old car.
+Assistant:
+
+User: Be concise. Who built you?
+Assistant:
+
+User: Create a mobile app that displays popular sports results
+Assistant:
+
+User: Identify the biggest challenges faced by AI experts
+Assistant:
+
+User: Evaluate the following sentence in terms of grammar, word choice, and sentence structure.
+Context: the lonely cat sat on the mat
+Assistant:
+
+User: Be concise. Should I use more data or bigger model?
+Assistant:
+
+User: Brainstorm 5 potential topics for a beginners guide about AI and machine learning
+Assistant:
+
+User: Design an experiment to collect data on the impact of social media on people's mental health.
+Assistant:
+
+User: Describe the features of capitalism.
+Assistant:
+
+User: Identify the root form of the word spoke.
+Assistant:
+
+User: Answer directly: What is the Python command to create virtual environment?
+Assistant:
+
+User: Describe an example of customer service done right.
+Assistant:
+
+User: Design a logo for a tech startup whose primary focus is creating artificial intelligence applications.
+Assistant:
+
+User: How can I track model progress? Keep it practical.
+Assistant:
+
+User: Delete the all the nouns from the sentence.
+Context: Yesterday I went to the zoo with my friends.
+Assistant:
+
+User: Describe the concept of modular programming
+Assistant:
+
+User: Create a list of five items to buy in preparation for a hurricane.
+Assistant:
+
+User: Keep it practical. How can I create a new folder named logs using PowerShell?
+Assistant:
+
+User: Create a list of items for a picnic.
+Assistant:
+
+User: Rewrite the sentence with the given word.
+Context: The bird's feathers ruffled in the wind. (given word: breeze)
+Assistant:
+
+User: Describe what the coffee machine should do when the user presses the 'Brew' button.
+Assistant:
+
+User: Give me a short explanation of Q575650.
+Assistant:
+
+User: Keep it practical: explain Iraq.
+Assistant:
+
+User: Where can you find kangaroos?
+Assistant:
+
+User: Describe the role of an app developer in a company.
+Assistant:
+
+User: Keep it practical: explain D.
+Assistant:
+
+User: What is Q634782?
+Assistant:
+
+User: Interpret the following metaphor
+Context: He was a beacon of hope.
+Assistant:
+
+User: What is Tuvalu?
+Assistant:
+
+User: Generate a list of 8 jobs in the information technology sector
+Assistant:
+
+User: Be concise: what is tungsten?
+Assistant:
+
+User: Create a function that takes two numbers as arguments and divides the first one by the second one.
+Assistant:
+
+User: Give me a quick way to make salad. I only have 20 minutes.
+Assistant:
+
+User: List three examples of how the given technology is being used.
+Context: Robots
+Assistant:
+
+User: Write a Python function to determine if a number is a prime.
+Assistant:
+
+User: Design a 10-question survey related to online shopping
+Assistant:
+
+User: Create a crossword puzzle using knowledge of the biodiversity in the Amazon Rainforest.
+Assistant:
+
+User: Answer directly: My issue is training is too slow on CPU. What should I do first?
+Assistant:
+
+User: Automate the given task and output the resulting code.
+Context: Task: Write a program that reads a text file and prints out the number of words in the file.
+Assistant:
+
+User: Create a list of advantages of using paper money.
+Assistant:
+
+User: Give me a 45-minute plan to organize my project files.
+Assistant:
+
+User: Identify 3 ethical challenges that AI poses.
+Assistant:
+
+User: Find the longest word in the sentence “Great minds think alike.”
+Assistant:
+
+User: Be concise: what is Aura 2, SF, Protozoa Foraminiferia with Radiolaria?
+Assistant:
+
+User: What is Antigua and Barbuda?
+Assistant:
+
+User: Keep it practical: explain HD 59686 b.
+Assistant:
+
+User: What is the importance of Agile in software development?
+Assistant:
+
+User: Name three specific techniques for reducing the memory requirement of a neural network.
+Assistant:
+
+User: Make a list of books and authors in the fantasy genre
+Assistant:
+
+User: Create a haiku poetry with the given theme.
+Context: The beauty of night sky
+Assistant:
+
+User: Write a short story about a person living during a pandemic.
+Assistant:
+
+User: Give me a short explanation of Julia.
+Assistant:
+
+User: Keep it practical. I am stuck because Validation loss is worse than training loss. Give me a practical fix plan.
+Assistant:
+
+User: Describe what a computer virus is.
+Assistant:
+
+User: Provide an example of a non-alcoholic beverage.
+Assistant:
+
+User: Answer directly: Troubleshoot this quickly: chat replies are empty.
+Assistant:
+
+User: Reword the given sentence such that it does not have any pronoun.
+Context: He should think about the consequences before deciding.
+Assistant:
+
+User: Explain why it is important to be kind to animals.
+Assistant:
+
+User: Name five common methods of data analysis.
+Assistant:
+
+User: Keep it practical: explain Dopere.
+Assistant:
+
+User: Invent a new game involving strategy.
+Assistant:
+
+User: Keep it practical: explain Saint Kitts and Nevis.
+Assistant:
+
+User: I need to install dependencies. What command should I run in Python?
+Assistant:
+
+User: Make a silhouette of the given object.
+Context: Object: Bird
+Assistant:
+
+User: Create a program to detect and remove duplicate words from a given sentence
+Context: No input
+Assistant:
+
+User: What is Mythbuntu?
+Assistant:
+
+User: What is an AI algorithm?
+Assistant:
+
+User: Given two ingredients, develop a recipe for making a cake.
+Context: almonds and orange juice
+Assistant:
+
+User: Give me a short explanation of HD 43691 b.
+Assistant:
+
+User: Draft a social media post that encourages people to conserve water.
+Assistant:

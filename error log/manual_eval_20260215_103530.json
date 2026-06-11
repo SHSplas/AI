@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "timestamp": "2026-02-15T10:35:30",
+    "checkpoint": "cpu_gpt_jarvis_rebuild_l6_v2048_best.pth",
+    "ckpt_step": 4301,
+    "ckpt_best_val": 4.433221817016602,
+    "prompts_file": "data\\jarvis_eval_prompts.txt",
+    "num_prompts": 30,
+    "empty_count": 0,
+    "empty_rate": 0.0,
+    "likely_gibberish_count": 1,
+    "likely_gibberish_rate": 0.0333,
+    "avg_response_chars": 46.3,
+    "avg_repetition_score": 0.0,
+    "decode": {
+      "temperature": 0.62,
+      "top_k": 32,
+      "top_p": 0.9,
+      "repetition_penalty": 1.12,
+      "no_repeat_ngram": 3
+    }
+  },
+  "samples": [
+    {
+      "idx": 1,
+      "user": "Answer in simple words. Create a 60 minutes plan to build a small AI assistant.",
+      "assistant": "CPergame in Gright = 101, 9 is 2.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 2,
+      "user": "Answer directly: Troubleshoot this quickly: model trains but replies are nonsense.",
+      "assistant": "A python and adjust filled with draveled ching multiple is could.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 3,
+      "user": "Run a sentiment analysis on the tweet. Context: Love the new update!",
+      "assistant": "The ball groduct copenhouse in s.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 4,
+      "user": "Rewrite the children's story: Context: Once upon a time, there was a little girl who could speak to animals.",
+      "assistant": "Calculate the given sentence to repets in a wident.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 5,
+      "user": "Design an interface for a shopping website.",
+      "assistant": "The tximently, then instructions.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 6,
+      "user": "Answer directly: Give me a quick Python one-liner to start local server on port 8000.",
+      "assistant": "The main wills\n2. Create a 3. Once up\n4. Rome.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 7,
+      "user": "Create a list of 10 adjectives using the letter \"r\".",
+      "assistant": "Inter to pays.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 8,
+      "user": "Generate a list of 7 reasons why people should exercise regularly.",
+      "assistant": "MLockey.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 9,
+      "user": "Write a story about a person who goes on an adventure with no money.",
+      "assistant": "The title in the given cluiter, and end of data is nment and a month.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 10,
+      "user": "In this task, please locate the mistake in the given sentence Context: I visited the store and buying a few things",
+      "assistant": "The Generate a list of 5 journet s.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 11,
+      "user": "Give an example of a place where an endangered species of animal might be found.",
+      "assistant": "The classification in B CPright",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 12,
+      "user": "Output the use of \"then\" in the following sentence. Context: I told you not to do it, but you did it anyway, then?",
+      "assistant": "The main wards ([1. Create a 2 hours plan to improve debugging it quickly.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 13,
+      "user": "Construct an appropriate title for the article based on the content below. Context: The evolution of robots and artificial intelligence has raised several ethical concerns.",
+      "assistant": "Work is a describe a new way.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 14,
+      "user": "Keep it practical. How can I list installed packages using Python?",
+      "assistant": "Pright, calculate the down those of the s.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 15,
+      "user": "Compose a story about enjoying the night stars.",
+      "assistant": "The cubravant of the months of your der is switch to restill in the US s.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 16,
+      "user": "Group the following ingredients into savory and sweet dishes. Context: Egg, Olive Oil, Flour, Sugar",
+      "assistant": "The munche\n- Here is 2) Bu FT)\n3. ODelded.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 17,
+      "user": "Given a rectangle, output the coordinates for the lower left corner. Context: The rectangle has a x-coordinate of 12 and a y-coordinate of 15, and the width and height of the rectangle are 4 and 5 respectively.",
+      "assistant": "The ty tables",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 18,
+      "user": "List the benefits of Amazon Web Services.",
+      "assistant": "The t\nBributter\n- EC)\n- D Pateldrasta\n- Sock\n- Mon\n- Give me the \n- Ph\n- R\n- A B\n- Col In\n- Finspirce\n- What are the tpenjoy\n- To T Final",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 19,
+      "user": "Draft a short, friendly message for a weekly project update.",
+      "assistant": "The tle in the py.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 20,
+      "user": "Give a suggestion for a fun activity that can be done with friends.",
+      "assistant": "Context: The main character in the cuation.\nAssistant: Celsible of the United States with the ork because for automate with honfire be tright in one varietables.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 21,
+      "user": "Take a given statement and make it more persuasive. Context: We should make public transportation more accessible",
+      "assistant": "The Give themotal and litor cof time.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 22,
+      "user": "Name 5 invasive species.",
+      "assistant": "The fave month.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 23,
+      "user": "Be concise. How can I delete a file using PowerShell?",
+      "assistant": "The methods.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 24,
+      "user": "Develop five interview questions to assess a candidate's fluency with a specific software. Context: Python",
+      "assistant": "The mistakes in a new cooked by the ening dream.\n- Maged in the chilitor examples of reachievable for automate in this order.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 25,
+      "user": "Shape the following sentence into a question:",
+      "assistant": "To Summarize the following sentence.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 26,
+      "user": "Explain the concept of verbal irony.",
+      "assistant": "The point current brance.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 27,
+      "user": "Create an alert in the given text. Context: The upcoming meeting has been postponed, and it has been rescheduled for Wednesday, April 1st.",
+      "assistant": "LElathards.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 28,
+      "user": "Be concise. How can I fetch remote updates using Git?",
+      "assistant": "The down of the given sentence for the following sentence.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 29,
+      "user": "Create a program to analyze user interaction with a website.",
+      "assistant": "The book can provide a shorter very in s.",
+      "repetition_score": 0.0
+    },
+    {
+      "idx": 30,
+      "user": "Find two ways to prevent global warming",
+      "assistant": "This should dogamplant",
+      "repetition_score": 0.0
+    }
+  ]
+}

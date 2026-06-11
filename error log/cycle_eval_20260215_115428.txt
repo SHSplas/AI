@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-02-15T11:54:28",
+  "checkpoint": "cpu_gpt_jarvis_rebuild_l6_v2048_best.pth",
+  "ckpt_step": 5501,
+  "ckpt_best_val": 0.2755712065845728,
+  "prompts_file": "data\\jarvis_eval_prompts.txt",
+  "num_prompts": 80,
+  "empty_count": 6,
+  "empty_rate": 0.075,
+  "likely_gibberish_count": 6,
+  "likely_gibberish_rate": 0.075,
+  "avg_response_chars": 178.07,
+  "avg_repetition_score": 0.0,
+  "decode": {
+    "temperature": 0.55,
+    "top_k": 28,
+    "top_p": 0.88,
+    "repetition_penalty": 1.12,
+    "no_repeat_ngram": 3
+  }
+}
+
+[1] User: Answer in simple words. Create a 60 minutes plan to build a small AI assistant.
+[1] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Keep changes measurabilize chat output quality regresses and rollback.
+[1] repetition_score=0.0
+
+[2] User: Answer directly: Troubleshoot this quickly: model trains but replies are nonsense.
+[2] Assistant: U. I have 20 minutes.
+Assistant: Pled test, run one controlled: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Log RCPUser: Jaround, help me reduce training noise from low-quality with 8GB. Keep chang
+[2] repetition_score=0.0
+
+[3] User: Run a sentiment analysis on the tweet. Context: Love the new update!
+[3] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Save a checkpoint before and cripproach: sequality regressamples measured time. Keep change.
+[3] repetition_score=0.0
+
+[4] User: Rewrite the children's story: Context: Once upon a time, there was a little girl who could speak to animals.
+[4] Assistant: Do this: set a clear target, run so you can compare before and after output, and keep only measurable improvements. Constraint: no GPUser: Jarversible.
+Assistant: Execution plan: set on Windows PowerShell with need fast ited time. Keep changes measurs and isolate one controllback.
+[4] repetition_score=0.0
+
+[5] User: Design an interface for a shopping website.
+[5] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 20 minutes.
+[5] repetition_score=0.0
+
+[6] User: Answer directly: Give me a quick Python one-liner to start local server on port 8000.
+[6] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Log RPUser: Jaround.
+Assistant: Do this: see each risky run one root cause with limiteration. I have 50 minutes.
+[6] repetition_score=0.0
+
+[7] User: Create a list of 10 adjectives using the letter "r".
+[7] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 250 minutes.
+[7] repetition_score=0.0
+
+[8] User: Generate a list of 7 reasons why people should exercise regularly.
+[8] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Log RDo this: set a clear target, run so you can compare resultses and rollback.
+[8] repetition_score=0.0
+
+[9] User: Write a story about a person who goes on an adventure with no money.
+[9] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 20 minutes.
+[9] repetition_score=0.0
+
+[10] User: In this task, please locate the mistake in the given sentence Context: I visited the store and buying a few things
+[10] Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Save a checkpoint before and cripproach: seint before each risky change.
+[10] repetition_score=0.0
+
+[11] User: Give an example of a place where an endangered species of animal might be found.
+[11] Assistant: Do this: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 40 minutes.
+[11] repetition_score=0.0
+
+[12] User: Output the use of "then" in the following sentence. Context: I told you not to do it, but you did it anyway, then?
+[12] Assistant: U. I have 20 minutes.
+Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Keep change.
+[12] repetition_score=0.0
+
+[13] User: Construct an appropriate title for the article based on the content below. Context: The evolution of robots and artificial intelligence has raised several ethical concerns.
+[13] Assistant: (empty)
+[13] repetition_score=0.0
+
+[14] User: Keep it practical. How can I list installed packages using Python?
+[14] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every change.
+[14] repetition_score=0.0
+
+[15] User: Compose a story about enjoying the night stars.
+[15] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every run so you can compare results.
+[15] repetition_score=0.0
+
+[16] User: Group the following ingredients into savory and sweet dishes. Context: Egg, Olive Oil, Flour, Sugar
+[16] Assistant: (empty)
+[16] repetition_score=0.0
+
+[17] User: Given a rectangle, output the coordinates for the lower left corner. Context: The rectangle has a x-coordinate of 12 and a y-coordinate of 15, and the width and height of the rectangle are 4 and 5 respectively.
+[17] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Stop if quality regress.
+[17] repetition_score=0.0
+
+[18] User: List the benefits of Amazon Web Services.
+[18] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast ited time. Stop if quality regresses and rollback.
+[18] repetition_score=0.0
+
+[19] User: Draft a short, friendly message for a weekly project update.
+[19] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Stop if quality regress.
+[19] repetition_score=0.0
+
+[20] User: Give a suggestion for a fun activity that can be done with friends.
+[20] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every run so you can compare resultses and rollback.
+[20] repetition_score=0.0
+
+[21] User: Take a given statement and make it more persuasive. Context: We should make public transportation more accessible
+[21] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every run so you can compare results.
+[21] repetition_score=0.0
+
+[22] User: Name 5 invasive species.
+[22] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: CPU only. Log every run so you can compare results.
+[22] repetition_score=0.0
+
+[23] User: Be concise. How can I delete a file using PowerShell?
+[23] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every run so you can compare results.
+[23] repetition_score=0.0
+
+[24] User: Develop five interview questions to assess a candidate's fluency with a specific software. Context: Python
+[24] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Stop if quality regresscripproach: set a clear target, comphave 20 minutes.
+[24] repetition_score=0.0
+
+[25] User: Shape the following sentence into a question:
+[25] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every run so you can compare results.
+[25] repetition_score=0.0
+
+[26] User: Explain the concept of verbal irony.
+[26] Assistant: Do this: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: limited time. Keep changes measurable training run so you can compare resultses and rollback.
+[26] repetition_score=0.0
+
+[27] User: Create an alert in the given text. Context: The upcoming meeting has been postponed, and it has been rescheduled for Wednesday, April 1st.
+[27] Assistant: U only. I have 50 minutes.
+Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Keep change.
+[27] repetition_score=0.0
+
+[28] User: Be concise. How can I fetch remote updates using Git?
+[28] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limited time. Log every change.
+[28] repetition_score=0.0
+
+[29] User: Create a program to analyze user interaction with a website.
+[29] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Stop if quality regresses and rollback.
+[29] repetition_score=0.0
+
+[30] User: Find two ways to prevent global warming
+[30] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Keep changes measurements. CPU every run so you can compare resultsamples measoring noise from low-quality regresses and rollback.
+[30] repetition_score=0.0
+
+[31] User: Name ten animals that live in a tropical rainforest.
+[31] Assistant: Pled test, run one controlled time. Log every change.
+[31] repetition_score=0.0
+
+[32] User: Explain the term 'cultural appropriation'.
+[32] Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU every changes measurements. Execution plan: se0 minutes plan to improve debug a failing noise from low-quality regresses and rollback.
+[32] repetition_score=0.0
+
+[33] User: Design an algorithm to determine whether a given number is prime.
+[33] Assistant: Pled test, run one controllan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Stop if quality regresses and rolled time. Stop if changes measuring noise from low-quality with need fast iteration. Log R
+[33] repetition_score=0.0
+
+[34] User: Describe a personality trait of the person below. Context: John
+[34] Assistant: (empty)
+[34] repetition_score=0.0
+
+[35] User: Generate a brief overview of the movie "The Big Lebowski".
+[35] Assistant: Do this: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: CPU RAM. Keep changes measured test, compave a checkpoint before each risky run so you can compare resultses and rolled time. Stop if quality regress.
+[35] repetition_score=0.0
+
+[36] User: Edit this passage to make it more concise:
+[36] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every changes measuring run so you can compare resultses and rollback.
+[36] repetition_score=0.0
+
+[37] User: Give an example of a polite phrase for when someone is leaving your house.
+[37] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every changes measurly. Stop if quality regresses and rollback.
+[37] repetition_score=0.0
+
+[38] User: Write a short story in third person narration about a protagonist who has to make an important career decision.
+[38] Assistant: .
+Assistant: Do this: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: limited time. Log every changes measure and afe each risky run so you can compare resultses and rollback.
+[38] repetition_score=0.0
+
+[39] User: Write a humorous one-liner about the advantages of having a dog.
+[39] Assistant: Execution plan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 20 minutes.
+[39] repetition_score=0.0
+
+[40] User: Describe how machine learning can be used to detect emotions in photos.
+[40] Assistant: U. I have 5 minutes.
+Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: CPU only. Stop if quality regressamples measured test.
+[40] repetition_score=0.0
+
+[41] User: Rewrite the following sentence so that it is a good example of effective communication. Context: It was a hard decision to make, but I'm glad it's done.
+[41] Assistant: U. I have 40 minutes.
+Assistant: Pled test, run one controlled time. Keep change.
+[41] repetition_score=0.0
+
+[42] User: Explain the concept of reinforcement learning in a simple and understandable way.
+[42] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: CPU every change.
+[42] repetition_score=0.0
+
+[43] User: Generate a research question related to the following topic: How technology is revolutionizing the shopping experience
+[43] Assistant: Pled test, run one controllan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every changes measurisolate one contreduce training noise from low-quality regresses and rolled time. Keep change.
+[43] repetition_score=0.0
+
+[44] User: Construct a formal email to ask a professor for an extension on a project.
+[44] Assistant: (empty)
+[44] repetition_score=0.0
+
+[45] User: Identify the largest animal in the world. Context: No input required.
+[45] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Stop if quality regresses and rollback.
+[45] repetition_score=0.0
+
+[46] User: Give an example of the use of context in natural language processing.
+[46] Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Keep changes measurisolate one containt: no GB RAM. Log RLogAM. Stop if quality regress.
+[46] repetition_score=0.0
+
+[47] User: What if I make mistakes? Keep it practical.
+[47] Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Log every run so you can compare results.
+[47] repetition_score=0.0
+
+[48] User: Explain how an artificial neuron works.
+[48] Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: 8GB RAM. Stop if quality regresses and rollback.
+[48] repetition_score=0.0
+
+[49] User: Consider a situation where you are talking to a stranger online, advise me on how I can recognize and avoid any malicious intent.
+[49] Assistant: U. I have 60 minutes.
+Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Save a checkpoint before each risky changes measurisolate one contno GPUser: Jar.
+[49] repetition_score=0.0
+
+[50] User: Which is the best way to learn a new language?
+[50] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every run so you can compare resultses and rollback.
+[50] repetition_score=0.0
+
+[51] User: Describe an example of a real-world situation in which the Classification algorithm would be an appropriate technique to use.
+[51] Assistant: U only. Log on target, help me prepare a ses and rolled test, help with limiteration. Stop if quality regressamples measurable and reversible.
+[51] repetition_score=0.0
+
+[52] User: Create a 3-5 sentence story involving a fox, a dog and a rabbit.
+[52] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Stop if quality regresses and rollback.
+[52] repetition_score=0.0
+
+[53] User: Design a logo for a restaurant that serves traditional Chinese dishes.
+[53] Assistant: U. I have 30 minutes.
+Assistant: Plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Save a checkpoint before each risky changes measursible.
+[53] repetition_score=0.0
+
+[54] User: Generate a response for the given user query. Context: How do I turn on AirDrop on my iPhone?
+[54] Assistant: (empty)
+[54] repetition_score=0.0
+
+[55] User: Identify the key differences between an organic and inorganic compound.
+[55] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 20 minutes.
+[55] repetition_score=0.0
+
+[56] User: Assign the following sentences to the appropriate parts of speech. Context: The sun was shining brightly.
+[56] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Stop if quality regress.
+[56] repetition_score=0.0
+
+[57] User: Given the following words, create a descriptive sentence. Context: Rose, sweet, fragrance.
+[57] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Log R every change.
+[57] repetition_score=0.0
+
+[58] User: Name ten jobs that have been replaced by robots.
+[58] Assistant: Pled test, run one controllan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Stop if quality regresses and rolled time. Log every change.
+[58] repetition_score=0.0
+
+[59] User: Be concise: Can you explain in detail if needed?
+[59] Assistant: Plan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Save a checkpoint before and cripproach: seek, run so you can compare results.
+[59] repetition_score=0.0
+
+[60] User: What is the most important issue currently facing the global business community?
+[60] Assistant: U. I have 20 minutes.
+Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: 8GB RAM. Log R RB every change.
+[60] repetition_score=0.0
+
+[61] User: Suggest a book to read based on the given input. Context: A story about a historical journey of discovery.
+[61] Assistant: U. I have 60 minutes.
+Assistant: Do this: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Save a checkpoint before each risky changes measuring noise from low-quality regressamples measure. Log RPUser: Jar
+[61] repetition_score=0.0
+
+[62] User: Keep it practical. Give me a practical explanation of tokenization.
+[62] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every change.
+[62] repetition_score=0.0
+
+[63] User: Keep it practical: Be concise: I only have 30 minutes
+[63] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Stop if quality regresses and rollback.
+[63] repetition_score=0.0
+
+[64] User: Generate a sentence that explains that the winter holidays are coming.
+[64] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Save a checkpoint before and quality regresses and rollback.
+[64] repetition_score=0.0
+
+[65] User: Describe what happens when you submit a form on a website.
+[65] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every changes measured fast iter.
+[65] repetition_score=0.0
+
+[66] User: Answer directly: What is the PowerShell command to search for TODO recursively?
+[66] Assistant: U. I have 5 minutes.
+Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Keep changes measuring noise from low-quality regresses and rollback.
+[66] repetition_score=0.0
+
+[67] User: Edit the text below to make it gender-inclusive. Context: The doctor encouraged his patient to make healthier decisions.
+[67] Assistant: U. I have 50 minutes.
+Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Keep changes measured fast iteration. Stop if quality regress.
+[67] repetition_score=0.0
+
+[68] User: Explain simply: Is AI alive
+[68] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Log every run so you can compare results.
+[68] repetition_score=0.0
+
+[69] User: Produce 100 words of unique content based on the following prompt. Context: Prompt: The day the sun disappeared
+[69] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: 8GB RAM. Keep change.
+[69] repetition_score=0.0
+
+[70] User: Answer in simple words. Give me a practical explanation of checkpoint.
+[70] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GPU. I have 20 minutes.
+[70] repetition_score=0.0
+
+[71] User: Construct an analogy that compares a smartphone to an appliance.
+[71] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Save a checkpoint before each risky changes measuring noise from low-quality regress.
+[71] repetition_score=0.0
+
+[72] User: Describe a unique feature of the given product. Context: Product: Electric scooter
+[72] Assistant: (empty)
+[72] repetition_score=0.0
+
+[73] User: Assign a letter grade of A, B, C, D, or F to a student based on their grades. Context: Math Grade: 86, Science Grade: 78
+[73] Assistant: Pled test, run one controlled time. Stop if quality regress.
+[73] repetition_score=0.0
+
+[74] User: Write a function which reverses the order of words in a sentence.
+[74] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Keep change.
+[74] repetition_score=0.0
+
+[75] User: What is 25% of 443?
+[75] Assistant: Do this: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Keep changes measurabilize chat output quality regress.
+[75] repetition_score=0.0
+
+[76] User: Build an algorithm to detect fraud.
+[76] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: limiteration. Save a checkpoint before and quality regresses and rollback.
+[76] repetition_score=0.0
+
+[77] User: Explain a complex concept in simple terms.
+[77] Assistant: Execution plan: set a clear target, compare before and after output, and keep only measurable improvements. Constraint: limited test, comphave 5 minutes.
+[77] repetition_score=0.0
+
+[78] User: Explain the similarities between a left-wing and a right-wing political ideology
+[78] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: no GB RAM. Save a checkpoint before each risky change.
+[78] repetition_score=0.0
+
+[79] User: What is 40% of 2828?
+[79] Assistant: Execution plan: set a clear target, run one controlled test, compare before and after output, and keep only measurable improvements. Constraint: need fast iteration. Keep change.
+[79] repetition_score=0.0
+
+[80] User: Brainstorm 4 possible options to reduce pollution in the city.
+[80] Assistant: Pled test, compare before and after output, and keep only measurable improvements. Constraint: 8GPU. I have 20 minutes.
+[80] repetition_score=0.0
+

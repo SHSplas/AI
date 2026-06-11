@@ -1,0 +1,2176 @@
+User: Describe the key features of a REST API.
+Assistant: A REST API is a type of API architecture that supports the communication between two or more internet applications or services. A few key features of a REST API include: the client-server model, statelessness which maintains the transactions, uniform interface for request and response handling, layered system for easier scalability, and cacheable responses for improved performance. A REST API can also be used as a service for front-end applications, making it a great choice for application development.
+
+User: Keep it practical: explain thallium.
+Assistant: thallium is chemical element with symbol Tl and atomic number 81 (type: chalcophile element).
+
+User: Analyze the following text and provide the statistics related to the sentiment score it carries.
+Context: Text: Life feels like a roller coaster. It has its ups and downs.
+Assistant: The sentiment analysis of the text reveals an overall positive sentiment score of 0.7 on a scale of -1 to 1. It has a higher proportion of positive words (2) compared to negative words (0).
+
+User: Generate five topic ideas for a podcast on self-care.
+Assistant: 1. How to Make Time for Self-Care 
+2. Understanding Mental Health Challenges 
+3. Strategies for Taking Better Care of Yourself 
+4. The Benefits of Writing for Self-Care 
+5. The Power of Sleep in Self-Care
+
+User: Make a list of 5 verbs in the past tense.
+Assistant: 1. Ran 
+2. Sang 
+3. Saw 
+4. Laughed 
+5. Jumped
+
+User: Write a C++ program that prints "Hello World!"
+Assistant: #include <iostream>
+ 
+int main() {
+ std::cout << "Hello World!" << std::endl;
+ return 0;
+}
+
+User: What is HIP 78530 b?
+Assistant: HIP 78530 b is extrasolar planet (type: low-mass star).
+
+User: List 3 reasons why social media can be harmful.
+Assistant: 1. It can lead to comparison, envy and feelings of inadequacy.
+2. It can lead to an unhealthy obsession with people's lives and give a distorted view of reality. 
+3. It can be used to spread false information and dangerous content.
+
+User: What is Go!?
+Assistant: Go! is multi-paradigm programming language (type: procedural programming language). Notable date: 2003-07-14.
+
+User: Create a news headline based on the following event, "A student won a competition in quantum computing".
+Assistant: Student Excels in Quantum Computing Competition - Sets New Records!
+
+User: What is 11 Ursae Minoris b?
+Assistant: 11 Ursae Minoris b is extrasolar planet (type: exoplanet).
+
+User: Answer in simple words. My issue: Tokenizer output looks corrupted. How do I debug it quickly?
+Assistant: Start by reproducing it consistently, then inspect logs. Most likely fix here is: normalize text encoding and avoid mixed mojibake input. After patching, re-test with the original failing case.
+
+User: Keep it practical: Give me a quick PowerShell one-liner to search for TODO recursively.
+Assistant: Run `Get-ChildItem -Recurse | Select-String -Pattern 'TODO'`. It directly handles: search for TODO recursively.
+
+User: Suggest two key aspects of a good product demo
+Assistant: Two key aspects of a good product demo are to provide detailed information about the product, and to present the product in an engaging way. It is essential to provide comprehensive information about the product, so that viewers can make informed decisions about the product, while offering a demonstration in an engaging way ensures that viewers pay attention and remember the information provided.
+
+User: List 5 clothing items you would take on a long camping trip.
+Assistant: 1. Thick coat 
+2. Hat 
+3. Waterproof boots 
+4. Sweater 
+5. Hiking pants
+
+User: Identify the syntactical difference between two sentences.
+Context: She ate the food.
+The food ate she.
+Assistant: The first sentence has the subject "She" before the verb "ate" while the second sentence has the subject "She" after the verb "ate".
+
+User: Explain the differences between the IaaS, PaaS and SaaS cloud computing models.
+Assistant: Infrastructure as a Service (IaaS) is a cloud computing model where users access virtualized computing resources that are managed by a cloud provider. IaaS enables users to access, provision, and manage their own computing resources and handle the underlying infrastructure, such as servers, storage, and networks. Platform as a Service (PaaS) is a cloud computing model where users access the provider's platform to develop, run, and manage applications. In a PaaS model, the cloud provider is responsible for managing the underlying infrastructure while users manage and customize the applications. Software as a Service (SaaS) is a cloud computing model where users access the provider's applications over the internet. In a SaaS model, all the underlying infrastructure, platform, and software applications are managed by the cloud provider, and users access and use the applications as needed.
+
+User: Provide the name and address of a restaurant in New York.
+Context: No input.
+Assistant: Rao's, 455 East 114th Street, New York, NY 10029.
+
+User: Keep it practical: explain Julia.
+Assistant: Julia is high-performance dynamic programming language (type: functional programming language). Notable date: 2009-08-23.
+
+User: What are the different uses of machine learning?
+Assistant: Machine learning can be used for a wide range of tasks, such as natural language understanding, computer vision, image classification, object detection, prediction, and decision-making. It can also be used for automated tasks such as customer support, fraud detection, and spam filtering.
+
+User: Be concise. How should I ask for help?
+Assistant: Share your goal, current output, expected output, and constraints like time or hardware.
+
+User: What are weights?
+Assistant: They are numbers that control how important each input is. Changing them changes the output.
+
+User: Give a short description of what artificial intelligence is
+Assistant: Artificial Intelligence (AI) is a term used to describe machines that are able to think, learn and make decisions in the same way as a human. It is the science and engineering of replicating human behavior and intelligence with machines, often faster and with greater accuracy than humans can. AI technologies exist in the form of software, hardware, robots, and other forms of technology. AI is used in a wide variety of fields, such as robotics, healthcare, finance, marketing, and more.
+
+User: Develop a persuasive argument for why it is important to vote.
+Assistant: Voting is an integral part of our democracy and our civic duty as citizens. It is the only way that we can have our voices heard and make sure that our interests are represented. When we vote, we have a say in the laws and policies that affect our lives, our country, and our world. Through voting, we can shape the future we desire and ensure a brighter, more equitable society for all. For these reasons, it is important that we exercise our right to vote and have our voices heard.
+
+User: Create a positive spin to the following statement: "The federal government is considering the possibility of canceling the summer internships."
+Assistant: The federal government is exploring new ways to offer meaningful internship experiences during the summer.
+
+User: Be concise: what is Ksar Krikrya?
+Assistant: Ksar Krikrya: Ksar in Tunisia.
+
+User: How does the world work?
+Assistant: The world is a complex and beautiful place, full of science and stories.
+
+User: Give me a short explanation of Windows Server 2008.
+Assistant: Windows Server 2008 is version of the Windows Server line of server operating systems, based on Windows Vista and released in 2008. Notable date: 2008-12-12.
+
+User: Describe why making a decision can be difficult.
+Assistant: Making a decision can be difficult because there are many factors to consider. Often times, it can be hard to weigh the pros and cons or make a choice between good and bad options. Additionally, it can be difficult to know what the long-term impacts of a decision may be, leading to confusion and anxiety.
+
+A sentence that ends abruptly because it was interrupted
+
+User: Assemble the following components into a complete sentence.
+Context: He was hesitant, to go
+Assistant: He was hesitant to go.
+
+User: Reorder the following list in a chronological order.
+Context: Event A, Event B, Event C, Event D
+Assistant: Event A, Event B, Event C, Event D 
+
+Chronological Order: Event A, Event B, Event C, Event D
+
+User: Give me a short explanation of mercury.
+Assistant: mercury is chemical element with symbol Hg and atomic number 80 (type: metal).
+
+User: Imagine you are hiking in a forest, describe the setting.
+Assistant: I am standing in a dense forest of tall trees, the leaves rustling in the gentle breeze. Sunlight filters through in patches, dappling the carpet of ferns and moss on the ground. I can hear birds chirping in the branches above, and the gurgle of a nearby stream. The stillness of the woods is peaceful, and I feel rejuvenated as I take in the sights and sounds around me.
+
+User: Output which of the 3 figures is biggest.
+Context: Figure 1 is 27 cm, Figure 2 is 15 cm, and Figure 3 is 10 cm
+Assistant: Figure 1 is the biggest with a size of 27 cm.
+
+User: Predict the stock market trend of Ford over the next three months.
+Assistant: It is likely that the stock market trends of Ford will remain stable for the next three months. There is a good chance that the stock will increase slightly due to the company's successful launch of its electric vehicles. However, due to the uncertainty surrounding the global economy, it is difficult to make an accurate prediction.
+
+User: Explain why the actions taken by a certain character are morally wrong.
+Context: The protagonist of the story steals from a store.
+Assistant: The protagonist's actions are morally wrong because they involve taking something that does not belong to them without permission. Stealing is wrong as it harms the store, the owner, and other customers who would have bought the items if they had not been stolen. It also sets a bad example and might encourage others to steal as well.
+
+User: Generate a relevant research question on crisis communication.
+Assistant: What are the best practices for crisis communication in the digital age?
+
+User: How do I clean my room fast?
+Assistant: Set a timer, remove trash first, put items back, wipe surfaces, then sweep.
+
+User: Given the two passages, compare and contrast their concepts.
+Context: Passage 1: Agile methodology emphasizes rapid iteration and quickly responding to change.
+
+Passage 2: Waterfall methodology is an action-oriented approach to project management which follows a linear progression from beginning to end.
+Assistant: Both Agile methodology and Waterfall methodology are approaches to project management. However, Agile methodology emphasizes an iterative process of rapid change and response, while Waterfall methodology follows a linear progression from beginning to end with an emphasis on action. Agile methodology focuses on rapid development cycles, while Waterfall methodology allows for more control and meticulous oversight over the development process.
+
+A sentence with excess caution:
+Just to be safe.
+
+User: Improve the following sentence by using a better transition.
+Context: We did not have enough time so we had to leave.
+Assistant: Given that we had limited time, we had to leave.
+
+User: Keep it practical: explain Windows NT 3.5.
+Assistant: Windows NT 3.5 is 32-bit cross-platform operating system developed by Microsoft (type: proprietary software). Notable date: 1994-09-21.
+
+User: Come up with three benefits of using a virtual assistant.
+Assistant: 1. A virtual assistant can make life easier by taking over mundane, time-consuming tasks. 
+2. A virtual assistant can provide 24/7 assistance, which can save time and money. 
+3. A virtual assistant can free up the user's time to focus on the more important aspects of the job.
+
+User: Give me a 30-minute plan to debug a failing script.
+Assistant: Use 30 minutes as 10% planning, 75% execution, 15% review with one concrete next action.
+
+User: Given a database table, generate 5 useful SQL queries
+Context: Table Schema:
+
+books(id,title,author,genre,price)
+Assistant: 1. SELECT AVG(price) FROM books;
+2. SELECT title, author FROM books WHERE genre='horror';
+3. SELECT COUNT(*) FROM books WHERE price>20;
+4. SELECT * FROM books WHERE author='John Doe';
+5. SELECT title, price FROM books WHERE price>15 ORDER BY price ASC;
+
+User: Clean the text of spelling and grammar errors.
+Context: A polular show form the eary 2000s
+Assistant: A popular show from the early 2000s.
+
+A sentence with unnecessary detail:
+The mug had a chip on the rim, exactly where lips avoided it.
+
+User: What is gray tin?
+Assistant: gray tin is non-metallic allotrope of tin, stable below room temperature (type: chemical substance).
+
+User: Provide three possible solutions to this problem.
+Context: A student is having difficulty studying for a math test.
+Assistant: Possible solutions include: 
+1. Practicing self-care to reduce stress. 
+2. Working with a math tutor to better understand the material. 
+3. Breaking up study sessions into smaller chunks with regular breaks.
+
+User: Describe a unique way to cook a steak.
+Assistant: One unique way to cook a steak is sous-vide. This method cooks the steak slowly in a sealed bag of its own juices at a low temperature. The steak is vacuum-sealed, then cooked in a water bath at a precise temperature for an extended period, ensuring that it is fully cooked through but still tender and juicy.
+
+User: What is the one thing we should always ask permission for before sharing other people's content online?
+Assistant: We should always ask permission before sharing other people's content online, such as photos, videos, music, or writing.
+
+User: Write a few sentences explaining the concept of deep learning.
+Assistant: Deep learning is a subset of machine learning that allows computers to learn from data without being explicitly programmed. It uses algorithms to effectively and accurately find patterns in data which can then be used for prediction and decision-making tasks. The deeper the network architecture, the more accurate the results it will produce. Deep learning is becoming increasingly popular due to its ability to work with large datasets and to provide accurate results.
+
+User: Express this sentiment more positively.
+Context: I'm too tired to do anything productive today.
+Assistant: I'm taking some time to rest and recharge so that I can be productive tomorrow.
+
+User: Be concise: what is Ubuntu for Android?
+Assistant: Ubuntu for Android: Ubuntu for Android devices.
+
+User: Share a funny pun.
+Assistant: Why don't scientists trust atoms? Because they make up everything!
+
+User: What is HD 2638 b?
+Assistant: HD 2638 b is planet orbiting the star HD 2638 (type: exoplanet).
+
+User: Summarize the current state of renewable energy in the US.
+Assistant: The United States is making progress in the development of renewable energy, but still lags behind other countries when it comes to the percentage of energy generated from renewable sources. Currently, 23% of US electricity comes from renewable sources, with solar energy accounting for a majority of that, followed by wind and geothermal. Government incentives have enabled many utilities to invest in renewable energy sources, and policymakers continue to focus on ways to accelerate its development. Despite the progress that has been made, more work needs to be done in order to make renewable energy a more prominent part of the US energy mix.
+
+User: Summarize the characteristics of a given type of animal.
+Context: Gorilla
+Assistant: Gorillas are large and powerful primates found in the African forests. They have large, dark eyes, a heavy, muscular body and long arms. Gorillas are herbivores, eating mostly leaves, stems, flowers, and fruit. They live in small social groups and have complex social behavior, including hierarchy and communication.
+
+User: What is White Oak Creel?
+Assistant: White Oak Creel is decorative artwork (fiber) by Billy Ray Sims. It is associated with United States. Notable date: 2009-01-01.
+
+User: Change this to the past tense.
+Context: The cat runs around the house.
+Assistant: The cat ran around the house.
+
+User: Keep it practical: explain beryllium.
+Assistant: beryllium is chemical element with symbol Be and atomic number 4 (type: combustible powder).
+
+User: What is Gullah Fanner Basket?
+Assistant: Gullah Fanner Basket is decorative artwork (fiber) by Lynette Youson. It is associated with United States. Notable date: 2002-01-01.
+
+User: Generate an algorithm to check if a given string is a palindrome.
+Assistant: Algorithm to check if a given string is a palindrome:
+
+1. Take the string as input.
+2. Initialize two pointers at the start and the end of the string.
+3. Compare the characters at the two pointers.
+4. If the characters are the same, move the two pointers towards the middle of the string.
+5. Repeat step 3 until either the two pointers reaches the middle or the characters are different.
+6. If the two pointers reach the middle of the string, the string is a palindrome. Else, it is not a palindrome.
+
+User: Be concise: what is OpenVMS?
+Assistant: OpenVMS: computer operating system.
+
+User: Answer in simple words. Draft a short, professional message for a request for deadline extension.
+Assistant: Write a short note with a professional tone. Open with context, state the key point clearly, and end with a concrete next step.
+
+User: Consider the following passage and classify it into one of the following categories: (a) fiction (b) non-fiction
+Context: The seasons are changing, and the forest is alive with the sound of birds chirping, the rustle of leaves turning its many colors, and a fresh scent in the air.
+Assistant: a (fiction)
+
+User: Give me a short explanation of Table/Cloth.
+Assistant: Table/Cloth is decorative artwork (fiber) by Cynthia Schira. It is associated with United States. Notable date: 1998-01-01.
+
+User: Classify this news article according to its category.
+Context: The US Fed chairman's decision to cut interest rates has sparked controversy amongst economists, as some believe it will trigger a new economic crisis.
+Assistant: Economics news.
+
+User: Create a character profile
+Context: Ruth
+Assistant: Ruth is a 25-year-old woman living in New York City. She works as an art curator and loves to travel, painting, and experiencing new cultures. People find her confident and determined but she often keeps her true emotions hidden. She loves spicy food, a good mystery novel, and a glass of wine.
+
+User: Generate a suitable slogan for the following company
+Context: ACME Corporation is a logistics company with a focus on shipping vehicles and other international freight.
+Assistant: "Let ACME take you around the world!"
+
+User: Answer directly: How do I handle low RAM during training?
+Assistant: Lower batch size, keep context short, and use gradient accumulation carefully.
+
+User: Keep it practical: explain neon.
+Assistant: neon is chemical element with symbol Ne and atomic number 10; rare gas (type: atmophile element).
+
+User: Keep it practical: explain Windows XP Professional x64 Edition.
+Assistant: Windows XP Professional x64 Edition is an operating system derived from Windows Server 2003 for personal computers with the x64 CPU architecture. Notable date: 2005-04-25.
+
+User: How should I ask questions? Keep it practical.
+Assistant: Use clear goals, share context, and include constraints like time, RAM, or preferred language.
+
+User: Give me a short explanation of Mac OS X 10.1.
+Assistant: Mac OS X 10.1 is second major release of OS X (type: operating system).
+
+User: Cut this sentence in half for a tweet:
+Context: I just bought a new car and I am so excited to drive it!
+Assistant: I just bought a new car and I am so excited! #Driving #NewCar
+
+User: Describe coral reefs in three sentences.
+Assistant: Coral reefs are vibrant underwater ecosystems formed from the skeletons of polyps. They are incredibly diverse, providing a home for a multitude of sea creatures such as fish, crustaceans, mollusks, and sea turtles. Coral reefs also provide protection for the mainland from strong waves, storms, and floods.
+
+User: Be concise: what is HD 139357 b?
+Assistant: HD 139357 b: extrasolar planet.
+
+User: Compose a five word sentence describing your day.
+Assistant: Today was an amazing day.
+
+User: What is Modula-2?
+Assistant: Modula-2 is programming language (type: imperative programming language). Notable date: 1978-01-01.
+
+User: Recognize the author of the following paragraph
+Context: It is said that books are a man's best companion and knowledge lies inside them. Education is the key to success and can open the door of numerous opportunities.
+Assistant: The author of this paragraph is unknown.
+
+User: Write a Jquery script to hide all HTML elements which have the class “hide-this.”
+Assistant: $(document).ready(function(){
+$('.hide-this').hide();
+});
+
+User: Answer in simple words. My issue: Validation loss is worse than training loss. How do I debug it quickly?
+Assistant: Quick plan: 1. Confirm the failure scenario. 2. Isolate one variable at a time. 3. Fix root cause: add regularization and improve validation split quality. 4. Add a regression test.
+
+User: Explain the concept of 'X' in 5 sentences.
+Context: X: The Big Bang Theory
+Assistant: The Big Bang Theory is the scientific explanation for the beginning of our universe. It suggests that the universe started from an energetic singularity, which underwent an exponential expansion and generated all of the matter and energy that exist today. The Big Bang Theory is supported by scientific observations, such as the cosmic microwave background radiation and red-shift of distant galaxies. It is believed that the Big Bang happened roughly 13.8 billion years ago and it is still expanding today. This makes the Big Bang provides a foundation for cosmology, which is the study of the universe and its development.
+
+User: Keep it practical: explain Ksar Krikrya.
+Assistant: Ksar Krikrya is Ksar in Tunisia. It is associated with Tunisia.
+
+User: I need to add all modified files. What command should I run in Git?
+Assistant: Recommended command: git add -A Run it in Git to add all modified files.
+
+User: Answer in simple words. Give me the Python command to list installed packages.
+Assistant: Recommended command: pip list Run it in Python to list installed packages.
+
+User: Discuss the main components of a computer system.
+Assistant: A computer system typically consists of four main components: input devices, processing units, output devices, and storage devices. Input devices such as keyboards, mice, and scanners are used to receive information and instructions from the user. Processing units execute the instructions and calculations received at the input level. Output devices, such as monitors and printers, provide processed information in visual or printed form. Storage devices store data and programs used by the computer for future purposes.
+
+User: Keep it practical: explain Tache Bleu.
+Assistant: Tache Bleu is decorative artwork (fiber) by Alexander Calder (type: fiber art). It is associated with United States. Notable date: 1975-01-01.
+
+User: Describe a time when you had to make a difficult decision.
+Assistant: I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client’s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team’s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client’s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities.
+
+User: Explain how plants respire
+Assistant: Plants respire by taking in oxygen and releasing carbon dioxide in a process called cellular respiration. During photosynthesis, plants use energy from sunlight to convert water and carbon dioxide into oxygen and glucose. During respiration, which occurs both day and night, glucose is converted back into carbon dioxide and water. This process releases energy for the plant's cells to use for growth and development.
+
+User: What is Firedrake?
+Assistant: Firedrake is decorative artwork (fiber) by Sherri Smith (Smithsonian American Art Museum, 1979.159.34) (type: fiber art). It is associated with United States.
+
+User: Generate a scientific paper title based on the following recommendations:
+Context: The aim of this paper is to study how artificial intelligence can be applied in the healthcare industry to improve patient outcomes.
+Assistant: Exploring the Potential of Artificial Intelligence in Healthcare: An Evaluation of Clinical Outcomes
+
+User: How many syllables are present in the word "dispite"
+Assistant: Two. Dispite has two syllables.
+
+User: Analyze the given paragraph to find any mistakes or room for improvement.
+Context: Jhon and his friends went for a day out on the beach. They spent their day by swimming and also playing lots of badmminton and soccer.
+Assistant: John and his friends went for a day out on the beach. They spent their day swimming and playing badminton and soccer.
+
+User: Keep it practical: Can you summarize progress quickly?
+Assistant: Yes. I can give short bullet summaries with decisions, fixes, and next steps.
+
+User: What is gallium?
+Assistant: gallium is chemical element with symbol Ga and atomic number 31 (type: chalcophile element).
+
+User: Describe the concept of supervised learning.
+Assistant: Supervised learning is a type of machine learning where labeled data is used to create a model that can make predictions about unlabeled data. In supervised learning, the training dataset consists of data that has already been labeled with the correct output, or the target value. The algorithm then learns from this labeled data and is able to make predictions on new, previously unseen data. Supervised learning is commonly used in image recognition, natural language processing and most machine learning tasks.
+
+User: Be concise. Draft a medium, concise message for a follow-up email after an interview.
+Assistant: Write a medium note with a concise tone. Open with context, state the key point clearly, and end with a concrete next step.
+
+User: Keep it practical. Create a 30 minutes plan to build a small AI assistant.
+Assistant: For the next 30 minutes, focus on one outcome: build a small AI assistant. Start with setup, then one deep work block, then a short review.
+
+User: Summarize what you have learned from this lecture.
+Context: The lecture discussed the importance of networking in job searching.
+Assistant: This lecture taught the importance of networking in job searching and emphasized the power of forming connections and creating relationships with potential employers and colleagues that can give insights into the industry, potential interviewers, and the job application process.
+
+User: Who invented the can opener?
+Assistant: The can opener was invented in 1858 by Ezra J. Warner of Waterbury, Connecticut. He initially called it the "sterilizing jar and opener" and was used to open cans of preserved food.
+
+User: Replace the word "diffferent" with the correct word:
+Context: The group discussed the controversial topic in diffferent manners.
+Assistant: The group discussed the controversial topic in various manners.
+
+User: Create a mnemonic device to remember the names of the Great Lakes.
+Assistant: A mnemonic device to remember the names of the Great Lakes is "HOMES": Huron, Ontario, Michigan, Erie, and Superior.
+
+User: Give me a short explanation of palladium as an investment.
+Assistant: palladium as an investment is overview about Palladium as an investment (type: precious metal).
+
+User: Predict how company stocks will perform over the course of the next 6 months.
+Assistant: It is difficult to predict the exact performance of company stock prices. Factors such as macroeconomic developments, geopolitical events and sector-specific movements all play a role in determining stock prices. It is best to consult with a financial expert before making any predictions.
+
+User: Name three renewable energy sources
+Assistant: 1. Solar
+2. Wind
+3. Hydropower
+
+User: What is HD 95089 b?
+Assistant: HD 95089 b is extrasolar planet (type: exoplanet).
+
+User: Convert weights and measures.
+Context: 2 feet
+Assistant: 2 feet is equal to 0.6096 meters.
+
+User: Give an example of a school in the United States.
+Assistant: The University of California, Berkeley is an example of a school in the United States.
+
+User: Generate a headline that conveys the following content.
+Context: San Francisco Bay Area is experiencing a real estate boom.
+Assistant: Real Estate Boom Brings Windfall to San Francisco Bay Area.
+
+User: Give an example of an equation.
+Assistant: The equation for the area of a triangle is A = 1/2 * base * height.
+
+User: Keep it practical: explain Q1040966.
+Assistant: Q1040966 is substellar object in the constellation Ursa Major (type: exoplanet).
+
+User: Fix the grammar mistakes in the following sentence.
+Context: Last night I wented to the store.
+Assistant: Last night I went to the store.
+
+User: In one short paragraph, Why don’t we float
+Assistant: Because Earth’s gravity is strong enough to keep us on the surface.
+
+User: Describe the differences between Python 2 and Python 3.
+Assistant: Python 3 is the latest version of the Python language and is not backward compatible with Python 2. The main syntax differences include the print function, integer division behavior, and function annotations. Python 3 also supports additional features such as Unicode support, new libraries, and improved exception handling. Additionally, Python 3 is more strict about certain syntax errors, meaning code needs to be more consistent and follow certain standards such as indenting. Python 2 has been deprecated and is no longer officially supported by the Python project.
+
+User: Describe a positive trait that you possess.
+Assistant: One positive trait that I possess is a willingness to learn. I am always open to new ideas and perspectives, and I have a deep curiosity about the world. Learning is something that I enjoy and I'm constantly striving to improve and grow.
+
+User: Come up with a title appropriate to the following scenario.
+Context: A group of brave adventurers embark on a quest to save the world
+Assistant: The Champions of Destiny: A Quest to Save the World.
+
+User: What is the average life expectancy of a cat?
+Assistant: The average life expectancy of a cat is around 12 to 15 years. However, some cats live up to 20 years or even longer.
+
+User: Find the first derivative of the following function.
+Context: f(x) = x^2
+Assistant: f'(x) = 2x
+
+User: Keep it practical: explain X85WMoCoV6.5.4.2 KU.
+Assistant: X85WMoCoV6.5.4.2 KU is steel.
+
+User: Give me a short explanation of Madalitso.
+Assistant: Madalitso is extrasolar planet (type: exoplanet).
+
+User: Write an anecdote about the power of optimism.
+Assistant: A young man was walking home from work one day when he stumbled upon a rock in his path. He quickly became frustrated, believing that it was an obstacle preventing him from making it home before nightfall. 
+
+But then he saw the rock differently – as an opportunity to practice his strength and prove that anything is possible if one sets their mind to it. He picked up the rock, held it above his head and continued on his way with a newfound sense of optimism.
+
+User: Edit the following sentence to create a more vivid scene.
+Context: The wind was blowing in the park
+Assistant: The chill winter wind swept through the park, rustling the bare trees and sending shivers down the spines of the few brave souls who ventured outside.
+
+User: The web page should display the following message, "This page is under construction. Please check back soon." Construct the HTML code to display the message.
+Assistant: <html>
+<head>
+ <title>Under Maintenance</title>
+</head>
+<body>
+ <h1>This page is under construction. Please check back soon.</h1>
+</body>
+</html>
+
+User: Give me a short explanation of Wilder Damask.
+Assistant: Wilder Damask is forged steel composite (type: Damascus steel).
+
+User: Be concise. Create a 30 minutes plan to organize weekly study sessions.
+Assistant: For the next 30 minutes, focus on one outcome: organize weekly study sessions. Start with setup, then one deep work block, then a short review.
+
+User: Find the maximum of the following quadratic equation.
+Context: y = 2x^2 - 5x - 4
+Assistant: The maximum of the equation is at x = 2.25 and the maximum value of the equation is 9.4375.
+
+User: Explain why this product could be used as an affordable gift
+Context: A USB car charger
+Assistant: A USB car charger is an affordable and practical gift for anyone who spends a lot of time on the road. It provides a convenient way to charge devices in the car, eliminating the need for an extra power outlet. The charger is compact and lightweight, making it easy to store and transport. Moreover, the price of USB car chargers is usually quite affordable, making it a great gift for any occasion.
+
+User: Create a timeline showing the main events of the American Revolution.
+Assistant: 1754-1763: The French and Indian War leads to rising tensions between Great Britain and the American colonies. 
+
+1775: The Revolutionary War begins. 
+
+1776: The Declaration of Independence is signed.
+
+1778: The Franco-American Alliance is signed by France. 
+
+1781: The Articles of Confederation are ratified. 
+
+1783: The Treaty of Paris is signed, ending the Revolutionary War. 
+
+1787: The US Constitution is ratified, officially establishing the United States.
+
+User: Give me a short explanation of BLM-4.
+Assistant: BLM-4 is decorative artwork (fiber) by Carolyn Crump (type: fiber art). It is associated with United States. Notable date: 2020-01-01.
+
+User: Answer in simple words. Create a 2 hours plan to improve command-line productivity.
+Assistant: For the next 2 hours, focus on one outcome: improve command-line productivity. Start with setup, then one deep work block, then a short review.
+
+User: Parse the given sentence and identify the subject, verb & object.
+Context: The man purchased the old car.
+Assistant: Subject: The man
+Verb: purchased
+Object: the old car
+
+User: Be concise. Who built you?
+Assistant: You did. This local Jarvis model was built and trained in your project on your laptop.
+
+User: Create a mobile app that displays popular sports results
+Assistant: I would create a mobile app that displays real-time sports results for popular sports. The app would show up-to-date information for all major sports leagues, including the latest scores, standings, and other sports news. The app would also feature an integrated search function that allows users to quickly find the latest sports results for any team or player. Additionally, users would be able to set alerts to be notified when their favorite teams or players have upcoming or completed games. The app would also feature intuitive and attractive designs that make it easy to quickly access the desired information.
+
+User: Identify the biggest challenges faced by AI experts
+Assistant: The biggest challenges faced by AI experts include ensuring accuracy and reliability of the generated output, dealing with data bias and ensuring fairness of the models, adjusting models for changing scenarios and real-world conditions, and developing technical and organizational architectures for handling large volumes of data. Additionally, AI experts must consider the ethical implications of their work and ensure that their AI models are secure and compliant with regulatory frameworks.
+
+User: Evaluate the following sentence in terms of grammar, word choice, and sentence structure.
+Context: the lonely cat sat on the mat
+Assistant: The sentence is grammatically correct and the word choices are appropriate for the sentence structure. The sentence structure is simple but effective.
+
+User: Be concise. Should I use more data or bigger model?
+Assistant: Improve data quality first. High-quality data usually helps more than a larger model on limited hardware.
+
+User: Brainstorm 5 potential topics for a beginners guide about AI and machine learning
+Assistant: 1. What is AI and Machine Learning?
+2. Popular Uses of AI and Machine Learning
+3. Benefits of AI and Machine Learning
+4. Challenges and Limitations of AI and Machine Learning
+5. Steps For Getting Started With AI and Machine Learning Projects.
+
+User: Design an experiment to collect data on the impact of social media on people's mental health.
+Assistant: The aim of the experiment would be to collect data on the impact of social media on people's mental health. The experiment would involve recruiting a sample of participants, ideally containing people of diverse backgrounds. Each participant would complete a survey, which would gather data on the amount of time they spend using social media each week, as well as any mental health problems that they have. The additional information gathered would include details of the types of content they are exposed to (such as promotional material, news, and personal posts by friends and family) and the amount of interaction they are involved in (such as likes, comments, and sharing). The participants would then be required to provide a self-report of their mental health after a period of six months. This would provide the basis for comparison to measure the impact of social media on their mental health.
+
+User: Describe the features of capitalism.
+Assistant: Capitalism is an economic system driven by private capital investment and owned by individuals or companies. It is characterized by the freedom of economic agents (individuals or firms) to make their own economic decisions, including what to produce, how to produce it, and for whom to produce it. The goal of capitalism is to create an efficient, competitive market system that facilitates the fair allocation of resources and rewards production. Its main features include private ownership, the free market, voluntary exchange, competition, the pursuit of profit, and the rule of law.
+
+User: Identify the root form of the word spoke.
+Assistant: The root form of the word "spoke" is "speak".
+
+User: Answer directly: What is the Python command to create virtual environment?
+Assistant: python -m venv .venv Use it to create virtual environment. I can also give a command example if useful.
+
+User: Describe an example of customer service done right.
+Assistant: An example of customer service done right is when a customer reaches out to a company with an issue or a complaint, and the company quickly responds by providing solutions or solutions that are tailored to the customer's needs. The customer service representative is patient and understanding, listens to the customer's concerns, and takes the customer's input into account when offering solutions. The representative is also friendly, courteous, and professional and goes out of their way to ensure the customer is satisfied with the outcome.
+
+User: Design a logo for a tech startup whose primary focus is creating artificial intelligence applications.
+Assistant: An abstract, techie-looking logo with recognizable elements such as a futuristic font and a bold, sharp color palette could be a great fit for this company, as this would reflect their mission and values. The logo should contain a modern symbol that reflects the concept of AI and technology, and should be eye-catching and memorable.
+
+User: How can I track model progress? Keep it practical.
+Assistant: Log train loss, validation loss, sample outputs, and throughput every fixed number of steps.
+
+User: Delete the all the nouns from the sentence.
+Context: Yesterday I went to the zoo with my friends.
+Assistant: Yesterday I went to with .
+
+User: Describe the concept of modular programming
+Assistant: Modular programming is an approach to software development that subdivides a system into smaller, self-contained components known as modules. Each module is responsible for a specific functionality of the system, and they are loosely coupled, meaning that changes to one module may not require changes to other modules. Thus, each module is self-contained and can be developed, tested, and maintained independently of the other modules. Modular programming also allows for greater scalability, as new modules can be added to the system at any time. Finally, modular programming can help improve code quality, as it encourages code reuse, code readability, and more efficient debugging.
+
+User: Create a list of five items to buy in preparation for a hurricane.
+Assistant: 1. Water 
+2. Flashlights 
+3. Batteries 
+4. Non-perishable food 
+5. First aid kit
+
+User: Keep it practical. How can I create a new folder named logs using PowerShell?
+Assistant: Try this: New-Item -ItemType Directory logs This should create a new folder named logs.
+
+User: Create a list of items for a picnic.
+Assistant: A picnic list should include items such as: sandwiches, chips, fruit, vegetables, crackers, spreads, cheese, drinks, and snacks. Optional items may include cutlery and plates, a blanket to sit on, sunblock, hats and sunglasses, insect repellent, playing cards or board games, a Frisbee or ball to play with, and ice packs if necessary.
+
+User: Rewrite the sentence with the given word.
+Context: The bird's feathers ruffled in the wind. (given word: breeze)
+Assistant: The bird's feathers ruffled in the breeze.
+
+User: Describe what the coffee machine should do when the user presses the 'Brew' button.
+Assistant: When the user presses the 'Brew' button, the coffee machine should grind the beans, heat the water to the desired temperature, and then pass the water through the coffee grounds to produce a fresh cup of coffee.
+
+User: Give me a short explanation of Q575650.
+Assistant: Q575650 is memory-safe programming language without garbage collection (type: free and open-source software). Notable date: 2006-01-01.
+
+User: Keep it practical: explain Iraq.
+Assistant: Iraq is sovereign state in Western Asia (type: country). It is associated with Iraq. Notable date: 1932-01-01.
+
+User: Where can you find kangaroos?
+Assistant: Kangaroos are primarily found in Australia and some surrounding islands.
+
+User: Describe the role of an app developer in a company.
+Assistant: An app developer is responsible for designing, coding, testing, debugging, and maintaining mobile applications. They use their knowledge of computer programming languages and software design to develop applications for various mobile platforms. App developers also work with project managers and other tech teams to ensure that applications run smoothly, look good, and perform efficiently. They are also responsible for analyzing user requirements, suggesting solutions, and creating efficient, cost-effective code.
+
+User: Keep it practical: explain D.
+Assistant: D is multi-paradigm system programming language (type: multi-paradigm programming language). Notable date: 2001-12-08.
+
+User: What is Q634782?
+Assistant: Q634782 is interstitial-free steel.
+
+User: Interpret the following metaphor
+Context: He was a beacon of hope.
+Assistant: He was a source of encouragement and optimism.
+
+User: What is Tuvalu?
+Assistant: Tuvalu is country in Oceania (type: Commonwealth realm). It is associated with Tuvalu. Notable date: 1978-10-01.
+
+User: Generate a list of 8 jobs in the information technology sector
+Assistant: 1. Computer Programmer
+2. Computer Systems Analyst
+3. Database Administrator
+4. Network Administrator
+5. Web Developer
+6. Software Engineer
+7. Information Security Analyst
+8. IT Manager.
+
+User: Be concise: what is tungsten?
+Assistant: tungsten: chemical element with symbol W and atomic number 74.
+
+User: Create a function that takes two numbers as arguments and divides the first one by the second one.
+Assistant: def divide(a, b): 
+ return a / b
+
+User: Give me a quick way to make salad. I only have 20 minutes.
+Assistant: Keep heat moderate, stir often, and season at the end. Keep the full process under 20 minutes.
+
+User: List three examples of how the given technology is being used.
+Context: Robots
+Assistant: 1. Robots are being used in manufacturing to automate some types of production. 
+2. Robots are increasingly being used in healthcare to assist with surgeries and rehabilitation exercises. 
+3. Autonomous vehicles are now being developed that use robots to navigage and safely drive on roads.
+
+User: Write a Python function to determine if a number is a prime.
+Assistant: def is_prime(n):
+ if n <= 1:
+ return False
+ else:
+ for i in range(2,n):
+ if n % i == 0:
+ return False
+ return True
+
+User: Design a 10-question survey related to online shopping
+Assistant: 1. How often do you shop online?
+2. What is the typical amount you spend on an online purchase?
+3. What type of items do you typically buy online?
+4. What payment method do you prefer when making an online purchase?
+5. How satisfied are you with the selection of products available online?
+6. How likely are you to recommend an online store to a friend?
+7. How satisfied are you with the user experience of online stores?
+8. Are there any features or changes you would like to see in online stores?
+9. Do you prefer physical stores or online stores?
+10. What is one thing you dislike the most about online shopping?
+
+User: Create a crossword puzzle using knowledge of the biodiversity in the Amazon Rainforest.
+Assistant: Across:
+1. Birds of prey found in the Amazon Rainforest; any of several large raptors (4)
+4. This variety of monkeys are known for having an opposing thumbs (7)
+5. This black and white mammal can switch between arboreal and terrestrial locomotion (5)
+7. This species of bird is the only living member of the genus Habropicus (8)
+
+Down:
+2. This species of exotic cat is the most abundant in the Amazon (6)
+3. This is the largest species of monkey (6) 
+6. This Amazonian parrot is one of the most colorful species (7) 
+8. This species of catfish is the largest in the world (5)
+
+Answer:
+VULTURE, TARSIER, OTTERS, TODYTOUCH, OCELOT, HOWLER, MACAW, PIRARUCU.
+
+User: Answer directly: My issue is training is too slow on CPU. What should I do first?
+Assistant: Use this sequence: 1. Reproduce the issue: training is too slow on CPU. 2. Inspect data and logs for the exact failure pattern. 3. Apply a focused fix: reduce eval frequency and keep thread count close to physical cores. 4. Re-test with a known prompt set. Share constraints and I can tailor this answer.
+
+User: Automate the given task and output the resulting code.
+Context: Task: Write a program that reads a text file and prints out the number of words in the file.
+Assistant: #include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main() {
+ // Declare variables
+ string line;
+ int count = 0;
+
+ // Open text file
+ ifstream myfile("file.txt");
+
+ // Read the file line by line
+ while (getline(myfile, line)) {
+ // Split the line by any whitespaces
+ istringstream iss(line);
+ string word;
+
+ // Read each word and increment the word count
+ while (iss >> word) {
+ count++;
+ }
+ }
+ 
+ // Output the word count
+ cout << "Number of words: " << count << endl;
+
+ return 0;
+}
+
+User: Create a list of advantages of using paper money.
+Assistant: Advantages of using paper money include: 
+1. Easily accessible and accepted in most places.
+2. Can be divided into small denominations for making small purchases.
+3. Easy to carry, especially for large amounts of money.
+4. Can be authenticated via visible markings or by feel.
+5. Paper money is accepted in multiple countries, so travellers can carry it all over the world.
+6. Not reliant on electricity or digital networks, so can be used in case of power failure or internet outage.
+
+User: Give me a 45-minute plan to organize my project files.
+Assistant: Split 45 minutes into setup, focused execution, and quick validation before stopping.
+
+User: Identify 3 ethical challenges that AI poses.
+Assistant: 1. Artificial Intelligence (AI) can be used to manipulate and influence people.
+2. AI can be used for surveillance, leading to potential privacy infringement.
+3. AI can be used to automate repetitive tasks, leading to displacement of labor and potential job losses.
+
+User: Find the longest word in the sentence “Great minds think alike.”
+Assistant: The longest word in the sentence is "alike".
+
+User: Be concise: what is Aura 2, SF, Protozoa Foraminiferia with Radiolaria?
+Assistant: Aura 2, SF, Protozoa Foraminiferia with Radiolaria: decorative artwork (fiber) by John David Hawthorne.
+
+User: What is Antigua and Barbuda?
+Assistant: Antigua and Barbuda is island sovereign state in the Caribbean Sea. It is associated with Antigua and Barbuda. Notable date: 1981-11-01.
+
+User: Keep it practical: explain HD 59686 b.
+Assistant: HD 59686 b is extrasolar planet (type: exoplanet).
+
+User: What is the importance of Agile in software development?
+Assistant: Agile is an iterative and customer-centric approach to software development. It enables teams to rapidly build and refine software in small increments, which allows for flexibility and responsiveness to changes in customer needs, technology, and market conditions. Agile also facilitates collaboration among stakeholders and increases transparency throughout the development process.
+
+User: Name three specific techniques for reducing the memory requirement of a neural network.
+Assistant: Three specific techniques for reducing the memory requirement of a neural network include:
+- Pruning: removing unnecessary connections in the network 
+- Knowledge distillation: compressing a large network into a smaller one 
+- Quantization: transforming large floating point numbers into smaller integers
+
+User: Make a list of books and authors in the fantasy genre
+Assistant: -The Lord of the Rings by J.R.R. Tolkien 
+-Harry Potter series by J.K. Rowling 
+-The Chronicles of Narnia by C.S. Lewis 
+-The Hobbit by J.R.R. Tolkien 
+-A Song of Ice and Fire by George R.R. Martin 
+-His Dark Materials trilogy by Philip Pullman 
+-Eragon by Christopher Paolini 
+-The Kingkiller Chronicle by Patrick Rothfuss
+
+User: Create a haiku poetry with the given theme.
+Context: The beauty of night sky
+Assistant: Stars glitter in the dark
+Mysteries in the night
+All is wondrous in sight.
+
+User: Write a short story about a person living during a pandemic.
+Assistant: Romy was a typical teenager in most ways; she listened to music, liked playing video games, and got up to mischief. But during the pandemic, she had to find ways to cope with the constant fear of being infected. Despite all of the challenges, Romy kept her optimism and maintained a healthy lifestyle by taking long walks, reading books, and journaling her thoughts. Her spirit kept her going—even when it felt like the pandemic would never end.
+
+User: Give me a short explanation of Julia.
+Assistant: Julia is high-performance dynamic programming language (type: multi-paradigm programming language). Notable date: 2009-08-23.
+
+User: Keep it practical. I am stuck because Validation loss is worse than training loss. Give me a practical fix plan.
+Assistant: Debug in this order: 1. Reproduce the issue with a minimal case. 2. Capture logs and exact error output. 3. Apply focused fix: add regularization and improve validation split quality. 4. Re-run tests and verify no regression.
+
+User: Describe what a computer virus is.
+Assistant: A computer virus is a malicious software program that can spread itself to other files on a computer or network. It has the ability to alter system functions, cause data loss, and disrupt the performance of computers and other devices. Some viruses can even wipe out the entire hard drive or delete important files. Viruses are often spread through email attachments, downloads, or by other users accessing a computer or network.
+
+User: Provide an example of a non-alcoholic beverage.
+Assistant: An example of a non-alcoholic beverage is iced tea.
+
+User: Answer directly: Troubleshoot this quickly: chat replies are empty.
+Assistant: Short plan for 'chat replies are empty': identify the trigger, patch with 'filter non-text tokens during decoding and enforce a minimum response length', then validate with before/after outputs. Share constraints and I can tailor this answer.
+
+User: Reword the given sentence such that it does not have any pronoun.
+Context: He should think about the consequences before deciding.
+Assistant: One should consider the consequences before deciding.
+
+User: Explain why it is important to be kind to animals.
+Assistant: It is important to be kind to animals because they are alive and sentient, just like us. They should be treated with respect and compassion for their wellbeing and for us to lead more humane and compassionate lives. Animals can experience a wide range of emotions, including joy, sadness, and fear, so it is important not to cause them unnecessary harm nor to take advantage of them. By being kind to animals, we show respect and kindness to all living creatures, demonstrating our own empathy and humanity.
+
+User: Name five common methods of data analysis.
+Assistant: Five common methods of data analysis are correlation analysis, regression analysis, cluster analysis, factor analysis, and principal component analysis.
+
+User: Keep it practical: explain Dopere.
+Assistant: Dopere is extrasolar planet (type: exoplanet).
+
+User: Invent a new game involving strategy.
+Assistant: The game involves two players taking turns playing on a 6x6 board. Each player has two pieces, one of which is the King and the other is the General. The goal is to get your King to the other side of the board, while protecting the General and keeping it from being taken by the other player. The pieces have different abilities, the King can move in any direction, while the General can only move one space in any direction. The game is won when a player's King reaches their opponent's side of the board. The strategy of the game involves planning ahead and making smart moves to ensure your pieces don't get captured by your opponent. The player who captures the opponent's King first, wins.
+
+User: Keep it practical: explain Saint Kitts and Nevis.
+Assistant: Saint Kitts and Nevis is island sovereign state in the Caribbean Sea (type: island country). It is associated with Saint Kitts and Nevis. Notable date: 1967-02-27.
+
+User: I need to install dependencies. What command should I run in Python?
+Assistant: Try this: pip install -r requirements.txt This should install dependencies.
+
+User: Make a silhouette of the given object.
+Context: Object: Bird
+Assistant: Draw a black silhouette of a bird with long outstretched wings against a white background.
+
+User: Create a program to detect and remove duplicate words from a given sentence
+Context: No input
+Assistant: def remove_duplicates(sentence):
+ word_list = sentence.split() # split sentence into a list of words
+ new_list = [] # new list that will contain uniques words
+
+ # loop thru each word in the list
+ for word in word_list:
+ if word not in new_list: # add a word to the new list if the word is unique
+ new_list.append(word)
+
+ # join words in the new list to form a new sentence
+ return ' '.join(new_list)
+
+User: What is Mythbuntu?
+Assistant: Mythbuntu is media center operating system based on Ubuntu..
+
+User: What is an AI algorithm?
+Assistant: An AI algorithm is a set of instructions or rules which are used to enable a computer or AI system to solve a problem or achieve a desired goal. AI algorithms can be used to capture and analyze data, classify objects, develop predictive models, and automate capabilities.
+
+User: Given two ingredients, develop a recipe for making a cake.
+Context: almonds and orange juice
+Assistant: Almond-Orange Cake: Preheat oven to 350 degrees F. Grease a 9-inch round cake pan. In a bowl, mix together 1 cup of orange juice, 1 cup of sugar, and 1/2 cup of vegetable oil. In another bowl, mix together 2 cups of all-purpose flour, 1 teaspoon of baking soda, 1 teaspoon of baking powder, and 1 teaspoon of salt. Gradually add the wet ingredients to the dry ingredients and stir until fully incorporated. Lastly, fold in 1/2 cup of almonds. Bake for 40-45 minutes, or until a toothpick comes out clean.
+
+User: Give me a short explanation of HD 43691 b.
+Assistant: HD 43691 b is extrasolar planet (type: exoplanet).
+
+User: Draft a social media post that encourages people to conserve water.
+Assistant: As we experience water shortage in many parts of the world, each of us must do our part to conserve it. #EveryDropMatters, let's make sure we use water responsibly and save it for future generations. #WaterConservation #Sustainability
+
+User: Add 3 examples to the following sentence.
+Context: Gun violence in the United States can result in...
+Assistant: Gun violence in the United States can result in death, injury, destruction of property, emotional trauma, and a wide range of other difficulties. Examples include mass shootings in public places, domestic violence, gang violence, and accidental shootings.
+
+User: Do the following task using Python
+Context: Create a program to print a multiplication table for the numbers 1 to 10.
+Assistant: for x in range(1, 11): 
+ for y in range(1, 11): 
+ print(x, '*', y, '=', x*y) 
+ print()
+
+A chair leg was shorter than the others.
+Balance was achieved through habit.
+
+User: Keep it practical. How can I create a new branch using Git?
+Assistant: Try this: git checkout -b feature/my-change This should create a new branch.
+
+User: Give me the PowerShell command to print current working directory.
+Assistant: Recommended command: Get-Location Run it in PowerShell to print current working directory.
+
+User: Suggest two Twitter hashtags related to this article.
+Context: WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows.
+Assistant: #Election2008 #CampaignAdvertising
+
+User: Based on the given recipe, suggest some variations
+Context: Chicken Parmesan
+Ingredients:
+- 4 boneless, skinless chicken breasts
+- 1/2 cup all-purpose flour
+- 2 eggs, beaten
+- 1/2 cup grated Parmesan cheese
+- 1/2 cup Italian-style bread crumbs
+- 2 tablespoons olive oil
+- 2 cloves garlic, minced
+- 1 1/2 cups marinara sauce
+- 1/2 cup shredded mozzarella cheese
+Assistant: Variations of this classic Chicken Parmesan recipe include substituting chicken thighs for the chicken breasts and adding spinach, basil, or other herbs to the bread crumb mixture. To make a lighter version, you can bake the chicken and skip the frying. For a heartier meal, you can add extra vegetables to the marinara sauce, such as bell peppers, mushrooms, and zucchini. You can also replace the Italian-style bread crumbs with crushed crackers, or try adding other cheeses such as cheddar, Monterey Jack, or blue cheese.
+
+User: What is Julia?
+Assistant: Julia is high-performance dynamic programming language (type: interpreted language). Notable date: 2009-08-23.
+
+User: Give me two opening sentences for a short story about an elderly couple.
+Assistant: Samuel and Sarah were the kind of elderly couple who seemed to have been together forever. They had been married for over 60 years and spent their days walking, gardening, and playing chess in the local park. 
+
+The sun was shining on the picturesque park as they strolled arm in arm, sharing stories and enjoying the fresh morning air. They were happy and contented in their peaceful little bubble, completely unaware of what the future held in store for them.
+
+User: What should the student do to prepare for an upcoming exam?
+Assistant: The student should review the material that will be on the exam, create study notes and review them regularly, work on practice problems to reinforce concepts, and plan ahead of time an effective study schedule.
+
+User: Give me the PowerShell command to move a file.
+Assistant: Recommended command: Move-Item old.txt archive\old.txt Run it in PowerShell to move a file.
+
+User: Reword this sentence: Children should not play with matches.
+Assistant: Playing with matches should not be done by children.
+
+User: Take the given array and sort it in descending order.
+Context: [4, 9, 3, 2, 7, 1, 5]
+Assistant: The array sorted in descending order is [9, 7, 5, 4, 3, 2, 1].
+
+User: What is Q2407?
+Assistant: Q2407 is general-purpose programming language (type: object-based language). Notable date: 1983-01-01.
+
+User: Give me a short explanation of palladium.
+Assistant: palladium is simple substance, pure palladium.
+
+User: Give me a quick way to make soup. I only have 20 minutes.
+Assistant: Keep heat moderate, stir often, and season at the end. Keep the full process under 20 minutes.
+
+User: Explain the consequences of not voting in the upcoming election.
+Assistant: Not voting in the upcoming election has a number of consequences, both immediate and long-term. On a personal level, not voting means that you have given up your right to choose your political representatives and the policies that affect your daily life. On a bigger scale, it can also mean denying your voice in the national political dialogue, which could result in the opposite of your beliefs and values becoming the law of the land. By not voting, you are forfeiting your right to have a say in civilization’s most important conversations.
+
+User: Reverse engineer this algorithm.
+Context: Input: An array A of N integers A[1], A[2], …, A[N]
+Output: A new sorted array B of N integers B[1], B[2], …, B[N]
+
+For i = 2 to N
+ j = i
+ while j > 1 and A[j] < A[j-1]
+ swap A[j] and A[j-1]
+ j = j-1
+Assistant: The algorithm takes an array of N integers, A[1], A[2]…, A[N] and performs a bubble sort to create a new sorted array B[1], B[2]…, B[N]. Starting from index 2, it compares each element A[j] with its immediate predecessor A[j-1]. If A[j] is smaller than A[j-1], the two elements are swapped and j is decremented by one. This process is repeated until A[j] is no longer smaller than A[j-1] or j = 1.
+
+User: Be concise: what is Eburonia?
+Assistant: Eburonia: exoplanet orbiting Nervia.
+
+User: Describe in detail an alien planet.
+Assistant: Planet X is an alien world with an atmosphere of pink clouds and an azure-blue sky. It has two small moons orbiting in opposite directions, creating spectacular eclipses. The planet is dotted with dark green forests, rivers, and lakes. It has a wide range of weather patterns, ranging from searing heat to frigid cold. It has a variety of strange and alien creatures, from gelatinous slugs to giant flightless birds.
+
+User: Identify the target audience for a fitness club.
+Assistant: The target audience for a fitness club would be people who are looking to improve their health and fitness levels and have access to a variety of fitness services. This could include people of all ages, backgrounds and abilities, however some clubs may specialize in serving specific demographic groups such as seniors, students, etc.
+
+User: What is HD 37124 b?
+Assistant: HD 37124 b is extrasolar planet (type: exoplanet).
+
+User: Be concise. I need to switch to main branch. What command should I run in Git?
+Assistant: Try this: git checkout main This should switch to main branch.
+
+User: Create a database schema for the following problem.
+Context: Design a database to store user information such as names, addresses, emails, and phone numbers.
+Assistant: CREATE TABLE user_info (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ name VARCHAR(100) NOT NULL,
+ address VARCHAR(100) NOT NULL,
+ email VARCHAR(100) NOT NULL UNIQUE,
+ phone_number VARCHAR(32) NOT NULL UNIQUE
+);
+
+User: Describe the benefits of frequent physical activity.
+Assistant: Regular physical activity has numerous benefits, both physical and psychological. Physically, regular exercise lowers blood pressure, reduces the risk of chronic diseases, helps to maintain a healthy body weight and strengthen bones and muscles. It also helps to improve cardiovascular fitness and muscular endurance. Psychologically, regular physical activity helps to reduce stress and tension, improves mood and boosts self-esteem, and promotes better sleep. Additionally, physical activity can help boost mental agility, increase concentration and creativity, and facilitate social interaction.
+
+User: Write a closing statement for this conversation.
+Context: Alice: I think we need to go over the details of the contract one more time.
+Bob: Yes, I agree.
+Assistant: Alice: Okay, let's do that and then I can move forward with the paperwork.
+Bob: Sounds like a plan! Let's do it.
+
+User: Name three characteristics of a healthy diet.
+Assistant: A healthy diet should consist of whole grains, lean proteins, fruits and vegetables, low-fat dairy products, and healthy fats. It should also include limiting sugar and salt intake, as well as avoiding refined processed foods. Additionally, it is important to maintain portion control and to eat regularly throughout the day.
+
+User: Generate a 3-word phrase that summarizes the following text
+Context: A budding professional photographer looking to make a career out of taking creative photos.
+Assistant: Find creative photos.
+
+User: Create a list of 5 verbs that all start with the letter P.
+Assistant: 1. Practice
+2. Perform 
+3. Play 
+4. Propose 
+5. Profit
+
+User: Explain the concept of verbal irony.
+Assistant: Verbal irony is a type of indirect statement in which someone says the opposite of what they mean, often for humorous or rhetorical effect. In verbal irony, the words spoken are clearly not meant to be taken literally and instead express a meaning opposite to that which would normally be conveyed. For example, if someone says "what a great day" when it is raining outside, this is an example of verbal irony. Regardless of what is stated, the literal meaning of the words is not in line with the intent of the speaker.
+
+User: What is Yocto Project?
+Assistant: Yocto Project is open source project (type: Linux on embedded systems).
+
+User: Generate 5 examples of past participles.
+Assistant: driven, eaten, been, said, seen
+
+User: Make a list of countries in South America.
+Assistant: -Brazil 
+-Argentina 
+-Colombia 
+-Peru 
+-Venezuela 
+-Chile 
+-Ecuador 
+-Bolivia 
+-Paraguay 
+-Uruguay 
+-Guyana 
+-Suriname
+
+User: Resolve the pronoun ambiguity of the given sentence
+Context: Jack drove his car to school
+Assistant: Jack drove his own car to school.
+
+User: Be concise: what is OGLE-TR-113b?
+Assistant: OGLE-TR-113b: extrasolar planet orbiting the star OGLE-TR-113.
+
+User: Keep it practical: explain magnesium.
+Assistant: magnesium is chemical element, symbol Mg and atomic number 12.
+
+User: Create a problem statement for an online course about public speaking.
+Assistant: This online course will provide students with the skills and tools necessary to improve their self-confidence and the confidence of those listening, in order to effectively and fearlessly deliver speeches, presentations and other public speeches.
+
+User: Construct a valid English sentence that uses the phrase “as a result”.
+Assistant: As a result, many people have made the decision to take extra precautions and stay inside.
+
+User: Keep it practical: explain Antigua and Barbuda.
+Assistant: Antigua and Barbuda is island sovereign state in the Caribbean Sea (type: Commonwealth realm). It is associated with Antigua and Barbuda. Notable date: 1981-11-01.
+
+User: Give 2 examples of web browsers.
+Assistant: Google Chrome and Firefox are two popular web browsers.
+
+User: Rewrite the sentence to include an adverb.
+Context: She cooked the meal.
+Assistant: She cooked the meal deliciously.
+
+User: Add three words that would make the sentence effective.
+Context: We should monitor our car's engine performance.
+Assistant: We should regularly monitor our car's engine performance.
+
+User: What is Ksar Ouled Bouabid?
+Assistant: Ksar Ouled Bouabid is Ksar in Tunisia. It is associated with Tunisia.
+
+User: Add a line to the following poem to complete it.
+Context: Roses are red
+Violets are blue
+Winter is here
+Assistant: Snowflakes are white, blanketing the land in sight.
+
+User: Answer in simple words. My issue: Code works locally but fails in CI. How do I debug it quickly?
+Assistant: Start by reproducing it consistently, then inspect logs. Most likely fix here is: pin dependency versions and replicate CI environment locally. After patching, re-test with the original failing case.
+
+User: Construct an alliteration phrase with the given words.
+Context: "Risky" and "rigid"
+Assistant: Risky rigidity.
+
+User: Provide a list of items that can be reused or recycled.
+Assistant: 1. Plastic bottles 2. Cardboard boxes 3. Aluminum cans 4. Newspapers 5. Glass jars 6. Clothing 7. Furniture 8. Bicycles 9. Computers 10. Printer cartridges 11. Electronics 12. Building materials 13. Batteries 14. Household appliances 15. Car batteries 16. Paper towels 17. CDs and DVDs 18. Bedding 19. Shipping pallets
+
+User: Explain why digital currencies are gaining popularity.
+Assistant: Digital currencies are increasingly gaining popularity due to their efficiency in financial transactions, lack of middlemen and associated fees, low transaction costs, high level of anonymity, ease of use, and global acceptance. Additionally, digital currencies may also provide users with better security protections than traditional payment methods.
+
+User: What is Apache Groovy?
+Assistant: Apache Groovy is programming language (type: JVM language). Notable date: 2003-01-01.
+
+User: Answer in simple words. Create a 90 minutes plan to prepare for a coding interview.
+Assistant: Use this 90 minutes structure for prepare for a coding interview: planning block, execution block, and a 10-minute retrospective.
+
+User: Design a logo using geometric shapes.
+Assistant: I would design a logo with abstract geometric shapes in a circular design. In the center, I would use a triangle, and from there move outward with alternating circles and squares, as well as a small crescent at the top. The shapes would be simple and elegant, with an abstract pattern for an overall organic style.
+
+User: Name the different types of triangles.
+Assistant: The different types of triangles include equilateral, isosceles, scalene, acute-angled, obtuse-angled, right-angled and equiangular.
+
+User: Keep it practical: explain HD 37124 b.
+Assistant: HD 37124 b is extrasolar planet (type: exoplanet).
+
+User: Keep it practical: explain Fan Quilt, Mt. Carmel.
+Assistant: Fan Quilt, Mt. Carmel is decorative artwork (fiber) by Residents of Bourbon County, Kentucky (type: fiber art). It is associated with United States. Notable date: 1893-01-01.
+
+User: Find the differences between the two short texts.
+Context: Text A: She was wearing a beautiful red dress.
+Text B: She had on a gorgeous red dress.
+Assistant: The difference between the two texts is that Text A uses the phrase "wearing" while Text B uses the phrase "had on".
+
+User: What is DIN 1.2344 tool steel?
+Assistant: DIN 1.2344 tool steel is tool steel grade.
+
+User: Choose one of the following topics and write a one-paragraph summary.
+Context: The Relationship Between Social Media and Self-Worth
+Assistant: In recent years, the relationship between social media usage and self-worth has become one of the most discussed topics among professionals. Social media has grown to be an integral part of our lives and the way we interact with each other. Unfortunately, the effects of social media on one’s self-esteem can be potentially damaging, especially for young people. Studies have shown that the more people use social media, the more likely they are to suffer from low self-esteem, insecurity, and a distorted perception of themselves. To maximize the positive aspects of social media and reduce the negative consequences, it’s important for the users to be aware of the impact it has on their self-worth and practice self-care.
+
+User: Explain why AI assistants can help us in daily life.
+Assistant: AI assistants can help us in daily life by automating tedious and repetitive tasks, helping us remember and stay on top of our commitments and schedules, providing educational and entertainment content, enabling us to be more productive, and providing useful insights. AI assistants can even provide medical and health-related advice. Furthermore, they can enable us to stay better connected with our friends and family and get access to news and content tailored to our specific interests.
+
+User: Keep it practical: explain From a Birmingham Jail: MLK.
+Assistant: From a Birmingham Jail: MLK is decorative artwork (fiber) by L'Merchie Frazier. It is associated with United States. Notable date: 1996-01-01.
+
+User: Write a definition for the phrase "design thinking".
+Assistant: Design thinking is a creative problem-solving process that takes into account the needs of stakeholders, the potential uses of technology, and the desired outcomes of success. It seeks to identify and solve problems in innovative, user-centric ways.
+
+User: Describe the painting below.
+Context: [Image provided]
+Assistant: The painting depicts a sunlit meadow with a majestic mountain range in the background. In the foreground, a small family of deer can be seen grazing on the lush grass. The colors blend together seamlessly, capturing both the vibrancy of the meadow and the awe-inspiring beauty of the mountainscape.
+
+User: Generate a list of 3-5 popular dishes from India.
+Assistant: 1. Butter Chicken
+2. Biryani
+3. Tandoori Chicken
+4. Dal Makhani
+5. Samosas
+
+User: Explain the types of databases.
+Assistant: There are several different types of databases. The most common types are relational databases, object-oriented databases, NoSQL databases, and graph databases. Relational databases store information in tables, object-oriented databases store objects, NoSQL databases store data in flexible formats such as JSON, and graph databases use graph structures to store relationships between data points.
+
+User: Find the area of a triangle given its base length is 10 and height is 5.
+Assistant: The area of the triangle is 25 square units. The formula used to find the area of a triangle is A = (1/2) * b * h, where b is the base length and h is the height of the triangle. In this case, the base length is 10 and the height is 5, so the area is (1/2) * 10 * 5 = 25.
+
+User: Create a mental model to explain the concept of taxonomy.
+Assistant: Taxonomy is a system of organization used to classify and categorize different concepts, objects, and living species using a hierarchical structure. It involves arranging different items in nested levels, from broader categories down to more specific details. In this way, it allows for easier comparisons and analysis between items and provides context for studying objects and their relationships with each other.
+
+User: Keep it practical: Keep it practical: Can you be straight with me?
+Assistant: Yes. I will be direct, practical, and specific.
+
+User: Infer the emotion of the person in the following sentence
+Context: I have been working on this project for last few days but nothing is turning up
+Assistant: Frustration
+
+User: Describe in a few words the following photo
+Context: Image: A man working in an office
+Assistant: Man writing on a laptop at his desk.
+
+User: Compare the features of two products and state which one is better.
+Context: Product A: lightweight, easy to install, waterproof
+Product B: durable, soundproof, energy efficient
+Assistant: Product B is better because its features are more practical and useful. It is more durable, soundproof, and energy efficient, while product A is lightweight and easy to install but not waterproof.
+
+User: Give me a short explanation of platinum.
+Assistant: platinum is simple substance (type: type of chemical entity).
+
+User: Which type of triangle can be formed when all sides have the same length?
+Assistant: When all sides have the same length, an equilateral triangle can be formed.
+
+User: Explain what is the greenhouse effect.
+Assistant: The greenhouse effect is a natural process that warms the Earth. It occurs when sunlight passes through the atmosphere and is absorbed by the Earth's surface. The Earth's surface then radiates the energy back into the atmosphere as infrared radiation. The gases in the atmosphere such as carbon dioxide, methane, and water vapor absorb this infrared radiation, trapping the heat in the atmosphere and keeping the Earth's surface and lower atmosphere warm.
+
+User: Keep it practical: explain vanadium.
+Assistant: vanadium is chemical element with symbol V and atomic number 23 (type: lithophile).
+
+User: Name a type of compost material
+Assistant: Paper and cardboard, leaves, grass clippings, fruit and vegetable waste, and coffee grounds are all types of compost materials.
+
+User: Generate a reasoned response to the given opinion.
+Context: The healthcare industry is too expensive and inefficient
+Assistant: While it is true that the healthcare industry is expensive, it is not necessarily inefficient. In recent years, many advancements have been made in terms of technology and patients' experiences that have improved the overall efficiency of the healthcare industry. Additionally, many government-sponsored initiatives have helped to reduce healthcare costs, making it more affordable for everybody. Despite the challenges, the healthcare industry is continuously improving, making it both efficient and affordable.
+
+User: How do I improve dataset quality? Keep it practical.
+Assistant: Deduplicate records, remove malformed samples, normalize formatting, and keep labels consistent.
+
+User: Edit the following sentence to make it more concise: "She was extremely skeptical and was not willing to try it out"
+Assistant: She was reluctant to try it.
+
+User: Cite a particular piece of evidence to support the sentence
+Context: Violent video games have been proven to increase aggressive behavior
+Assistant: Studies have shown that playing violent video games can increase the likelihood of aggressive behavior, such as increasing aggressive thoughts, emotions, and behaviors (Anderson et al., 2004).
+
+User: Identify the type of the following musical chord.
+Context: D minor
+Assistant: The chord is a D Minor chord.
+
+User: Analyze the given strategy and recommend a new approach.
+Context: Strategy: Attract new customers by offering discounts.
+Assistant: Offering discounts may attract new customers in the short term, but it can be unsustainable in the long run. It may be more beneficial to focus on developing relationships with existing customers and investing in strategies that will improve customer loyalty. Additionally, offering incentives such as free trials, special offers, and customer rewards can also be effective in attracting new customers and retaining them in the long run.
+
+User: Generate a topic sentence to introduce the following text.
+Context: Amidst increasing violence in the region, many civilians are fleeing their homes in search of safety.
+Assistant: Due to the escalating tensions and violence, countless civilians are being forced from their homes in fear for their lives.
+
+User: Create an example of an alliteration based on the given input.
+Context: Giraffe
+Assistant: Galloping giraffes gather for giggles and grins.
+
+User: Classify the following series of numbers.
+Context: 2, 4, 6, 8
+Assistant: This is an even number series.
+
+A map hung on the wall.
+It was out of date.
+No one removed it.
+
+User: Classify the following into mammals and non-mammals.
+Context: Dog, chicken, horse, cat
+Assistant: Mammals: Dog, horse, cat.
+Non-mammals: Chicken.
+
+User: Why don’t we float?
+Assistant: Because Earth’s gravity is strong enough to keep us on the surface.
+
+User: Given a list of words, group them into two sets according to their part of speech, nouns and verbs
+Context: laugh, jump, walk, family
+Assistant: Nouns: family
+Verbs: laugh, jump, walk
+
+User: What is the implied meaning of this phrase?
+Context: A wolf in sheep's clothing.
+Assistant: The implied meaning of the phrase is someone who presents themselves as something they are not, typically with the intention of deceiving or harming others.
+
+User: Give me a short explanation of Ksar Bounoura.
+Assistant: Ksar Bounoura is Ksar in Algeria. It is associated with Algeria.
+
+User: Keep it practical: explain XSLT.
+Assistant: XSLT is language for transforming XML documents (type: W3C Recommendation). Notable date: 1999-01-01.
+
+User: Compose a tweet about GPT-3.
+Assistant: GPT-3 is revolutionizing the way AI is used to generate text, with its impressive capabilities to generate text that is relevant and natural-sounding. #GPT3 #AI #GenerativeAI #OpenAI #NaturalLanguageGeneration
+
+User: Answer clearly: Explain AI simply
+Assistant: AI is software that learns patterns from data and uses them to make decisions or predictions.
+
+User: Develop a plan for getting a free flight for the holidays.
+Assistant: One way to get a free flight for the holidays is to look for special flight promotions that airlines might offer. For example, many airlines offer discounts and special offers during certain times of the year. You can also sign up for airline loyalty programs, which often offer rewards such as free flights or upgrade coupons. You can also search flight comparison websites, to see if there are any cheaper or discounted flights available. Finally, you can use reward points or credit card points to book flights using airline or hotel loyalty programs, which can provide further discounts.
+
+User: Given an emotion, come up with a creative way to show it with body language.
+Context: Happiness
+Assistant: Expressing happiness through body language could involve joyous facial expressions such as a wide, toothy grin; relaxed body posture with arms slightly outstretched; and enthusiastic gestures such as jumping up, arms twirling, and exaggerated movements. Another way to show happiness is through mimicking the body language of a happy person. This could include things like a relaxed exhale, a slight head tilt, and a smile.
+
+User: Keep it practical: explain plutonium.
+Assistant: plutonium is radioactive chemical element with symbol Pu and atomic number 94 (type: radioactive element).
+
+User: Define the word "oxymoron".
+Assistant: An oxymoron is a figure of speech that combines two contradictory terms to create a rhetorical effect. It creates a kind of paradox that is often used for humorous or poetic effect, such as “jumbo shrimp” or “deafening silence.”
+
+User: Create a password for email that includes 8 characters.
+Assistant: Sb3gVuxy
+
+User: Be concise: what is Grenada?
+Assistant: Grenada: island sovereign state in the Caribbean Sea.
+
+User: Answer this question with a yes or no.
+Context: Will I be able to go to the park tomorrow?
+Assistant: Yes or No.
+
+User: Edit the given essay to make it more convincing.
+Context: I believe that school should be a safe environment where students can learn and grow. School should be a place where students feel safe and secure and can focus with minimal distractions.
+Assistant: I strongly believe that school should be an environment that encourages learning, growth, and safety for students. It should be a place where students can feel protected and secure, without worrying or having any outside distractions that might interfere with their focus. Everyone should have the opportunity to be able to learn and grow within the school's walls responsibly, without any fear of threat or harm.
+
+User: Analyze the given film and explain why it should be included in the top 10 list.
+Context: The film Parasite
+Assistant: The film Parasite is an astonishingly honest and timely exploration of economic inequality and societal class division. Through its masterful use of cinematography and well-crafted characters, it provides an enthralling and poignant insight into how wealth can divide us and how it might bring us together. It is a potent reminder that we can never forget the inequalities around us, nor take for granted the privileges we have. This deep exploration of class division and moral complexities make Parasite a must-see and worthy inclusion in any top 10 list.
+
+User: What is Unapologetically Asian?
+Assistant: Unapologetically Asian is decorative artwork (fiber) by Julia Kwon. It is associated with United States. Notable date: 2020-01-01.
+
+User: Write a news article about a new product.
+Context: Product: Smart Car
+Assistant: A revolutionary new product has been unveiled that could revolutionize the way people travel. The latest invention, a smart car, is capable of driving itself and boasts a range of features that make it easier and more convenient than ever to get around. Equipped with a range of sensors and cameras, the car is able to detect obstacles, adapt to different driving conditions, and even regulate its own speed. It is also equipped with a suite of distractions to keep passengers entertained during the journey, such as video games and audio streaming. With its innovative capabilities, the smart car could revolutionize the transportation industry, making the roads safer and more efficient.
+
+User: Be concise. Create a 90 minutes plan to prepare for a coding interview.
+Assistant: Use this 90 minutes structure for prepare for a coding interview: planning block, execution block, and a 10-minute retrospective.
+
+User: Jarvis, help me debug a Python script in 30 minutes.
+Assistant: Do this: isolate one bottleneck, patch one variable, then compare before and after output. Practical method: collect traceback, isolate minimal repro, patch, and retest.
+
+User: Design a chatbot conversation structure for a banking chatbot
+Assistant: Welcome to the bank chatbot! To start, could you tell me what I can help you with today? You can choose from the following options: bank accounts, credit cards, loans, or transfers.
+
+User: Create a concept that could be used as a basis for a science fiction story
+Assistant: The concept for the science fiction story would be based on the idea of future humans incapacitated by a virus which causes temporary amnesia. As a result, those affected are unable to recall anything from their past and must live day-by-day in a cycle of forgetting their past lives. As the story progresses, the protagonist must solve the mystery behind the virus and find a way to restore normalcy for the human race.
+
+User: Keep it practical: explain HD 103197 b.
+Assistant: HD 103197 b is extrasolar planet (type: exoplanet).
+
+User: Keep it practical: explain mercury.
+Assistant: mercury is chemical element with symbol Hg and atomic number 80.
+
+User: Tell me any 5 major human rights organisations with their countries.
+Assistant: 1. Amnesty International (UK)
+2. Human Rights Watch (USA)
+3. International Federation for Human Rights (France)
+4. Freedom House (USA)
+5. Global Rights (USA)
+
+User: What is Fortran?
+Assistant: Fortran is general-purpose programming language (type: array programming language). Notable date: 1957-01-01.
+
+User: Be concise: what is DIN 1.2344 tool steel?
+Assistant: DIN 1.2344 tool steel: tool steel grade.
+
+User: Suggest an original and natural-sounding greeting for a chatbot.
+Assistant: Hey there! How can I help you today?
+
+User: Are you online?
+Assistant: No. I run fully offline on your laptop.
+
+User: Write instructions for setting up a simple homepage for a website.
+Assistant: Below are the instructions for setting up a simple homepage for a website:
+1. Create a new document using an HTML editor such as Sublime Text, Atom or Notepad++.
+2. Link to any external style sheets and scripts in the head section of the page. 
+3. Add the page title to the <title> element in the head section.
+4. Add the main content to the <body> element in the page's main section.
+5. Link to any internal webpages or external websites in the body.
+6. Add any images and videos in the appropriate section.
+7. Close off all elements with the appropriate closing tags.
+8. Test the page to make sure it looks and functions correctly.
+
+User: Construct an argument supporting the implementation of green energy.
+Assistant: Green energy is an investment in the future that comes with numerous potential benefits. Its implementation serves to reduce pollution, lower emissions of greenhouse gases, and enhance energy security. Additionally, green energy harnesses the natural resources around us, resulting in steady and consistent energy supply. Green energy sources are renewable, meaning that they are sustainable, available indefinitely, and require little maintenance. This also allows for the construction of green energy projects, resulting in job creation in the energy sector. The cost of implementing green energy projects is initially high, but the savings over a period of time are far greater. Finally, green energy presents us with an opportunity to play a part in the fight against climate change and its resulting consequences.
+
+User: What are the three main ingredients for making Italian spaghetti sauce?
+Assistant: The three main ingredients for making Italian spaghetti sauce are tomatoes, garlic, and basil. Other ingredients may include extra-virgin olive oil, onions, and red pepper flakes.
+
+User: What is a variable in programming?
+Assistant: A variable is a named storage location for a value used by your program.
+
+User: Answer directly: What should I track during training?
+Assistant: Track train loss, validation loss, sample quality, and throughput over time. I can also give a command example if useful.
+
+User: Give me a short explanation of Q2407.
+Assistant: Q2407 is general-purpose programming language. Notable date: 1983-01-01.
+
+User: Answer in simple words. Create a 60 minutes plan to improve command-line productivity.
+Assistant: For the next 60 minutes, focus on one outcome: improve command-line productivity. Start with setup, then one deep work block, then a short review.
+
+User: Generate a description of a character named Mike.
+Assistant: Mike is a tall, dark-haired man in his early 30s. He has a high IQ and a passionate love of learning. He is very driven to achieve success, and he works hard at everything he does. His dedication leads him to succeed with ease, and he has a confidence that keeps him grounded and focused on his goals. He is also highly sociable and has many friends who appreciate his exuberance, intelligence, and loyalty. He is an important part of his close-knit community and is someone who can be counted on in times of need.
+
+User: Choose the correct form of the verb from the choices given.
+Context: He (is, are) the team's captain.
+Assistant: He is the team's captain.
+
+User: Select an appropriate acrostic phrase for the following word.
+Context: Gardening
+Assistant: Grow A Rainbow Dreaming In Nature Everyday.
+
+User: Give me a short explanation of Indonesia.
+Assistant: Indonesia is island country in Southeast Asia and Oceania. It is associated with Indonesia. Notable date: 1945-08-17.
+
+User: Keep it practical: My issue is validation gets worse during long training. What should I do first?
+Assistant: Use this sequence: 1. Reproduce the issue: validation gets worse during long training. 2. Inspect data and logs for the exact failure pattern. 3. Apply a focused fix: use early stopping behavior and lower LR for late-stage steps. 4. Re-test with a known prompt set.
+
+User: Write a complex sentence using the provided words
+Context: Although, sun, shine
+Assistant: Although the sun was shining, it still wasn't warm enough to go outside.
+
+User: Give two examples of how Artificial Intelligence is used in the healthcare industry.
+Assistant: 1. Automating time-consuming medical processes such as medical data entry and operation of medical equipment.
+2. Using AI-assisted diagnostic systems to detect medical conditions at an earlier stage.
+
+User: Generate a song title that has a dance vibe.
+Assistant: "Let's Get Moving"
+
+User: Define the term “bilateral agreement”.
+Assistant: A bilateral agreement is an official treaty or contract between two independent states, in which each state agrees to carry out the terms and conditions that are specified. It usually involves two nations exchanging goods and services, or making a joint commitment to cooperate in a specific area.
+
+User: Answer in simple words. Create a 90 minutes plan to improve command-line productivity.
+Assistant: Use this 90 minutes structure for improve command-line productivity: planning block, execution block, and a 10-minute retrospective.
+
+User: Educate the readers about the water cycle in a concise manner.
+Assistant: The water cycle is the continuous movement of water from the environment around us. Water evaporates from the surface of the Earth such as from the ocean, rivers, and lakes, and rises into the atmosphere. There, it forms clouds and returns to Earth as precipitation. Some of this precipitation is absorbed into the soil and returns to the atmosphere through evaporation. Some of it replenishes the surface water and some of it flows into the ground, becoming groundwater. The underground water moves through the ground, eventually returning to the atmosphere or to the oceans.
+
+User: Be concise: what is Khomsa?
+Assistant: Khomsa: extrasolar planet.
+
+User: Give me a short explanation of zinc.
+Assistant: zinc is chemical element with symbol Zn and atomic number 30 (type: chalcophile element).
+
+User: Keep it practical: explain Alice.
+Assistant: Alice is programming language (type: constraint programming language). Notable date: 2000-06-16.
+
+User: Suggest three uses for a rewards based credit card.
+Assistant: 1. Earning rewards: A rewards based credit card allows you to earn and accumulate points as you make purchases with your card. The points can then be exchanged for cash, gift cards, and other rewards. 
+2. Financial flexibility: A rewards based credit card can provide extra financial flexibility, allowing you to make purchases that you wouldn't be able to afford otherwise. 
+3. 0% introductory APR: Some rewards based credit cards offer a 0% introductory APR (Annual Percentage Rate) which can be beneficial if you need to make a large purchase and take some time to pay it off.
+
+User: Be concise: what is GNU?
+Assistant: GNU: Unix-like operating system.
+
+User: Edit the following sentence by fixing the grammar and awkward phrases.
+Context: I went to the store because i wanted to buy some chips.
+Assistant: I went to the store to buy some chips.
+
+User: Keep it practical: My issue is model trains but replies are nonsense. What should I do first?
+Assistant: Use this sequence: 1. Reproduce the issue: model trains but replies are nonsense. 2. Inspect data and logs for the exact failure pattern. 3. Apply a focused fix: inspect training text for noisy templates and artifact tokens. 4. Re-test with a known prompt set.
+
+User: Keep it practical: explain GAUSS.
+Assistant: GAUSS is matrix programming language for mathematics and statistics. Notable date: 1984-01-01.
+
+User: Keep it practical: explain Mathematica.
+Assistant: Mathematica is computational software program (type: mathematical software). Notable date: 1988-06-23.
+
+User: Describe the character of Lady Macbeth.
+Assistant: Lady Macbeth is an ambitious, calculating character. She is driven by her own ambition and her manipulation of her husband to seize power. She is powerful and strong-willed and is able to convince Macbeth to kill Duncan, despite his initial reluctance. Lady Macbeth can also be ruthless, and she is willing to do whatever is necessary to ensure her own success. She is not concerned with morality and is willing to commit or condone any act, no matter how foul, if it serves her own purposes.
+
+User: What is (Untitled) (Felt Banner)?
+Assistant: (Untitled) (Felt Banner) is decorative artwork (fiber) by Richard Anuszkiewicz. It is associated with United States. Notable date: 1963-01-01.
+
+User: Perform a sentiment analysis for the following text.
+Context: Learning Machine Learning has given me such powerful tools
+Assistant: The sentiment of the text is positive because it is expressing how learning Machine Learning has given the speaker powerful tools.
+
+Short sentences feel decisive.
+Long sentences feel thoughtful.
+Both can be wrong.
+
+User: What is Singapore?
+Assistant: Singapore is sovereign island country and city-state in maritime Southeast Asia. It is associated with Singapore. Notable date: 1965-08-09.
+
+User: Keep it practical: explain Geisha Kimono.
+Assistant: Geisha Kimono is decorative artwork (fiber) by K. Lee Manuel. It is associated with United States. Notable date: 1981-01-01.
+
+User: What is São Paulo?
+Assistant: São Paulo is Municipality of São Paulo state, Brazil (type: municipality of Brazil). It is associated with Brazil. Notable date: 1554-02-04.
+
+User: How can one develop a healthier lifestyle?
+Assistant: Developing a healthier lifestyle involves making several lifestyle changes such as getting enough sleep, exercising regularly, eating nutritious meals, avoiding processed foods, drinking more water, limiting screen time, finding ways to manage stress, and avoiding smoking and excessive alcohol consumption. Taking the time to develop a plan and setting achievable goals can help make these changes easier to achieve.
+
+User: What is strontium?
+Assistant: strontium is chemical element with symbol Sr and atomic number 38 (type: lithophile).
+
+User: List down how the given sentence should be paraphrased.
+Context: The river was raging.
+Assistant: The river was raging furiously, churning wildly, seething, in a frenzy.
+
+User: Describe the following painting in 2-3 sentences.
+Context: “The Starry Night” by Vincent van Gogh
+Assistant: "The Starry Night" by Vincent van Gogh is a beautiful landscape painting of a night sky, filled with stars and a crescent moon. It features a rolling hill with a small village in the foreground, with a spectacular view of the night sky and its twinkling stars. The painting captures the peaceful beauty of a starry night, creating a tranquil atmosphere.
+
+None connected.
+
+User: Describe a character from the novel Pride and Prejudice.
+Assistant: Elizabeth Bennet is the protagonist of the novel Pride and Prejudice. She is a strong-willed, independent woman who is determined to make decisions based on her own evaluation of people and situations. She is also smart and witty, often using sarcasm and irony to make her points. She is not afraid to speak her mind and is unapologetic in her opinions, though she does struggle with judging people by their first impressions.
+
+User: Find the sum of the interior angles of a polygon with five sides.
+Assistant: The sum of the interior angles of a polygon with five sides is 540°.
+
+User: Write a blurb for a book about time travel.
+Assistant: A thrilling adventure of a lifetime awaits you in this novel about time travel! Follow the story of a young hero as they discover the possibilities of defying the laws of time and explore the various eras of history. Along their journey, they'll learn the secrets of the past and uncover secrets of the future through their mind-bending discoveries. Come along and explore the boundaries of time with this unique and compelling novel.
+
+User: Give me a short explanation of iodine.
+Assistant: iodine is chemical element with symbol I and atomic number 53 (type: lithophile).
+
+User: Tell me how the given two items are different.
+Context: Cat : Dog
+Assistant: Cats and dogs are different in many ways. Cats are more independent, prefer to live alone, and are agile climbers. Dogs are more social animals, tend to prefer the company of other canines, and are strong diggers. Cats have sharp claws that they use for climbing and self-defence. Dogs have large noses and stronger sense of smell. Cats can be litter box-trained and dogs can be house-trained. They require different care and training, so it is important to research the needs of both animals before making a commitment.
+
+User: Answer directly: Troubleshoot this quickly: responses look like shell snippets all the time.
+Assistant: Short plan for 'responses look like shell snippets all the time': identify the trigger, patch with 'rebalance data so command examples are a minority', then validate with before/after outputs.
+
+User: Given the following context, generate an appropriate title for a book.
+Context: The story follows a group of teenagers who rebel against the oppressive regime that has taken over their home.
+Assistant: Rising Up: The Courageous Rebellion of the Teenage Underground
+
+User: Keep it practical: explain selenium.
+Assistant: selenium is chemical element with symbol Se and atomic number 34.
+
+User: Keep it practical. I need to show package info. What command should I run in Python?
+Assistant: Try this: pip show torch This should show package info.
+
+User: Answer in simple words. Create a 60 minutes plan to prepare for a coding interview.
+Assistant: Use this 60 minutes structure for prepare for a coding interview: planning block, execution block, and a 10-minute retrospective.
+
+User: Describe a traditional wedding ceremony you attended
+Assistant: I recently attended a traditional wedding ceremony of a friend. The guests were welcomed with a ceremonial procession and the bride and groom were dressed in traditional attires. The ceremony was full of vibrant colors and lively music. Several rituals and traditions were performed such as exchanging of garlands, tying of the thaal, the vidaai, and blessings and wishes from elders. There was also delicious food and drinks, and the bride and groom exchanged gifts. The entire ceremony was delightful and was full of joy, laughter, and love.
+
+User: What is the time complexity of Bubble Sort?
+Assistant: The time complexity of Bubble Sort is O(n²), meaning that it requires O(n²) time to sort n elements.
+
+User: What is Q39208?
+Assistant: Q39208 is Educational Linux distribution. Notable date: 2005-01-01.
+
+User: What is Saint Lucia?
+Assistant: Saint Lucia is island sovereign state in the Caribbean Sea (type: Commonwealth realm). It is associated with Saint Lucia. Notable date: 1979-02-22.
+
+User: Be concise: what is Amish Crazy Quilt?
+Assistant: Amish Crazy Quilt: decorative artwork (fiber) by Lydia Beachy.
+
+User: Given the news headline, "New Chinese Economy Boom," write the opening of the article.
+Assistant: Recent reports have revealed a surge in the Chinese economy, with consumer spending and foreign investments reaching an unprecedented high. The news has brought much-needed optimism, as the country hasn't seen such promising growth in quite some time. The implications of this newfound economic stability will surely bring prosperity to the entire country.
+
+User: Give me a short explanation of Tajikistan.
+Assistant: Tajikistan is sovereign state in Central Asia. It is associated with Tajikistan. Notable date: 1991-09-09.
+
+User: Compare and contrast the use of web technologies between web 1.0 and web 2.0
+Assistant: The technology used in the original web (web 1.0) was limited to static webpages, and the primary focus was on the visual aspects of web design. Web 1.0 technologies lacked most of the interactivity and personalization that is commonplace today.
+
+The use of web technologies in web 2.0 are much more complex, with the focus being on the development of dynamic webpages that can offer user interaction, personalization, and social interaction. Content is the main emphasis, and user content and interaction is encouraged. This encourages the development of communities and apps using extensive backend programming.
+
+User: Generate a list of 10 marketing tips for a new e-commerce store.
+Assistant: 1. Identify your target audience and create content tailored to them. 
+2. Establish a social media presence on multiple platforms.
+3. Develop a strategy for email marketing.
+4. Run promotional campaigns to draw attention to your store.
+5. Send out personalized emails to nurture customer relationships.
+6. Utilize influencer marketing to reach new audiences.
+7. Implement SEO tactics to improve visibility.
+8. Analyze data to improve user experience on your site.
+9. Provide customers with special offers and discounts.
+10. Ensure that customers have access to quality customer support.
+
+User: Categorize the following tweet as positive, negative, or neutral: That was incredible!
+Assistant: Positive
+
+The difference between now and later is usually smaller than expected.
+
+User: Construct a sentence that uses the given words in the given order.
+Context: words: politics, control, economy
+order: control, economy, politics
+Assistant: Politics control the economy.
+
+User: What is gradient clipping in machine learning?
+Assistant: Gradient clipping caps large updates and helps stabilize training. Use small experiments and validation metrics to verify improvements.
+
+User: Generate a marketing slogan for a car company.
+Assistant: "The perfect drive, only with us!"
+
+User: Write a script for a customer service chatbot.
+Assistant: Customer: Hi, I'm having an issue with my product.
+
+Chatbot: Hi there, I'm happy to help. What kind of issue are you having?
+
+Customer: The product isn't working properly when I try to use it.
+
+Chatbot: Can you please explain the issue in more detail? Are you getting any error messages?
+
+Customer: Yes, when I try to click on the product, it displays an error message saying that it can't be loaded.
+
+Chatbot: I see. Have you tried restarting the product?
+
+Customer: Yes, I have already restarted the product multiple times, but the issue still persists.
+
+Chatbot: I understand. Could you please provide me with your product's serial number and your contact information so I can further investigate the issue? 
+
+Customer: Sure, my serial number is ...... and my contact information is ...... 
+
+Chatbot: Thank you for that information. I'll forward it to our technical team and have them look into the issue. I'll get back to you shortly with a resolution. Is there anything else I can help you with? 
+
+Customer: No, that's it. Thank you. 
+
+Chatbot: You're welcome. Have a great day! Please do not hesitate to reach out if you have any other questions. Goodbye!
+
+User: Be concise. How can I rebase current branch on main using Git?
+Assistant: Try this: git rebase main This should rebase current branch on main.
+
+User: Describe the characteristics of a play by Shakespeare.
+Assistant: William Shakespeare's plays are known for their multi-layered characters, complicated plotlines, vivid imagery, and witty and eloquent dialogue. His plays often involve themes such as love and relationships, loyalty and betrayal, and good versus evil. His works often involve theatrical devices like soliloquies, asides, and dramatic irony. His plays often explore complex human emotions and sometimes employ mechanicals, comic relief, and explosions of song and dance.
+
+User: Give me a short explanation of D.
+Assistant: D is multi-paradigm system programming language (type: generic programming language). Notable date: 2001-12-08.
+
+User: Jarvis, help me clean a training project with 8GB RAM.
+Assistant: Do this: isolate one bottleneck, patch one variable, then compare before and after output. Practical method: separate data prep, training loop, and evaluation into clear modules.
+
+User: Name a popular dish from Japan
+Assistant: Sushi is a popular dish from Japan.
+
+User: Give three examples of superstitions.
+Context: No input.
+Assistant: Three examples of superstitions are: spilling salt brings bad luck, breaking a mirror leads to seven years of bad luck, and crossing paths with a black cat brings misfortune.
+
+User: Keep it practical: explain Table/Cloth.
+Assistant: Table/Cloth is decorative artwork (fiber) by Cynthia Schira (type: fiber art). It is associated with United States. Notable date: 1998-01-01.
+
+User: Keep it practical: explain Candy Box.
+Assistant: Candy Box is decorative artwork (fiber) by Virginia R. Harris. It is associated with United States. Notable date: 1994-01-01.
+
+User: Explain the concept of centrifugal force.
+Assistant: Centrifugal force is an apparent force that appears to act on objects that are moving in a curved or circular path. This force is directed outward away from the center of the circle or curve and is equal to the object's mass multiplied by its velocity squared, divided by the radius of the circle. This force is responsible for the circular motion of objects in a centrifuge, where the object is pulled outward from the center of the circle.
+
+User: Classify the given object into one of the five major elements of the periodic table.
+Context: Helium
+Assistant: Helium is a noble gas from the periodic table.
+
+User: Give me a short explanation of HD 154857 c.
+Assistant: HD 154857 c is extrasolar planet (type: exoplanet).
+
+User: Find a definition for the term 'big O notation'
+Assistant: Big O notation is a mathematical notation that describes the limitation of an algorithm in relation to the input size. It measures the time complexity of an algorithm, i.e. the amount of time taken to execute it, and the space complexity, i.e. the amount of memory required. It is often used to compare different algorithms to determine which one is more efficient in terms of time and space.
+
+User: Identify which parts of the following code could be refactored.
+Context: def calculate_data(a, b, c):
+ result = []
+ for i in range(b):
+ result.append(a + c[i])
+ return result
+Assistant: This code could be refactored to improve readability and efficiency. A single line of code could be used instead of the for loop. The expression a + c[i] could be replaced with a simpler expression, such as a + b. In addition, an alternative data type (such as an array or map) could be used to store the result.
+
+User: Find the parallelogram drawn below the clues.
+Context: Clues: Opposite sides are parallel and equal. Adjacent sides are not parallel
+Assistant: A parallelogram has been drawn below with opposite sides that are parallel and equal and adjacent sides that are not parallel. 
+ 
+ ------------
+ | |
+ | |
+ | |
+ | |
+ ------------
+
+User: Construct an analogy to explain the given concept.
+Context: Concept: The relationship between cause and effect
+Assistant: The relationship between cause and effect is like a domino effect. When one domino falls, it causes the next one to fall, and so on until all of them are toppled. Similarly, when one event triggers a certain effect, this can lead to a chain reaction of further effects and consequences.
+
+User: Answer in simple words. I need to set an environment variable for current shell. What command should I run in PowerShell?
+Assistant: Try this: $env:MODE='dev' This should set an environment variable for current shell.
+
+User: Be concise: what is gold powder?
+Assistant: gold powder: gold in the form of or reduced to powder or in fine flake form used as a pigment, or for the preparation of coatings.
+
+User: Categorize this news article as a local or international story.
+Context: South Carolina Governor unveils $2 billion plan to redevelop coastal port.
+Assistant: Local story.
+
+User: Give me the date of the first human test flight of the Wright Flyer.
+Assistant: The first human test flight of the Wright Flyer took place on December 17, 1903. The Wright Brothers, Orville and Wilbur, piloted the aircraft and made multiple successful flights at the sand dunes at Kill Devil Hills, North Carolina. The Wright Flyer was the world's first successful powered aircraft, inspiring a new era of aviation.
+
+User: Give me a 60-minute plan to prepare tomorrow's work plan.
+Assistant: Use 60 minutes as 10% planning, 75% execution, 15% review with one concrete next action.
+
+User: Generate a random sequence of 12 letters.
+Assistant: gvhbzesqrfjz
+
+User: Create a 60 minutes plan to improve debugging speed.
+Assistant: Use this 60 minutes structure for improve debugging speed: planning block, execution block, and a 10-minute retrospective.
+
+User: Give me a short explanation of Dominica.
+Assistant: Dominica is island sovereign state in the Caribbean Sea. It is associated with Dominica. Notable date: 1978-01-01.
+
+User: Suggest a type of exercise that someone can practice indoors.
+Assistant: You can practice indoor exercises such as yoga, strength training, aerobics, Pilates, and resistance exercises using elastic bands or weights.
+
+User: Provide a definition for data mining.
+Assistant: Data mining is a process of extracting useful information from large sets of data. It involves applying various techniques, such as machine learning and data analysis, to identify trends, patterns, and relationships in data that are not self-evident. Data mining helps to discover hidden insights from data and make informed decisions. It is used in various applications such as risk assessment, fraud detection, customer segmentation, and predictive analytics.
+
+User: Categorize the following article as science fiction or fantasy
+Context: The story follows the life of a young man called Max as he travels through space and time to strange planets, searching for a way to save his doomed home planet from destruction. Along the way, he meets a variety of aliens, cyborgs, and robots with mysterious powers, and strives to discover the answers to the universe's most puzzling questions.
+Assistant: Science Fiction
+
+User: Create a connection between the two given concepts.
+Context: Concept 1: Evolution
+Concept 2: Adaptation
+Assistant: Adaptation is a process that is a result of evolutionary change. Organisms can evolve over time in response to their environment and the selection pressures it imposes, resulting in changes to their physical and chemical characteristics that allow them to better survive and reproduce.
+
+User: Divide the sentence into a subject and a predicate
+Context: The cat jumped up on the fence
+Assistant: Subject: The cat 
+Predicate: jumped up on the fence
+
+User: Keep it practical: explain Proxmox Virtual Environment.
+Assistant: Proxmox Virtual Environment is Linux distribution for server virtualization (type: hypervisor). Notable date: 2008-04-15.
+
+User: Explain the meaning of the following phrase.
+Context: "out of the box"
+Assistant: The phrase "out of the box" refers to an approach or solution to a problem which is creative or innovative in nature. It is used to indicate that a particular solution is not the traditional or stereotypical approach, but is instead a creative one.
+
+User: Write some code to calculate the area of a triangle given 3 sides.
+Assistant: """
+Calculate the area of a triangle given 3 sides
+"""
+
+def area_triangle(a, b, c): 
+ # calculate the semi-perimeter 
+ s = (a + b + c) / 2
+ 
+ # calculate the area 
+ area = (s * (s-a) * (s-b) * (s-c)) ** 0.5
+ return area 
+ 
+# Driver Code 
+# a, b, c are lengths of the sides of triangle
+a = 4
+b = 5
+c = 6
+print("Area of triangle is : %.2f" % area_triangle(a, b, c))
+
+User: Suggest a simpler word to replace the word in braces.
+Context: He traveled {inundated} with ideas.
+Assistant: He traveled inundated with ideas.
+
+User: What is the average temperature of Earth?
+Assistant: The average temperature of Earth is 15°C (59°F).
+
+User: Be concise: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Provide a forecast for the weather in Chicago for the next week.
+Assistant: Over the next week, the weather in Chicago is expected to be mostly sunny with highs in the mid 70s and lows in the low 50s. There is a chance of scattered showers on Tuesday and Wednesday.
+
+User: Give me a short explanation of HD 74156 b.
+Assistant: HD 74156 b is extrasolar planet (type: exoplanet).
+
+User: Name three winter sports.
+Assistant: The three winter sports are skiing, snowboarding, and ice hockey.
+
+User: Keep it practical: explain Dragora GNU/Linux-libre.
+Assistant: Dragora GNU/Linux-libre is Linux distribution. Notable date: 2009-03-13.
+
+User: Design a program for recognizing facial expressions.
+Assistant: Program for recognizing facial expressions:
+1. The program should first capture an image of the person's face from a camera or similar device. 
+2. The image should be processed by the program to identify and extract facial features, such as eyes, nose, mouth, and facial contours.
+3. A set of facial recognition algorithms should be used to match the extracted features to a list of facial expressions.
+4. A “confidence score” should be calculated and compared with a pre-defined confidence threshold.
+5. If the score meets the threshold, the program should recognize the facial expression. 
+6. The detected facial expression should be recorded, along with the relevant data such as timestamp, context, and device information.
+
+User: Keep it practical: explain carbon.
+Assistant: carbon is chemical element with symbol C and atomic number 6; common element of all known life (type: atmophile element).
+
+User: Make a list of five simple steps to being more mindful.
+Assistant: 1. Take a few moments to acknowledge and be mindful of your breathing. 
+2. Notice your physical sensations and become aware of your body.
+3. Observe your present emotions without judgment.
+4. Identify and reflect on any thoughts or worries that may come up.
+5. Use your five senses to appreciate the environment around you.
+
+User: Answer in simple words. Create a 60 minutes plan to ship a side project in one month.
+Assistant: For the next 60 minutes, focus on one outcome: ship a side project in one month. Start with setup, then one deep work block, then a short review.
+
+User: Be concise: what is Gentoo Linux?
+Assistant: Gentoo Linux: Linux distribution.
+
+User: How many paragraphs does the text have?
+Context: This is the first paragraph.
+
+This is the second one.
+
+And finally, the third.
+Assistant: The text has 3 paragraphs.
+
+User: Generate 3 possible jokes related to a given keyword.
+Context: Keyword: Pizza
+Assistant: 1. What do ghosts serve for pizza? Moaning-a-rella. 
+2. What did the pizza maker say when someone asked for mushrooms on their pizza? I, mushroom. 
+3. What did one slice of pizza say to the other? We have to stop meeting like this.
+
+User: Name three things that a first-time traveler should consider.
+Assistant: A first-time traveler should consider the cost of the trip, the length of the trip, and the activities they wish to take part in while on the trip.
+
+User: Find the derivative of f(x) = x^2 - 4x + 6.
+Assistant: The derivative of f(x) = x^2 - 4x + 6 is f'(x) = 2x - 4.
+
+User: Compare and contrast the English language and Mandarin.
+Assistant: English and Mandarin are two distinct languages with similarities and differences. English is an Indo-European language, consisting of a highly-developed vocabulary and an intricate spelling system. Mandarin is a Sino-Tibetan language with a tonal system, an abundance of loanwords, and a simplified writing system. English has an alphabet of 26 letters, while Mandarin uses an alphabet of hundreds of characters. English grammar is mostly straightforward and simple, while Mandarin grammar is complex and also uses sentence modifiers to indicate different meanings. Despite these differences, both languages have a wide range of regional dialects and share many sites of cultural importance, such as literature and poetry.
+
+User: Make a sketch/drawing of a summer beach scene.
+Assistant: <sketch/drawing>
+
+User: Analyze two websites for accessibility and make recommended improvements.
+Context: Website 1: www.example.com 
+Website 2: www.example2.com
+Assistant: Website 1:
+The color contrast does not meet standard accessibility requirements. Font size is too small for readability. Alt-text is lacking from many images which compromises accessibility. 
+
+Suggested improvements: Increase the font size, add contrast to the background, add descriptive alt-text to the images. 
+
+Website 2: 
+Layout is too cramped and difficult to navigate. Navigation tab is placed at bottom of page which is not very prominent or accessible.
+
+Suggested improvements: Make elements more spaced out, reorganize the navigation so that it is placed at the top or side of the page.
+
+User: Keep it practical: explain Dinner at Aunt Tilly's.
+Assistant: Dinner at Aunt Tilly's is decorative artwork (fiber) by Sue Pierce (type: fiber art). It is associated with United States. Notable date: 1993-01-01.
+
+User: Create an intriguing headline for an article about air pollution.
+Assistant: Breathing Danger: How Air Pollution is Threatening Our Health
+
+User: Name three different species of dinosaur.
+Assistant: Tyrannosaurus Rex, Triceratops, Stegosaurus.
+
+User: Give me a short explanation of Q4043450.
+Assistant: Q4043450 is exoplanet in the constellation Sagittarius.
+
+User: Give a short description of the given event.
+Context: World Economic Forum
+Assistant: The World Economic Forum is an annual international gathering of business, political, and academic leaders that focuses on creating solutions to the world's most pressing global challenges.
+
+User: Generate a sentence in Spanish that describes the natural beauty of Barcelona.
+Assistant: La naturaleza en Barcelona es espectacular, con su costa y su antiguo barrio gótico.
+
+User: Compare and contrast the two religions, Christianity and Islam.
+Assistant: Christians and Muslims both hold to the belief that there is only one God, but they differ in their beliefs surrounding His nature and uncovering His will. Christians believe Jesus is the Son of God who bridges the gap between the Creator and mankind, while Muslim believe that Mohammad is the messenger of God who communicates His will to the people. Additionally, Christianity focuses on the teachings of Jesus, worshipping Him as the Son of God, and Islam follows the Quran and the teachings of Mohammad, worshipping Allah as the one God.
+
+User: Jarvis, help me debug a Python script with no GPU.
+Assistant: Plan: define success first, run one controlled test, then keep only measurable improvements. Practical method: collect traceback, isolate minimal repro, patch, and retest.
+
+User: Classify this sentence into one of the following topics: education, politics, technology, sports
+Context: Apple's new Iphone was released today.
+Assistant: Technology
+
+User: List ways to improve the user experience when buying online.
+Assistant: There are several ways to improve the online user experience when shopping. One is to make the shopping process as streamlined and frictionless as possible by minimizing the number of steps required. Make sure checkout forms are simple and easy to understand, with clear labels and instructions. Provide helpful customer service such as FAQs and chatbot support to help customers should they have any questions. Additionally, ensure that customers have access to the payment options that they prefer. Offer a variety of payment methods including credit and debit cards, PayPal, and digital wallets and provide customers with the assurance that their payments are secure. Finally, make sure that the delivery process is easy and efficient, with timely and accurate delivery updates.
+
+User: Suggest a framework for developing a predictive analytics model.
+Assistant: A framework for developing a predictive analytics model includes the following steps: data collection, data cleaning and preparation, model selection and training, model testing and validation, deployment and monitoring.
+
+User: Describe your favorite holiday destination.
+Context: No input
+Assistant: My favorite holiday destination is the island of Crete in Greece. I love the beautiful sandy beaches, crystal clear waters, and picturesque views. This island is home to many archaeological and historical sites that offer a glimpse into its rich past. There are many popular tourist destinations such as the Palace of Knossos and the Venetian Fortress in Chania. The people are very friendly and the food is delicious, particularly the traditional Greek dishes. I can't wait to go back one day and explore more of this wonderful island.
+
+User: Keep it practical: explain Ononkwashon: a/Medicine Plants.
+Assistant: Ononkwashon: a/Medicine Plants is decorative artwork (fiber) by Marlana Thompson. It is associated with United States. Notable date: 2020-01-01.
+
+User: What is Beijing?
+Assistant: Beijing is capital city of China (type: direct-administered municipality). It is associated with People's Republic of China.
+
+User: Compose a short song that is 20 seconds long.
+Assistant: Verse 1:
+Oh, don't cry if you feel down 
+You'll make it through with a smile, not a frown 
+Step away, take a break 
+Until you can find some peace and say
+
+Chorus:
+It's alright, it's alright 
+Find your strength, it's all inside 
+It's alright, it's alright 
+You can stand strong and get through tonight
+
+Verse 2:
+Shake off all the worries and pain 
+Let it all go and take back the reign 
+You can do this, this is your moment 
+Take a deep breath, it's time to go in
+
+Chorus: 
+It's alright, it's alright 
+Find your strength, it's all inside 
+It's alright, it's alright 
+You can stand strong and get through tonight
+
+Bridge:
+No more doubt or fear 
+Let's get up, let's do it right here 
+It's alright, it's alright
+It's alright, it's alright 
+It's alright, it's alright 
+You can stand strong and get through tonight 
+
+Outro:
+It's alright, it's alright 
+Find your strength and get through tonight!
+
+User: List 5 famous Italian dishes.
+Assistant: 1. Pizza Margherita
+2. pasta alla carbonara
+3. risotto alla milanese
+4. lasagna alla bolognese
+5. Caprese salad.
+
+User: What is nitrogen?
+Assistant: nitrogen is chemical element, symbol N and atomic number 7; most abundant element in Earth atmosphere.
+
+User: What type of document is this?
+Context: This is a memo from a manager to his team, discussing an upcoming project.
+Assistant: This is a memo.
+
+User: Answer directly: What is the PowerShell command to show running Python processes?
+Assistant: Get-Process | Where-Object { $_.ProcessName -like '*python*' }
+Use it to show running Python processes.
+
+User: Generate a question about galaxies and their structure.
+Assistant: What is the typical structure of a galaxy?
+
+User: Edit the following sentence to remove any redundant words.
+Context: My opinion is that the food was too bad.
+Assistant: I think the food was bad.
+
+User: Keep it practical: explain magnesium.
+Assistant: magnesium is chemical element, symbol Mg and atomic number 12 (type: lithophile).
+
+User: Rewrite the given sentence to incorporate an Hyperbole
+Context: She was so excited.
+Assistant: She was beyond ecstatic.
+
+User: Identify the types of conflict in the following excerpt.
+Context: The astronauts knew the risks that came with this mission, but decided to go for the greater glory.
+Assistant: The conflict in the excerpt is an internal conflict between safety and ambition.
+
+User: Rewrite the sentence so that it contains an appropriate metaphor.
+Context: It appears that the sun is trying to break through the clouds.
+Assistant: It appears that the sun is struggling to break through the grey clouds.
+
+User: Keep it practical: explain HD 47186 b.
+Assistant: HD 47186 b is extrasolar planet (type: exoplanet).
+
+User: Rewrite the following statement to use a comparative form.
+Context: Jupiter is the fifth planet from the sun.
+Assistant: Jupiter is the fifth planet closest to the sun.
+
+User: Analyze the sentiment of this tweet.
+Context: It's so sad that I have to miss my friend's birthday because of work.
+Assistant: The sentiment expressed in the tweet is disappointment and sadness.
+
+User: Generate a creative story about a princess and a dragon.
+Assistant: Once upon a time, there was a princess who had been cursed by an evil witch. She was sent to live deep in the forest, and she was forbidden to ever leave. One day, while exploring deep in the forest, she stumbled across a cave hidden in the rocks. Inside the cave was a young dragon, who had been cursed by the same witch. The prince and the dragon became fast friends and together they ventured out into the world, fighting off the witch's spells and magical creatures with their newfound courage. And they were never apart again.
+
+User: Keep it practical: explain Bengaluru.
+Assistant: Bengaluru is capital city of Karnataka state in India (type: provincial capital). It is associated with India. Notable date: 1537-01-01.
+
+User: Be concise: what is 14 Andromedae b?
+Assistant: 14 Andromedae b: extrasolar planet.
+
+User: Explain what wind power is.
+Assistant: Wind power is a form of renewable energy that is generated by harnessing the natural power of the wind. Wind turbines are used to convert the kinetic energy in wind into electrical energy, which can then be used to power homes and businesses.
+
+User: Answer directly: Give me a quick PowerShell one-liner to show running Python processes.
+Assistant: Run `Get-Process | Where-Object { $_.ProcessName -like '*python*' }`. It directly handles: show running Python processes. If you want, I can provide a shorter version.
+
+User: Keep it practical: explain arsenic.
+Assistant: arsenic is chemical element with symbol As and atomic number 33 (type: chalcophile element).
+
+User: Generate a list of five new countries which could host the 2026 World Cup.
+Assistant: Australia; Brazil; Canada; China; Costa Rica.
+
+User: Simplify the following complex sentence.
+Context: Though the number of people using the Internet has increased dramatically, there are still many who do not have regular access to this technology.
+Assistant: Internet use has grown, but many still lack access.
+
+User: Name five medicinal plants widely used in Ayurveda.
+Assistant: The five medicinal plants widely used in Ayurveda are Ashwagandha, Turmeric, Neem, Aloe Vera, and Guduchi. These plants are known for their healing properties, aiding in treating ailments such as digestive disorders, skin diseases, diabetes, and other conditions.
+
+User: Provide a scalar estimation on the following statement.
+Context: Movies adapted from books are often better than the book itself.
+Assistant: I would rate the statement true. Movies adapted from books often provide more detail and a deeper understanding of the story, making it more enjoyable than just reading it. Although book purists may argue to the contrary, it's my personal opinion that movies adapted from books can often be better than the original book.
+
+User: Keep it practical: explain MoviX.
+Assistant: MoviX is multimedia playback-oriented GNU/Linux distribution. Notable date: 2003-09-25.
+
+User: Give me a short explanation of TypeScript.
+Assistant: TypeScript is programming language, superset of JavaScript that compiles to JavaScript (type: high-level programming language). Notable date: 2012-10-01.
+
+User: Keep it practical. Give me the Git command to view last 5 commits.
+Assistant: Use: git log --oneline -n 5 That is the direct way to view last 5 commits.
+
+User: Write five pros of online education.
+Assistant: 1. Increased flexibility and convenience for students of all ages.
+2. Reduced cost to attend classes. 
+3. Wider selection of course topics and programs. 
+4. Ability to learn from anywhere in the world.
+5. Easily access lectures, notes, and other course materials.
+
+User: Generate a three-sentence story based on the given input.
+Context: A snowman in a dark forest
+Assistant: Once upon a time, there was a snowman in a dark and mysterious forest. He was alone and scared, but he was also excited about exploring this new place. As he ventured further and further into the forest, he became more and more upbeat and happy. He soon discovered a family of rabbits living in the forest, and he became friends with them.
+
+User: Compare and contrast the American and Chinese education systems.
+Assistant: The American and Chinese education systems differ in many respects. In the US, education is highly decentralized with each state and local community having its own systems of teacher certification, curriculum and assessment standards. The US education system also has greater emphasis on individual achievement, encouraging children to become independent thinkers, problem solvers and innovators. In contrast, the Chinese education system is highly centralized, with a single national curriculum and a standardized test determining university entrance. Further, the Chinese system emphasizes the collective, with an emphasis on learning by memorizing, rather than independent thinking and problem solving. While both systems produce excellent students, the US education system is more adaptive to individual needs and encourages more critical thinking, while the Chinese system is more focused on the collective and preparing students for standardized tests.
+
+User: Can you answer briefly?
+Assistant: Yes. I can keep answers concise and practical.
+
+User: Name four different types of transportation.
+Assistant: Planes, trains, automobiles, and boats.
+
+User: Give me a short explanation of Mumbai.
+Assistant: Mumbai is capital city in Maharashtra, India (type: provincial capital). It is associated with India. Notable date: 1507-01-01.
+
+User: Describe a system that utilizes artificial intelligence to match people with jobs.
+Assistant: The system would involve using artificial intelligence to analyze an individual's skillset and career goals, then match them to available jobs in the market that match their desired criteria. This AI system can use a variety of data sources, such as resumes, job descriptions, employer reviews, and public data sources, to determine the best matches between people and jobs. The AI could also learn over time and become increasingly accurate at matching individuals with jobs, as well as providing comprehensive career guidance and advice.
+
+User: Keep it practical: explain Bern.
+Assistant: Bern is city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland (type: Municipality of Switzerland). It is associated with Switzerland. Notable date: 1191-01-01.
+
+User: Create a list of 5 main points to cover in a speech about the importance preserving the environment.
+Assistant: 1. Environmental degradation is a serious problem and needs immediate attention.
+2. Climate Change affects our water, food, air and environment.
+3. We need to reduce our consumption of fossil fuels and move towards renewable energy sources.
+4. We need to expand our use of sustainable technology, protecting the environment and maintaining natural resources.
+5. Restricting climate change and pollution is important to preserve our biodiversity and maintain the ecosystems that we rely on.
+
+User: What is Zores section?
+Assistant: Zores section is railway beam section designed by Charles Ferdinand Zores (type: hollow structural section).
+
+User: What is the difference between a porcupine and a hedgehog?
+Assistant: The main difference between a porcupine and a hedgehog is that a porcupine has longer and sharper quills than a hedgehog. Porcupines also tend to be larger and have thicker fur than hedgehogs.
+
+User: Choose an animal to be the mascot of your sports team
+Assistant: I would choose a lion as the mascot of my sports team. Lions symbolize strength, power, and courage, all important qualities of a successful sports team.
+
+User: Explain the role of a computer scientist in the modern world.
+Assistant: The role of a computer scientist in the modern world is to create, maintain, and improve the technology that powers our lives. Computer scientists are at the forefront of developing new software, hardware, and networks to make our lives easier and more efficient. They create innovative algorithms and architectures to solve complex tasks and problems, optimize existing systems, and develop new systems and technologies. Computer scientists collaborate with other professionals in different fields such as life sciences, engineering, and economics to find solutions to the most challenging problems. They also develop information and communication systems to supplement and improve existing systems. By using their creativity, technical skills, and knowledge, computer scientists are making a huge impact on the world and making our lives safer and easier.
+
+User: Please edit this sentence to correct the grammar and spelling mistakes.
+Context: I am intersted in engineering for the furure
+Assistant: I am interested in engineering for the future.
+
+User: Compare two given characters
+Context: Mario and Luigi
+Assistant: Mario is the main character of the Mario series, while Luigi is his brother and a sidekick to Mario in the games. They have similar abilities and gameplay styles, but Luigi has higher jump abilities than Mario and is the only character who can use power-ups like the Poltergust and Super Poltergust.
+
+User: Rewrite this line of dialogue to make it more dynamic:
+Context: "I'm bored"
+Assistant: "My time is running out and I'm so bored!"
+
+User: What is lithium?
+Assistant: lithium is chemical element with symbol Li and atomic number 3 (type: active metal).
+
+User: Be concise. How do I reduce stress quickly?
+Assistant: Take slow breaths, move for 10 minutes, and write your top next actions.
+
+User: Answer in simple words. Create a 2 hours plan to learn Python for automation.
+Assistant: For the next 2 hours, focus on one outcome: learn Python for automation. Start with setup, then one deep work block, then a short review.
+
+User: Extract all the nouns from the sentence and output them in a list.
+Context: The quick brown fox jumps over the lazy dog.
+Assistant: ['fox', 'dog']
+
+User: Add three points to a list of writing tips.
+Context: Read your work aloud and listen for errors, proofread, and revise as needed.
+Assistant: 1. Take regular breaks from writing to clear your head.
+2. Make an outline of the points that you want to convey to the reader.
+3. Use the active voice to make your writing more engaging.
+4. Read your work aloud and listen for errors, proofread, and revise as needed.
+5. Pay attention to grammar, spelling, and other conventions of writing.
+6. Ask for feedback from other people if possible.
+
+User: Be concise: what is HAT-P-9 b?
+Assistant: HAT-P-9 b: extrasolar planet in constellation Auriga.
+
+User: Find out which keyword has the highest monthly search volume among the following keywords.
+Context: Keywords: artificial intelligence, machine learning, neural networks
+Assistant: According to Google Trends, the keyword with the highest monthly search volume is "artificial intelligence".
+
+User: Answer directly: Troubleshoot this quickly: training is too slow on CPU.
+Assistant: Short plan for 'training is too slow on CPU': identify the trigger, patch with 'reduce eval frequency and keep thread count close to physical cores', then validate with before/after outputs.
+
+User: What is Saint Vincent and the Grenadines?
+Assistant: Saint Vincent and the Grenadines is island sovereign state in the Caribbean Sea (type: country). It is associated with Saint Vincent and the Grenadines. Notable date: 1979-01-01.
+
+User: Create an outline of the steps to create an essay.
+Assistant: 1. Understand the essay topic
+2. Create a thesis statement
+3. Brainstorm ideas
+4. Develop an outline
+5. Write the introduction
+6. Write the body of the essay
+7. Summarize the argument
+8. Write the conclusion
+9. Revise and edit the essay
+
+User: Be concise: Keep it practical: Good morning
+Assistant: Good morning. What is the most important thing you want to finish today? If you want, I can provide a shorter version.
+
+User: Format and organize the following unstructured text information into a table.
+Context: Name: Peter
+Age: 43
+Gender: Male
+Occupation: Doctor
+Assistant: | Name | Age | Gender | Occupation |
+|------|-----|--------|------------|
+|Peter | 43 | Male | Doctor |
+
+User: Explain why the following sentence is inappropriate for a formal setting: “Can’t wait to party tonight!”
+Assistant: The sentence is inappropriate for a formal setting because it is too informal for the type of setting. It would be better to use a more professional language that is appropriate for the event.
+
+User: Create a movie review for the movie Frozen, expressing your opinion and giving it a score from 1-10.
+Assistant: I recently saw the movie Frozen and I must say I was truly impressed. The animation was incredible and the soundtrack was incredibly catchy. The overall story was really touching and I found myself connecting with the characters. I definitely recommend this movie to anyone who loves animation and stories that stay with you. I give it a solid 9 out of 10.
+
+User: Give me the Python command to start a local web server.
+Assistant: Recommended command: python -m http.server 8000 Run it in Python to start a local web server.
+
+User: Give me a short explanation of Cap.
+Assistant: Cap is decorative artwork (jewelry) by Marguerite Zorach (Smithsonian American Art Museum, 1968.87.13). It is associated with United States. Notable date: 1887-01-01.
+
+User: Create a program to solve the following equation.
+Context: x + y = 6
+Assistant: Solution: 
+
+For any given two numbers x and y, 
+x + y = 6
+y = 6 - x 
+where x and y are variables.
+
+Therefore, the solution to x + y = 6 is y = 6 - x.
+
+User: Suggest three methods to improve communication in the workplace.
+Assistant: 1. Encouraging open dialogue: Encouraging open dialogue allows employees to freely express their thoughts without fear of criticism or judgement. This can help to foster a collaborative working environment and improve communication.
+
+2. Implementing online communication tools: Utilizing online communication tools such as instant messaging, video conferencing, and document sharing platforms can help to improve workplace communication across remote teams and improve productivity.
+
+3. Improving listening skills: Improving the listening skills of employees can be beneficial in the workplace. Encouraging employees to be attentive listeners and actively participate in conversations can help to create a culture of collaboration.
+
+User: Construct a shopping list from the ingredients given.
+Context: Ingredients: tomatoes, onions, potatoes, celery, garlic
+Assistant: - Tomatoes
+- Onions
+- Potatoes
+- Celery
+- Garlic
+
+User: Given a list of ingredients, create a recipe for a vegan curry.
+Context: 2 cans of chickpeas, 1 onion, 1 clove of garlic, 1 inch ginger, 1 teaspoon cumin, 1 teaspoon curry powder, 1 teaspoon turmeric
+Assistant: Vegan Curry
+Ingredients: 
+• 2 cans of chickpeas 
+• 1 onion, diced
+• 1 clove of garlic, finely minced
+• 1 inch of ginger, grated
+• 1 teaspoon cumin
+• 1 teaspoon curry powder
+• 1 teaspoon turmeric
+Instructions: 
+1. Heat oil in a large saucepan over medium heat.
+2. Add the onion, garlic and ginger. Cook until onions are translucent, about 5 minutes.
+3. Add the spices and stir until fragrant. 
+4. Add the chickpeas and stir to evenly coat with the spice mix. 
+5. Add 1 cup of water and bring to a gentle simmer.
+6. Cook for 15 minutes or until the sauce has thickened and the chickpeas are soft.
+7. Serve over cooked rice, quinoa or cauliflower rice. Enjoy!
+
+User: Generate a poem that expresses joy.
+Assistant: Joy flows through me like a river clear,
+Bringing laughter and bliss to my soul to hear.
+
+The world is bright and wonderful, I can see,
+Making every moment something happy and free.
+
+My heart feels light, my cares have flown,
+As I discover what happiness gives me alone.
+
+I open my arms and accept the joy,
+Bringing life to my song, so sweet like a toy.
+
+Every moment is a precious gift,
+That I savor and never let drift.
+
+User: Classify the following sentence as a statement or a question.
+
+Humans are mammals.
+Assistant: Statement.
+
+User: What are the benefits of using a task-oriented chatbot?
+Assistant: The benefits of using task-oriented chatbots include reduced costs compared to having a human staff, improved customer service, faster and more accurate response times, better customer understanding, customization for specific use cases, and potential for natural language understanding.
+
+User: Keep it practical: explain Kepler-12b.
+Assistant: Kepler-12b is extrasolar planet (type: exoplanet).
+
+User: Name three different types of neural networks.
+Assistant: Three types of neural networks are supervised learning, unsupervised learning and reinforcement learning networks. Supervised learning networks use labeled data, unsupervised learning networks use unlabeled data, and reinforcement learning networks use trial and error to learn from their mistakes.
+
+User: Diagnose the following medical symptoms.
+Context: Patient was experience chest pain, a feeling of weakness and fatigue, along with cold sweats and difficulty breathing.
+Assistant: The patient may be suffering from a heart attack and medical attention should be sought immediately. The patient should be checked for signs of heart attack such as chest pain, shortness of breath, cold sweats, nausea, and feeling of lightheadedness or dizziness. Additionally, the patient should be checked for other related issues such as high blood pressure, diabetes or cardiac arrhythmias. It is important to note that any heart-related issues can be very dangerous and require immediate medical attention.
+
+User: Give the Spanish translation for "fox".
+Assistant: The Spanish translation for "fox" is "zorro".
+
+User: Develop a web-based application that does the following
+Context: Sorts images according to category
+Assistant: This web-based application should use a database to store the images and associated categorization information. The application should allow users to upload images and assign tags to them. Additionally, there should be an interface which provides the ability to search and filter the images by tags. Lastly, the application should use computer vision techniques, like object detection and image classification, to sort the images into categories.
+
+User: Keep it practical: explain Q15777.
+Assistant: Q15777 is general-purpose programming language (type: structured programming language). Notable date: 1972-01-01.
+
+User: Describe a perfect weekend getaway.
+Assistant: A perfect weekend getaway would involve traveling to a remote location, surrounded by nature. The ideal settings would include a beach, mountains, and forests, providing the opportunity to explore and relax. During the daytime, you could hike or kayak, discovering the surrounding area and taking in the scenery. As night falls, you can spend time around a bonfire, watching the stars, and listening to the beautiful sounds of nature.
+
+User: Give me a short explanation of Alexandria.
+Assistant: Alexandria is city in the state of Virginia, United States (type: independent city in the United States). It is associated with United States. Notable date: 1749-01-01.
+
+User: Explain the main differences between an AI model and a Machine Learning Model.
+Assistant: The main difference between an AI model and a Machine Learning Model is the scope of tasks they are designed to complete. AI models are made to mimic human intelligence in order to solve problems autonomously and is more advanced when it comes to decision making. Machine Learning models are usually used to interpret large datasets made up of many detailed variables and to make predictions based on them. AI is often underpinned by Machine Learning, but provides a more complex, human like thinking capability, while Machine Learning is more focused on analyzing data and providing a prediction or result.
+
+User: Identify four bias terms that you can find in this news article.
+Context: The president has recently taken drastic measures to deal with the economic downturn.
+Assistant: The four bias terms in this news article are "president", "drastic measures", "economic downturn", and "recently".
+
+User: Explain how a GPT Language model works with an example.
+Assistant: A GPT (Generative Pre-trained Transformer) Language model works by using a self-attention mechanism to combine the context of a given text with its preceding text thus making it adept in predicting a suitable next word or sentence. For example, if the preceding sentence is "The dog was looking for," a GPT Language model may suggest "food" as the subsequent word with a high rate of confidence.
+
+User: Identify the errors in the sentence and suggest a correction.
+Context: I saw a good movie this days.
+Assistant: The sentence should read: "I saw a good movie these days." The error is in the use of "this" instead of "these".
+
+User: How can I list installed packages using Python?
+Assistant: Recommended command: pip list Run it in Python to list installed packages.
+
+User: Construct a three-dimensional model of a prism using a square base.
+Assistant: A three-dimensional model of a prism with a square base can be constructed using geometric shapes. Start by drawing a square on a flat surface and connecting the opposite corners with straight lines. Then, draw connecting lines from the top corners of the square to the top corners of the connected lines, creating a triangular shape. This will form the sides of the prism. Finally, connect the bottom corners of the triangle to the bottom corners of the square to form the base of the prism.
+
+User: Generate a list of 5 things a student should keep in mind when studying for an exam.
+Assistant: 1. Start studying early and pace yourself so you don't feel overwhelmed.
+2. Break down the material into manageable chunks and focus on understanding it thoroughly.
+3. Take regular breaks to allow your mind to rest and recharge.
+4. Create a study plan so you can make the most of your time and stay on track.
+5. Make sure to practice plenty of exercises to test your knowledge.
+
+User: Jarvis, troubleshoot: checkpoint quality regresses.
+Assistant: Start with diagnosis, then patch in small steps. Main fix: keep best checkpoint and use early-stop patience. Retest on the same prompts after each change.
+
+User: Define what a neural network is.
+Assistant: A neural network is a computer system modeled on the human brain and nervous system. It consists of a network of neurons connected via synapses, which are constantly exchanging information in the form of electrical signals. These networks have the ability to learn by adjusting connections and assigning weights to inputs in order to predict output based on prior experience. Neural networks are used in a variety of applications such as speech recognition, image recognition, natural language processing, machine learning, and forecasting.
+
+User: Who are the top 5 richest people in the world and what are their current net worth?
+Assistant: The five wealthiest individuals in the world, according to Forbes' Billionaires list, are Jeff Bezos of Amazon ($191.1B), Bill Gates of Microsoft ($145.8B), Bernard Arnault of LVMH ($114.6B), Warren Buffett of Berkshire Hathaway ($114.2B) and Mark Zuckerberg of Facebook ($84.5B). These five people, in total, have a combined net worth of over 630 billion dollars.
+
+User: Design an icon associated with a new social media platform.
+Assistant: The icon should be a circular shape with a sun-like image in the center. It should have bold, vibrant colors to give it an energized and modern feel. Additionally, the use of vibrant colors will provide an instantly recognizable symbol associated with the new social media platform.
+
+User: Summarize a historical event in one sentence.
+Context: The French Revolution
+Assistant: The French Revolution was a period of social and political upheaval in France from 1789 to 1799.
+

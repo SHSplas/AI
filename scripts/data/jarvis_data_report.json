@@ -1,0 +1,88 @@
+{
+  "raw_source_sizes": {
+    "Easy.txt": 0,
+    "Medium.txt": 0,
+    "Hard.txt": 0,
+    "input.txt": 0,
+    "jarvis_mix_train.txt": 0,
+    "jarvis_refine_train.txt": 0,
+    "jarvis_voice_executor_train.txt": 0,
+    "web_wikidata_qa.txt": 0
+  },
+  "synthetic_rows_added": 348,
+  "rows_before_dedupe": 348,
+  "rows_after_dedupe": 328,
+  "rows_after_diversity_caps": 252,
+  "rows_after_source_caps": 252,
+  "train_rows_written": 239,
+  "val_rows_written": 13,
+  "train_source_counts": {
+    "jarvis_chat": 38,
+    "jarvis_debug": 61,
+    "jarvis_safety": 3,
+    "jarvis_seed": 61,
+    "jarvis_tools": 76
+  },
+  "val_source_counts": {
+    "jarvis_chat": 2,
+    "jarvis_debug": 3,
+    "jarvis_safety": 1,
+    "jarvis_seed": 3,
+    "jarvis_tools": 4
+  },
+  "top_duplicate_assistants_before_caps": [
+    {
+      "count": 20,
+      "assistant_preview": "i cannot help with harmful or illegal actions. if you are doing defensive security work, i can help with hardening and incident response."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "hi. i am ready. tell me your goal and i will help you execute it."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "good morning. what is the most important thing you want to finish today?"
+    },
+    {
+      "count": 12,
+      "assistant_preview": "yes. pick one target, start a timer, and ignore everything else until that block ends."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "use the next 30 minutes for one task: setup for 3 minutes, execution for 22, review for 5."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "shrink the task. start with one tiny action you can finish in five minutes."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "that is normal. we will isolate issues one by one and convert each into a stable fix."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "do short daily practice, review errors, and build one small project each week."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "yes. i will be direct, practical, and specific."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "ask for a simpler version and i will rewrite it with concrete examples."
+    },
+    {
+      "count": 12,
+      "assistant_preview": "yes. we will improve data quality, training stability, and chat decoding in small measurable steps."
+    },
+    {
+      "count": 4,
+      "assistant_preview": "i am jarvis, a compact ai assistant for coding, planning, and practical problem solving."
+    }
+  ],
+  "output_files": {
+    "train": "data\\jarvis_train.txt",
+    "val": "data\\jarvis_val.txt",
+    "eval_prompts": "data\\jarvis_eval_prompts.txt"
+  }
+}

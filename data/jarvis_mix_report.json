@@ -1,0 +1,13 @@
+{
+  "seed": 1337,
+  "val_ratio": 0.08,
+  "general_train_used": 3000,
+  "general_val_used": 229,
+  "refine_train_used": 496,
+  "refine_val_used": 77,
+  "boosted_refine_rows": 322,
+  "mix_train_rows": 3510,
+  "mix_val_rows": 585,
+  "out_train": "data\\jarvis_mix_train.txt",
+  "out_val": "data\\jarvis_mix_val.txt"
+}
