@@ -1,2 +1,0 @@
-# This file will contain commands for jarvis_executor.py to run.
-# Example: Start-Process notepad.exe
