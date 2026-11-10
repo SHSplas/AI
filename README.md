@@ -27,8 +27,8 @@ I tried to keep the code readable with comments so it doesn’t turn into a mess
 I did use AI tools during development to:
 - debug issues
 - improve performance a bit
-- clean up explanations and comments
 
-But the actual ideas + structure + decisions are still mine.
+
+But the actual ideas, structure, and decisions are still mine.
 
 ##  Project structure
